@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Core Java MCQ Quiz</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="app">
+
+    <h1 class="heading">Core Java MCQ Quiz</h1>
+    <p class="app-subtitle">Practice Core Java MCQs topic-wise with instant feedback.</p>
+
+
+    <div class="controls">
+      <label for="topicSelect">Select topic:</label>
+      <select id="topicSelect"></select>
+
+      <button id="startBtn">Start Quiz</button>
+    </div>
+
+    <div id="quizContainer" class="hidden">
+      <div class="status">
+        <span id="qCounter"></span>
+        <span id="topicLabel"></span>
+      </div>
+
+      <div id="questionText"></div>
+      <div id="optionsList"></div>
+
+      <button id="nextBtn" disabled>Next</button>
+      <div id="quizContainer" class="hidden">
+  <div class="status">
+    <span id="qCounter"></span>
+    <span id="topicLabel"></span>
+  </div>
+
+  <!-- Glassmorphism progress bar -->
+  <div class="progress-wrapper">
+    <div class="progress-track">
+      <div id="progressFill" class="progress-fill"></div>
+    </div>
+    <span id="progressPercent" class="progress-percent">0%</span>
+  </div>
+
+  <div id="questionText"></div>
+  <div id="optionsList"></div>
+
+  <button id="nextBtn" disabled>Next</button>
+</div>
+
+    </div>
+
+    <div id="resultContainer" class="hidden">
+      <h2>Result</h2>
+      <p id="scoreText"></p>
+      <button id="restartBtn">Restart</button>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,13569 @@
+📘 TOPIC 1: HISTORY OF JAVA
+
+(~30 Screening-Level MCQs | Naresh IT style)
+
+Q1. Java was originally developed by:
+
+A. Microsoft
+B. Sun Microsystems
+C. Oracle
+D. IBM
+
+Ans: B
+
+Q2. The main developer of Java is:
+
+A. Dennis Ritchie
+B. Bjarne Stroustrup
+C. James Gosling
+D. Guido van Rossum
+
+Ans: C
+
+Q3. Java was initially known as:
+
+A. Oak
+B. Pine
+C. Cedar
+D. Maple
+
+Ans: A
+
+Q4. Java was originally designed for:
+
+A. Desktop applications
+B. Web applications
+C. Embedded systems
+D. Mobile applications
+
+Ans: C
+
+Q5. Java was first used in:
+
+A. Banking software
+B. Set-top boxes
+C. Mobile phones
+D. Desktop PCs
+
+Ans: B
+
+Q6. Java 1.0 was officially released in:
+
+A. 1993
+B. 1994
+C. 1995
+D. 1996
+
+Ans: C
+
+Q7. Java became popular mainly because of:
+
+A. Android
+B. Internet and WWW
+C. Desktop GUI
+D. Cloud computing
+
+Ans: B
+
+Q8. Which company originally owned Java?
+
+A. Oracle
+B. IBM
+C. Sun Microsystems
+D. Google
+
+Ans: C
+
+Q9. Oracle acquired Sun Microsystems in:
+
+A. 2007
+B. 2008
+C. 2009
+D. 2010
+
+Ans: D
+
+Q10. Java was named after:
+
+A. An island
+B. A programming term
+C. Coffee
+D. A scientist
+
+Ans: C
+
+Q11. The Java development team was known as:
+
+A. Red Team
+B. Blue Team
+C. Green Team
+D. Yellow Team
+
+Ans: C
+
+Q12. Java was designed to be:
+
+A. Hardware dependent
+B. OS specific
+C. Platform independent
+D. Architecture dependent
+
+Ans: C
+
+Q13. Java syntax is most similar to:
+
+A. Python
+B. C++
+C. Smalltalk
+D. Ruby
+
+Ans: B
+
+Q14. Which feature was removed from C++ in Java for safety?
+
+A. Classes
+B. Inheritance
+C. Pointers
+D. Objects
+
+Ans: C
+
+Q15. Java initially targeted which operating system?
+
+A. Windows
+B. Linux
+C. Solaris
+D. macOS
+
+Ans: C
+
+Q16. Java was designed to support:
+
+A. Single-threading
+B. Multithreading
+C. No threading
+D. OS-dependent threading
+
+Ans: B
+
+Q17. Java gained early success because it supported:
+
+A. Mobile apps
+B. Web browsers (applets)
+C. Desktop gaming
+D. AI systems
+
+Ans: B
+
+Q18. Java was created to solve which major problem?
+
+A. Low speed
+B. Platform dependency
+C. Memory shortage
+D. Syntax complexity
+
+Ans: B
+
+Q19. Java’s design goal emphasized:
+
+A. Low-level programming
+B. Direct hardware access
+C. Security and portability
+D. Assembly integration
+
+Ans: C
+
+Q20. Java is often called “safe” because:
+
+A. It uses pointers
+B. It allows direct memory access
+C. It avoids pointer arithmetic
+D. It uses macros
+
+Ans: C
+
+Q21. Java was intended for which type of devices initially?
+
+A. High-end servers
+B. Low-memory consumer devices
+C. Supercomputers
+D. AI processors
+
+Ans: B
+
+Q22. Java became open-source (OpenJDK) in:
+
+A. 2004
+B. 2005
+C. 2006
+D. 2008
+
+Ans: C
+
+Q23. Java’s popularity increased in the mid-1990s due to:
+
+A. Android OS
+B. Browser-based applications
+C. Cloud platforms
+D. Desktop IDEs
+
+Ans: B
+
+Q24. Java was marketed with the slogan:
+
+A. Code once, debug everywhere
+B. Write once, run anywhere
+C. Build once, deploy anywhere
+D. Run anywhere, compile once
+
+Ans: B
+
+Q25. Java is maintained primarily by:
+
+A. Open-source community only
+B. Oracle Corporation
+C. Microsoft
+D. IBM
+
+Ans: B
+
+Q26. Java avoided which feature to improve reliability?
+
+A. Objects
+B. Classes
+C. Pointer arithmetic
+D. Methods
+
+Ans: C
+
+Q27. Java was created as part of which project?
+
+A. Blue Project
+B. Red Project
+C. Green Project
+D. Yellow Project
+
+Ans: C
+
+Q28. Java was initially intended to replace:
+
+A. Assembly
+B. Embedded C/C++
+C. Python
+D. BASIC
+
+Ans: B
+
+Q29. Java’s early adoption was strongest in:
+
+A. Scientific computing
+B. Embedded and web systems
+C. Gaming industry
+D. Machine learning
+
+Ans: B
+
+Q30. James Gosling is often referred to as:
+
+A. Java Developer
+B. Java Engineer
+C. Father of Java
+D. Java Architect
+
+Ans: C
+
+📘 TOPIC 2: JAVA FEATURES
+
+(~30 Screening-Level MCQs | Naresh IT style)
+
+Q1. Which feature of Java makes it platform independent?
+
+A. Object Oriented
+B. Secure
+C. JVM
+D. Robust
+
+Ans: C
+
+Q2. Java is considered secure because of:
+
+A. Pointer arithmetic
+B. Bytecode verification
+C. Multiple inheritance
+D. Preprocessor
+
+Ans: B
+
+Q3. Which feature allows Java programs to run on different machines?
+
+A. Architecture neutral
+B. Distributed
+C. Simple
+D. High performance
+
+Ans: A
+
+Q4. Java does NOT support which of the following?
+
+A. Multithreading
+B. Dynamic loading
+C. Operator overloading
+D. Garbage collection
+
+Ans: C
+
+Q5. Java is called robust because of:
+
+A. High speed
+B. Strong memory management
+C. Small syntax
+D. Preprocessor
+
+Ans: B
+
+Q6. Automatic garbage collection is handled by:
+
+A. Compiler
+B. OS
+C. JVM
+D. JDK
+
+Ans: C
+
+Q7. Which Java feature supports multiple threads of execution?
+
+A. Secure
+B. Portable
+C. Multithreaded
+D. Distributed
+
+Ans: C
+
+Q8. Java achieves high performance using:
+
+A. Compiler only
+B. Interpreter only
+C. JIT compiler
+D. Assembler
+
+Ans: C
+
+Q9. Java bytecode is:
+
+A. Machine dependent
+B. Platform dependent
+C. Platform independent
+D. OS dependent
+
+Ans: C
+
+Q10. Which feature helps Java in network-based applications?
+
+A. Simple
+B. Secure
+C. Distributed
+D. Portable
+
+Ans: C
+
+Q11. Java is simple because:
+
+A. It has pointers
+B. It has no pointers and no operator overloading
+C. It supports macros
+D. It supports multiple inheritance via classes
+
+Ans: B
+
+Q12. Which feature removes memory leaks?
+
+A. Multithreading
+B. Robustness
+C. Garbage collection
+D. Portability
+
+Ans: C
+
+Q13. Java is architecture neutral because:
+
+A. It uses JVM
+B. It uses bytecode
+C. It avoids OS calls
+D. It avoids hardware dependency
+
+Ans: B
+
+Q14. Which feature ensures same output on all platforms?
+
+A. Secure
+B. Portable
+C. Architecture neutral
+D. Distributed
+
+Ans: C
+
+Q15. Java supports dynamic behavior using:
+
+A. Compilation
+B. Runtime linking
+C. Static binding
+D. Preprocessing
+
+Ans: B
+
+Q16. Which feature makes Java suitable for internet applications?
+
+A. High performance
+B. Secure
+C. Portable
+D. All of the above
+
+Ans: D
+
+Q17. Java eliminates which C++ feature to improve safety?
+
+A. Classes
+B. Objects
+C. Pointers
+D. Inheritance
+
+Ans: C
+
+Q18. Which Java feature allows code reuse?
+
+A. Simple
+B. Robust
+C. Object Oriented
+D. Secure
+
+Ans: C
+
+Q19. Which feature supports encapsulation, inheritance, and polymorphism?
+
+A. Secure
+B. Robust
+C. Object Oriented
+D. Distributed
+
+Ans: C
+
+Q20. Java programs are less prone to crashes due to:
+
+A. JIT
+B. Strong typing
+C. Garbage collection
+D. All of the above
+
+Ans: D
+
+Q21. Which feature allows Java to load classes at runtime?
+
+A. Simple
+B. Dynamic
+C. Distributed
+D. Secure
+
+Ans: B
+
+Q22. Java avoids memory corruption by:
+
+A. Pointer arithmetic
+B. Manual deallocation
+C. Automatic memory management
+D. Preprocessor
+
+Ans: C
+
+Q23. Which feature allows Java to run in browsers (earlier)?
+
+A. Multithreading
+B. Portability
+C. Applet support
+D. Robustness
+
+Ans: C
+
+Q24. Java is strongly typed means:
+
+A. Variables are loosely checked
+B. No type checking
+C. Strict type checking at compile time
+D. Types decided at runtime only
+
+Ans: C
+
+Q25. Which feature improves Java reliability?
+
+A. Secure
+B. Robust
+C. Portable
+D. Simple
+
+Ans: B
+
+Q26. Java does NOT use which of the following?
+
+A. Bytecode
+B. JVM
+C. Preprocessor
+D. Garbage collector
+
+Ans: C
+
+Q27. Java supports multiple inheritance using:
+
+A. Classes
+B. Abstract classes
+C. Interfaces
+D. Objects
+
+Ans: C
+
+Q28. Java programs can be executed on any system having:
+
+A. OS
+B. Compiler
+C. JVM
+D. JDK
+
+Ans: C
+
+Q29. Which feature helps Java survive in heterogeneous environments?
+
+A. Distributed
+B. Portable
+C. Architecture neutral
+D. All of the above
+
+Ans: D
+
+Q30. Which Java feature is MOST important for cloud and web apps?
+
+A. Secure
+B. Distributed
+C. Multithreaded
+D. Simple
+
+Ans: B
+
+📘 TOPIC 3: JAVA EDITIONS (SE, EE, ME)
+
+(~30 Screening-Level MCQs | Naresh IT style)
+
+Q1. Java is mainly divided into how many editions?
+
+A. 2
+B. 3
+C. 4
+D. 5
+
+Ans: B
+
+Q2. Which Java edition is used for core programming?
+
+A. Java EE
+B. Java ME
+C. Java SE
+D. Java FX
+
+Ans: C
+
+Q3. Java SE stands for:
+
+A. Standard Edition
+B. Server Edition
+C. System Edition
+D. Software Edition
+
+Ans: A
+
+Q4. Which edition is used for enterprise-level applications?
+
+A. Java SE
+B. Java ME
+C. Java EE
+D. Java FX
+
+Ans: C
+
+Q5. Java EE stands for:
+
+A. Enterprise Edition
+B. Extended Edition
+C. Embedded Edition
+D. Enhanced Edition
+
+Ans: A
+
+Q6. Which edition is designed for embedded and mobile devices?
+
+A. Java SE
+B. Java EE
+C. Java ME
+D. Java FX
+
+Ans: C
+
+Q7. Java ME stands for:
+
+A. Micro Edition
+B. Mobile Edition
+C. Medium Edition
+D. Mini Edition
+
+Ans: A
+
+Q8. Java SE contains:
+
+A. Core Java APIs
+B. Enterprise APIs
+C. Web services only
+D. Mobile libraries
+
+Ans: A
+
+Q9. Which edition includes JDBC, Collections, and Multithreading?
+
+A. Java EE
+B. Java ME
+C. Java SE
+D. Java FX
+
+Ans: C
+
+Q10. Java EE is built on top of:
+
+A. Java ME
+B. Java FX
+C. Java SE
+D. JVM
+
+Ans: C
+
+Q11. Which technology belongs to Java EE?
+
+A. Servlet
+B. JDBC
+C. AWT
+D. Swing
+
+Ans: A
+
+Q12. Which of the following is NOT part of Java SE?
+
+A. JVM
+B. Core APIs
+C. EJB
+D. Basic libraries
+
+Ans: C
+
+Q13. Java EE is mainly used for:
+
+A. Desktop applications
+B. Standalone applications
+C. Web and enterprise applications
+D. Mobile games
+
+Ans: C
+
+Q14. Java ME is suitable for:
+
+A. High-performance servers
+B. Desktop computers
+C. Resource-constrained devices
+D. Cloud platforms
+
+Ans: C
+
+Q15. Which edition supports distributed computing features?
+
+A. Java SE
+B. Java EE
+C. Java ME
+D. Java FX
+
+Ans: B
+
+Q16. Java EE provides built-in support for:
+
+A. Multithreading only
+B. Web services and transactions
+C. File handling only
+D. Console applications
+
+Ans: B
+
+Q17. Which edition is mandatory to learn first?
+
+A. Java EE
+B. Java ME
+C. Java SE
+D. Java FX
+
+Ans: C
+
+Q18. Java ME applications are called:
+
+A. Servlets
+B. MIDlets
+C. Applets
+D. Beans
+
+Ans: B
+
+Q19. Which Java edition is least used today?
+
+A. Java SE
+B. Java EE
+C. Java ME
+D. Java FX
+
+Ans: C
+
+Q20. Which edition is required for Android (base language)?
+
+A. Java EE
+B. Java ME
+C. Java SE
+D. Java FX
+
+Ans: C
+
+Q21. Java EE applications usually run on:
+
+A. Desktop
+B. Embedded devices
+C. Application servers
+D. Mobile phones
+
+Ans: C
+
+Q22. Which server is commonly used for Java EE?
+
+A. Apache Tomcat
+B. GlassFish
+C. WebLogic
+D. All of the above
+
+Ans: D
+
+Q23. Java SE is sufficient for:
+
+A. Enterprise apps
+B. Core Java learning
+C. Distributed transactions
+D. Large-scale web apps
+
+Ans: B
+
+Q24. Which edition focuses on scalability and reliability?
+
+A. Java SE
+B. Java EE
+C. Java ME
+D. Java FX
+
+Ans: B
+
+Q25. Java ME is optimized for:
+
+A. Speed
+B. Memory and power efficiency
+C. Graphics
+D. Cloud integration
+
+Ans: B
+
+Q26. Which Java edition includes Swing and AWT?
+
+A. Java EE
+B. Java ME
+C. Java SE
+D. Java FX
+
+Ans: C
+
+Q27. Java EE replaces which older name?
+
+A. J2SE
+B. J2EE
+C. J2ME
+D. JDK
+
+Ans: B
+
+Q28. Java ME replaces which older name?
+
+A. J2SE
+B. J2EE
+C. J2ME
+D. Java FX
+
+Ans: C
+
+Q29. Which Java edition is best for beginners?
+
+A. Java EE
+B. Java ME
+C. Java SE
+D. Java FX
+
+Ans: C
+
+Q30. Which Java edition is NOT required for core Java screening tests?
+
+A. Java SE
+B. Java EE
+C. Java ME
+D. JVM
+
+Ans: C
+
+📘 TOPIC 4: PLATFORM INDEPENDENCE & WORA
+
+(~30 Screening-Level MCQs | Naresh IT style)
+
+Q1. Java is platform independent because of:
+
+A. Compiler
+B. Interpreter
+C. JVM
+D. JDK
+
+Ans: C
+
+Q2. Platform independence means:
+
+A. Code runs on any OS without JVM
+B. Same source code runs everywhere
+C. Same bytecode runs on all JVMs
+D. Same compiler works on all OS
+
+Ans: C
+
+Q3. Java source code is compiled into:
+
+A. Machine code
+B. Assembly code
+C. Bytecode
+D. Object code
+
+Ans: C
+
+Q4. Bytecode is:
+
+A. OS dependent
+B. Hardware dependent
+C. Platform independent
+D. JVM dependent
+
+Ans: C
+
+Q5. Bytecode is executed by:
+
+A. Compiler
+B. Interpreter
+C. JVM
+D. OS
+
+Ans: C
+
+Q6. WORA stands for:
+
+A. Write Once Read Anywhere
+B. Write Once Run Anywhere
+C. Work Once Run Anywhere
+D. Write Only Run Always
+
+Ans: B
+
+Q7. WORA is achieved because:
+
+A. Java is interpreted
+B. Java uses JVM
+C. Java uses pointers
+D. Java uses OS calls
+
+Ans: B
+
+Q8. Which file is platform independent?
+
+A. .java
+B. .exe
+C. .class
+D. .dll
+
+Ans: C
+
+Q9. Which file is platform dependent?
+
+A. .class
+B. .java
+C. .jar
+D. .exe
+
+Ans: D
+
+Q10. Java compiler is:
+
+A. Platform independent
+B. Platform dependent
+C. Hardware independent
+D. OS independent
+
+Ans: B
+
+Q11. JVM is:
+
+A. Platform independent
+B. Platform dependent
+C. OS independent
+D. Hardware independent
+
+Ans: B
+
+Q12. Java source code is:
+
+A. Platform dependent
+B. Platform independent
+C. OS dependent
+D. Hardware dependent
+
+Ans: B
+
+Q13. Which combination ensures portability?
+
+A. Java + Compiler
+B. Java + OS
+C. Java + JVM
+D. Java + Hardware
+
+Ans: C
+
+Q14. Same bytecode can run on:
+
+A. Same OS only
+B. Same hardware only
+C. Different OS with JVM
+D. Same compiler only
+
+Ans: C
+
+Q15. Platform independence is achieved at:
+
+A. Source code level
+B. Bytecode level
+C. Machine code level
+D. OS level
+
+Ans: B
+
+Q16. Which is NOT needed for Java execution?
+
+A. JVM
+B. JRE
+C. OS
+D. Source code
+
+Ans: D
+
+Q17. Java programs depend on:
+
+A. Hardware
+B. OS
+C. JVM
+D. Processor
+
+Ans: C
+
+Q18. Why JVM is platform dependent?
+
+A. Uses bytecode
+B. Uses native libraries
+C. Uses Java syntax
+D. Uses JDK
+
+Ans: B
+
+Q19. Each OS has:
+
+A. Same JVM
+B. Different JVM implementation
+C. No JVM
+D. Same compiler
+
+Ans: B
+
+Q20. Java is NOT 100% platform independent because of:
+
+A. JVM
+B. Native methods
+C. Bytecode
+D. JIT
+
+Ans: B
+
+Q21. Native methods are written in:
+
+A. Java
+B. Assembly
+C. C/C++
+D. Python
+
+Ans: C
+
+Q22. Which feature supports platform independence?
+
+A. Multithreading
+B. Architecture neutral
+C. Distributed
+D. Secure
+
+Ans: B
+
+Q23. Java bytecode runs on:
+
+A. Hardware
+B. OS
+C. JVM
+D. Compiler
+
+Ans: C
+
+Q24. Java removes platform dependency by:
+
+A. Using different source codes
+B. Using different compilers
+C. Using JVM
+D. Using interpreter only
+
+Ans: C
+
+Q25. Platform dependent languages example:
+
+A. Java
+B. Python
+C. C
+D. Kotlin
+
+Ans: C
+
+Q26. Which layer hides OS differences?
+
+A. OS
+B. Hardware
+C. JVM
+D. Compiler
+
+Ans: C
+
+Q27. Java portability is achieved due to:
+
+A. JVM + Bytecode
+B. OS + Compiler
+C. JDK + JRE
+D. Hardware abstraction
+
+Ans: A
+
+Q28. Which statement is TRUE?
+
+A. JVM is platform independent
+B. Bytecode is platform dependent
+C. Java is platform independent
+D. Java compiler is platform independent
+
+Ans: C
+
+Q29. Java program execution depends on:
+
+A. Source code
+B. Bytecode
+C. OS
+D. Hardware
+
+Ans: B
+
+Q30. WORA applies to:
+
+A. Source code
+B. Bytecode
+C. Machine code
+D. OS
+
+Ans: B
+
+📘 TOPIC 5: COMPILER vs INTERPRETER
+Q1. A compiler translates:
+
+A. Line by line
+B. Entire program at once
+C. Runtime code
+D. Bytecode only
+
+Ans: B
+
+Q2. An interpreter translates:
+
+A. Entire program
+B. Only source code
+C. Line by line
+D. Machine code
+
+Ans: C
+
+Q3. Java uses:
+
+A. Only compiler
+B. Only interpreter
+C. Both compiler and interpreter
+D. Neither
+
+Ans: C
+
+Q4. Java compiler converts source code into:
+
+A. Machine code
+B. Assembly code
+C. Bytecode
+D. Native code
+
+Ans: C
+
+Q5. Java interpreter executes:
+
+A. Source code
+B. Bytecode
+C. Machine code
+D. Assembly code
+
+Ans: B
+
+Q6. Which one is faster?
+
+A. Interpreter
+B. Compiler
+C. Both same
+D. JVM
+
+Ans: B
+
+Q7. Which one reports errors after entire code is checked?
+
+A. Interpreter
+B. Compiler
+C. JVM
+D. JIT
+
+Ans: B
+
+Q8. Which one stops execution when error occurs?
+
+A. Compiler
+B. Interpreter
+C. JVM
+D. OS
+
+Ans: B
+
+Q9. Java compilation happens at:
+
+A. Runtime
+B. Compile time
+C. Execution time
+D. Load time
+
+Ans: B
+
+Q10. Java interpretation happens at:
+
+A. Compile time
+B. Load time
+C. Runtime
+D. Link time
+
+Ans: C
+
+Q11. Compiler generates:
+
+A. Machine-dependent code
+B. Platform-dependent code
+C. Platform-independent bytecode
+D. OS-dependent code
+
+Ans: C
+
+Q12. Interpreter generates:
+
+A. Bytecode
+B. Machine code
+C. Native code
+D. No stored code
+
+Ans: D
+
+Q13. Which is true?
+
+A. Compiler executes code
+B. Interpreter compiles code
+C. Compiler checks syntax
+D. Interpreter generates bytecode
+
+Ans: C
+
+Q14. Java compiler name is:
+
+A. java
+B. javac
+C. jvm
+D. jar
+
+Ans: B
+
+Q15. Interpreter improves portability but reduces:
+
+A. Security
+B. Performance
+C. Reliability
+D. Simplicity
+
+Ans: B
+
+Q16. Which language uses only compiler?
+
+A. Java
+B. Python
+C. C
+D. JavaScript
+
+Ans: C
+
+Q17. Which language uses only interpreter?
+
+A. Java
+B. Python
+C. C
+D. C++
+
+Ans: B
+
+Q18. Java avoids slowness using:
+
+A. Compiler
+B. Interpreter
+C. JIT compiler
+D. Assembler
+
+Ans: C
+
+Q19. Compilation error is detected by:
+
+A. JVM
+B. Compiler
+C. Interpreter
+D. OS
+
+Ans: B
+
+Q20. Runtime error is detected by:
+
+A. Compiler
+B. JVM
+C. Interpreter
+D. OS
+
+Ans: B
+
+Q21. Which is platform dependent?
+
+A. Source code
+B. Bytecode
+C. Compiler
+D. Java language
+
+Ans: C
+
+Q22. Which executes faster?
+
+A. Interpreted code
+B. Compiled code
+C. Bytecode
+D. Source code
+
+Ans: B
+
+Q23. Java combines compiler and interpreter to achieve:
+
+A. Speed and portability
+B. Security only
+C. Memory optimization
+D. Simplicity only
+
+Ans: A
+
+Q24. Compiler errors are also called:
+
+A. Runtime errors
+B. Logical errors
+C. Syntax errors
+D. System errors
+
+Ans: C
+
+Q25. Interpreter executes:
+
+A. Entire code
+B. Only correct lines
+C. One line at a time
+D. Machine instructions
+
+Ans: C
+
+Q26. Bytecode is checked by:
+
+A. Compiler
+B. Interpreter
+C. Bytecode verifier
+D. OS
+
+Ans: C
+
+Q27. Java compiler is:
+
+A. Platform independent
+B. Platform dependent
+C. OS independent
+D. Hardware independent
+
+Ans: B
+
+Q28. Interpreter is part of:
+
+A. JDK
+B. JRE
+C. JVM
+D. OS
+
+Ans: C
+
+Q29. Java source file extension is:
+
+A. .class
+B. .exe
+C. .java
+D. .jar
+
+Ans: C
+
+Q30. Java bytecode file extension is:
+
+A. .java
+B. .class
+C. .exe
+D. .jar
+
+Ans: B
+
+✅ TOPIC 5 COMPLETE
+
+📘 TOPIC 6: JVM – NEED & OVERVIEW
+Q1. JVM stands for:
+
+A. Java Visual Machine
+B. Java Virtual Method
+C. Java Virtual Machine
+D. Java Verified Machine
+
+Ans: C
+
+Q2. JVM is required to:
+
+A. Write code
+B. Compile code
+C. Execute bytecode
+D. Package applications
+
+Ans: C
+
+Q3. JVM is called virtual because:
+
+A. It uses virtual memory
+B. It is imaginary
+C. It is software-based
+D. It runs online
+
+Ans: C
+
+Q4. JVM is:
+
+A. Platform independent
+B. Platform dependent
+C. OS independent
+D. Hardware independent
+
+Ans: B
+
+Q5. JVM provides:
+
+A. Security
+B. Memory management
+C. Execution environment
+D. All of the above
+
+Ans: D
+
+Q6. JVM converts bytecode into:
+
+A. Assembly code
+B. Machine code
+C. Source code
+D. Native libraries
+
+Ans: B
+
+Q7. JVM exists:
+
+A. Inside JDK only
+B. Inside JRE
+C. Outside OS
+D. Inside hardware
+
+Ans: B
+
+Q8. Java program cannot run without:
+
+A. JDK
+B. Compiler
+C. JVM
+D. IDE
+
+Ans: C
+
+Q9. JVM enables:
+
+A. Portability
+B. Security
+C. Memory management
+D. All
+
+Ans: D
+
+Q10. JVM hides:
+
+A. Compiler
+B. OS differences
+C. Java syntax
+D. Hardware only
+
+Ans: B
+
+Q11. Each OS has:
+
+A. Same JVM
+B. Different JVM implementation
+C. No JVM
+D. Same compiler
+
+Ans: B
+
+Q12. JVM loads:
+
+A. Source code
+B. Bytecode
+C. Machine code
+D. JAR files
+
+Ans: B
+
+Q13. JVM verifies:
+
+A. Source code
+B. Bytecode
+C. Machine code
+D. OS files
+
+Ans: B
+
+Q14. JVM is responsible for:
+
+A. Garbage collection
+B. Thread management
+C. Memory allocation
+D. All of the above
+
+Ans: D
+
+Q15. JVM runs:
+
+A. Java language
+B. Bytecode
+C. Machine code
+D. Assembly
+
+Ans: B
+
+Q16. JVM improves security using:
+
+A. Bytecode verifier
+B. Compiler
+C. OS
+D. IDE
+
+Ans: A
+
+Q17. JVM ensures Java is:
+
+A. Platform dependent
+B. Platform independent
+C. OS dependent
+D. Hardware dependent
+
+Ans: B
+
+Q18. JVM does NOT include:
+
+A. Class Loader
+B. Execution Engine
+C. Garbage Collector
+D. Java Compiler
+
+Ans: D
+
+Q19. JVM handles memory using:
+
+A. Stack and Heap
+B. Registers only
+C. Disk memory
+D. Cache
+
+Ans: A
+
+Q20. JVM supports:
+
+A. Multithreading
+B. Dynamic loading
+C. Security
+D. All
+
+Ans: D
+
+Q21. JVM converts bytecode at:
+
+A. Compile time
+B. Load time
+C. Runtime
+D. Link time
+
+Ans: C
+
+Q22. JVM is part of:
+
+A. JDK only
+B. JRE only
+C. OS
+D. Hardware
+
+Ans: B
+
+Q23. JVM provides abstraction between:
+
+A. Java & hardware
+B. Java & OS
+C. Java & compiler
+D. Java & IDE
+
+Ans: B
+
+Q24. JVM is responsible for exception handling:
+
+A. Yes
+B. No
+C. Sometimes
+D. Only checked exceptions
+
+Ans: A
+
+Q25. JVM exits when:
+
+A. main() ends
+B. GC runs
+C. All non-daemon threads end
+D. Error occurs
+
+Ans: C
+
+Q26. JVM manages threads using:
+
+A. OS only
+B. Java code
+C. Native threads
+D. OS + JVM
+
+Ans: D
+
+Q27. JVM ensures memory safety by:
+
+A. Pointer arithmetic
+B. Manual deallocation
+C. Automatic GC
+D. Preprocessor
+
+Ans: C
+
+Q28. JVM does NOT depend on:
+
+A. OS
+B. Hardware
+C. Bytecode
+D. Java syntax
+
+Ans: D
+
+Q29. JVM is started by:
+
+A. javac
+B. java command
+C. jar
+D. javadoc
+
+Ans: B
+
+Q30. JVM allows Java to be:
+
+A. Fast only
+B. Secure only
+C. Portable and secure
+D. OS dependent
+
+Ans: C
+
+✅ TOPIC 6 COMPLETE
+
+📘 TOPIC 7: STATIC vs DYNAMIC LOADING
+Q1. Static loading loads classes at:
+
+A. Runtime
+B. Compile time
+C. Execution end
+D. GC time
+
+Ans: B
+
+Q2. Dynamic loading loads classes at:
+
+A. Compile time
+B. Runtime
+C. Link time
+D. GC time
+
+Ans: B
+
+Q3. Which method supports dynamic loading?
+
+A. import
+B. new
+C. Class.forName()
+D. load()
+
+Ans: C
+
+Q4. Static loading is:
+
+A. Flexible
+B. Less flexible
+C. Dynamic
+D. Runtime based
+
+Ans: B
+
+Q5. Dynamic loading improves:
+
+A. Compilation
+B. Flexibility
+C. Syntax
+D. Security
+
+Ans: B
+
+Q6. Which is faster?
+
+A. Static loading
+B. Dynamic loading
+C. Both same
+D. JVM dependent
+
+Ans: A
+
+Q7. Static loading errors appear at:
+
+A. Runtime
+B. Compile time
+C. Load time
+D. Execution
+
+Ans: B
+
+Q8. Dynamic loading errors appear at:
+
+A. Compile time
+B. Runtime
+C. Link time
+D. Load time
+
+Ans: B
+
+Q9. JDBC driver loading uses:
+
+A. Static loading
+B. Dynamic loading
+C. No loading
+D. Compiler loading
+
+Ans: B
+
+Q10. Static loading uses:
+
+A. Class.forName()
+B. new keyword
+C. Reflection
+D. JVM APIs
+
+Ans: B
+
+Q11. Dynamic loading reduces:
+
+A. Flexibility
+B. Modularity
+C. Dependency
+D. Security
+
+Ans: C
+
+Q12. Dynamic loading helps in:
+
+A. Plug-in systems
+B. Embedded systems
+C. Simple apps
+D. Static programs
+
+Ans: A
+
+Q13. Static loading requires:
+
+A. Class at runtime only
+B. Class at compile time
+C. Class at execution end
+D. No class
+
+Ans: B
+
+Q14. Which is true?
+
+A. Static loading is runtime based
+B. Dynamic loading uses reflection
+C. Dynamic loading is compile time
+D. Static loading is flexible
+
+Ans: B
+
+Q15. ClassNotFoundException occurs in:
+
+A. Static loading
+B. Dynamic loading
+C. Compilation
+D. JVM startup
+
+Ans: B
+
+Q16. NoClassDefFoundError occurs in:
+
+A. Compile time
+B. Runtime
+C. Load time
+D. Execution end
+
+Ans: B
+
+Q17. Which is safer?
+
+A. Static loading
+B. Dynamic loading
+C. Both same
+D. Depends on JVM
+
+Ans: A
+
+Q18. Dynamic loading improves:
+
+A. Performance
+B. Extensibility
+C. Memory usage
+D. Compilation speed
+
+Ans: B
+
+Q19. Static loading increases:
+
+A. Runtime errors
+B. Compile-time safety
+C. Flexibility
+D. Dynamic behavior
+
+Ans: B
+
+Q20. Which loading is used in frameworks?
+
+A. Static
+B. Dynamic
+C. Manual
+D. OS based
+
+Ans: B
+
+Q21. import statement supports:
+
+A. Dynamic loading
+B. Static loading
+C. Runtime loading
+D. JVM loading
+
+Ans: B
+
+Q22. Reflection is mainly used in:
+
+A. Static loading
+B. Dynamic loading
+C. Compilation
+D. GC
+
+Ans: B
+
+Q23. Static loading binds classes:
+
+A. Early
+B. Late
+C. Runtime
+D. Dynamically
+
+Ans: A
+
+Q24. Dynamic loading binds classes:
+
+A. Early
+B. Late
+C. Compile time
+D. Link time
+
+Ans: B
+
+Q25. Which supports loose coupling?
+
+A. Static loading
+B. Dynamic loading
+C. Compiler
+D. JVM
+
+Ans: B
+
+Q26. Dynamic loading is also called:
+
+A. Early binding
+B. Late binding
+C. Static binding
+D. Compile binding
+
+Ans: B
+
+Q27. Static loading is also called:
+
+A. Late binding
+B. Dynamic binding
+C. Early binding
+D. Runtime binding
+
+Ans: C
+
+Q28. Dynamic loading increases:
+
+A. Compile-time checking
+B. Runtime flexibility
+C. Compilation speed
+D. Code size
+
+Ans: B
+
+Q29. JDBC uses dynamic loading because:
+
+A. Drivers vary
+B. JVM slow
+C. OS dependent
+D. Compiler limitation
+
+Ans: A
+
+Q30. Which is preferred in large applications?
+
+A. Static loading
+B. Dynamic loading
+C. No loading
+D. JVM loading
+
+Ans: B
+
+✅ TOPIC 7 COMPLETE
+
+📘 TOPIC 8: JVM ARCHITECTURE (Overview)
+Q1. JVM architecture consists of:
+
+A. 2 components
+B. 3 components
+C. 4 components
+D. 5 components
+
+Ans: B
+
+Q2. Major JVM components are:
+
+A. Compiler, Interpreter, GC
+B. Class Loader, Runtime Memory, Execution Engine
+C. OS, Hardware, JVM
+D. JDK, JRE, JVM
+
+Ans: B
+
+Q3. Which component loads class files?
+
+A. Execution Engine
+B. Class Loader
+C. Method Area
+D. Heap
+
+Ans: B
+
+Q4. Which component executes bytecode?
+
+A. Class Loader
+B. Execution Engine
+C. Method Area
+D. Stack
+
+Ans: B
+
+Q5. Runtime memory area includes:
+
+A. Heap
+B. Stack
+C. Method Area
+D. All of the above
+
+Ans: D
+
+Q6. Which memory is shared?
+
+A. Stack
+B. PC Register
+C. Heap
+D. Local variables
+
+Ans: C
+
+Q7. Stack memory is:
+
+A. Shared
+B. Thread-safe
+C. Global
+D. Static
+
+Ans: B
+
+Q8. Method Area stores:
+
+A. Objects
+B. Local variables
+C. Class metadata
+D. Stack frames
+
+Ans: C
+
+Q9. PC Register stores:
+
+A. Object address
+B. Next instruction
+C. Class name
+D. Method name
+
+Ans: B
+
+Q10. Native Method Stack is used for:
+
+A. Java methods
+B. JVM methods
+C. Native methods
+D. Static methods
+
+Ans: C
+
+Q11. Which is NOT part of runtime memory?
+
+A. Heap
+B. Stack
+C. Method Area
+D. Class Loader
+
+Ans: D
+
+Q12. Execution Engine includes:
+
+A. Interpreter
+B. JIT Compiler
+C. Garbage Collector
+D. All
+
+Ans: D
+
+Q13. JIT compiler improves:
+
+A. Portability
+B. Security
+C. Performance
+D. Memory
+
+Ans: C
+
+Q14. GC works on:
+
+A. Classes
+B. Threads
+C. Objects
+D. Methods
+
+Ans: C
+
+Q15. JVM follows:
+
+A. FIFO
+B. LIFO
+C. Stack-based execution
+D. Queue-based execution
+
+Ans: C
+
+Q16. Each thread has its own:
+
+A. Heap
+B. Method Area
+C. Stack
+D. Class Loader
+
+Ans: C
+
+Q17. JVM instruction pointer is stored in:
+
+A. Heap
+B. Stack
+C. PC Register
+D. Method Area
+
+Ans: C
+
+Q18. Method calls create:
+
+A. Objects
+B. Threads
+C. Stack frames
+D. Classes
+
+Ans: C
+
+Q19. Static variables stored in:
+
+A. Heap
+B. Stack
+C. Method Area
+D. PC Register
+
+Ans: C
+
+Q20. Instance variables stored in:
+
+A. Stack
+B. Heap
+C. Method Area
+D. PC Register
+
+Ans: B
+
+Q21. Local variables stored in:
+
+A. Heap
+B. Stack
+C. Method Area
+D. PC Register
+
+Ans: B
+
+Q22. JVM verifies bytecode during:
+
+A. Execution
+B. Loading
+C. Linking
+D. GC
+
+Ans: C
+
+Q23. Linking includes:
+
+A. Loading, verification, preparation
+B. Verification, preparation, resolution
+C. Compilation, execution
+D. Loading only
+
+Ans: B
+
+Q24. Resolution resolves:
+
+A. Memory
+B. References
+C. Objects
+D. Threads
+
+Ans: B
+
+Q25. Initialization assigns:
+
+A. Default values
+B. Original values
+C. Garbage values
+D. Null
+
+Ans: B
+
+Q26. JVM memory areas count:
+
+A. 3
+B. 4
+C. 5
+D. 6
+
+Ans: C
+
+Q27. Heap overflow causes:
+
+A. StackOverflowError
+B. OutOfMemoryError
+C. ClassNotFoundException
+D. RuntimeException
+
+Ans: B
+
+Q28. Stack overflow occurs due to:
+
+A. Many objects
+B. Infinite recursion
+C. GC failure
+D. Class loading
+
+Ans: B
+
+Q29. JVM exits when:
+
+A. main ends
+B. GC runs
+C. All non-daemon threads end
+D. Exception occurs
+
+Ans: C
+
+Q30. JVM architecture ensures:
+
+A. Performance only
+B. Security only
+C. Portability & security
+D. OS dependency
+
+Ans: C
+
+📘 TOPIC 9: CLASS LOADER SUBSYSTEM (30 MCQs)
+Q1. Class Loader Subsystem is a part of:
+
+A. JDK
+B. JRE
+C. JVM
+D. OS
+
+Ans: C
+
+Q2. Primary responsibility of Class Loader is to:
+
+A. Execute bytecode
+B. Load class files into memory
+C. Compile Java code
+D. Manage heap memory
+
+Ans: B
+
+Q3. How many built-in class loaders are there in JVM?
+
+A. 2
+B. 3
+C. 4
+D. 5
+
+Ans: B
+
+Q4. Which class loader loads core Java classes?
+
+A. Application Class Loader
+B. Extension Class Loader
+C. Bootstrap Class Loader
+D. Custom Class Loader
+
+Ans: C
+
+Q5. Bootstrap Class Loader loads classes from:
+
+A. CLASSPATH
+B. lib/ext directory
+C. rt.jar
+D. user-defined path
+
+Ans: C
+
+Q6. Bootstrap Class Loader is written in:
+
+A. Java
+B. C/C++
+C. Python
+D. Assembly
+
+Ans: B
+
+Q7. Extension Class Loader loads classes from:
+
+A. bin directory
+B. lib/ext directory
+C. src directory
+D. rt.jar
+
+Ans: B
+
+Q8. Application Class Loader loads:
+
+A. Core Java classes
+B. JVM internal classes
+C. User-defined classes
+D. Native classes
+
+Ans: C
+
+Q9. Which class loader is also called System Class Loader?
+
+A. Bootstrap
+B. Extension
+C. Application
+D. Custom
+
+Ans: C
+
+Q10. Parent Delegation Model means:
+
+A. Child loads class first
+B. Parent loads class first
+C. JVM loads class last
+D. OS loads class first
+
+Ans: B
+
+Q11. Parent of Application Class Loader is:
+
+A. Bootstrap
+B. Custom
+C. Extension
+D. JVM
+
+Ans: C
+
+Q12. Parent of Extension Class Loader is:
+
+A. Application
+B. Bootstrap
+C. Custom
+D. JVM
+
+Ans: B
+
+Q13. Which class loader has no parent?
+
+A. Application
+B. Extension
+C. Bootstrap
+D. Custom
+
+Ans: C
+
+Q14. Class loading process includes:
+
+A. Loading only
+B. Loading and execution
+C. Loading, Linking, Initialization
+D. Compilation and loading
+
+Ans: C
+
+Q15. Linking phase includes:
+
+A. Loading, Verification, Execution
+B. Verification, Preparation, Resolution
+C. Compilation, Linking, Execution
+D. Initialization, Execution
+
+Ans: B
+
+Q16. Bytecode verification is done during:
+
+A. Loading
+B. Linking
+C. Initialization
+D. Execution
+
+Ans: B
+
+Q17. Preparation phase allocates memory for:
+
+A. Objects
+B. Static variables
+C. Local variables
+D. Instance variables
+
+Ans: B
+
+Q18. Resolution phase resolves:
+
+A. Memory blocks
+B. Object references
+C. Symbolic references
+D. Thread references
+
+Ans: C
+
+Q19. Initialization phase assigns:
+
+A. Default values
+B. Garbage values
+C. Original values
+D. Null values
+
+Ans: C
+
+Q20. Custom Class Loader is created by extending:
+
+A. Object class
+B. Class class
+C. ClassLoader class
+D. JVM class
+
+Ans: C
+
+Q21. Custom Class Loaders are mainly used for:
+
+A. Security
+B. Performance
+C. Dynamic class loading
+D. Compilation
+
+Ans: C
+
+Q22. Which exception occurs if class is not found at runtime?
+
+A. IOException
+B. ClassNotFoundException
+C. NoClassDefFoundError
+D. RuntimeException
+
+Ans: B
+
+Q23. NoClassDefFoundError occurs when:
+
+A. Class missing at compile time
+B. Class missing at runtime after compilation
+C. Syntax error exists
+D. JVM crashes
+
+Ans: B
+
+Q24. Class Loader follows which design principle?
+
+A. Singleton
+B. Factory
+C. Parent Delegation
+D. Observer
+
+Ans: C
+
+Q25. Which class loader loads classes from CLASSPATH?
+
+A. Bootstrap
+B. Extension
+C. Application
+D. JVM
+
+Ans: C
+
+Q26. Class Loader improves security by:
+
+A. Encrypting bytecode
+B. Verifying bytecode
+C. Hiding source code
+D. Using JVM flags
+
+Ans: B
+
+Q27. Class Loader does NOT:
+
+A. Load classes
+B. Verify bytecode
+C. Execute bytecode
+D. Link classes
+
+Ans: C
+
+Q28. If parent cannot find a class, then:
+
+A. JVM stops
+B. Child class loader tries
+C. OS loads it
+D. Compilation restarts
+
+Ans: B
+
+Q29. Which class loader loads java.lang.String?
+
+A. Application
+B. Extension
+C. Bootstrap
+D. Custom
+
+Ans: C
+
+Q30. Class Loader Subsystem works:
+
+A. At compile time
+B. At runtime
+C. At load time
+D. At link time only
+
+Ans: B
+
+📘 TOPIC 10: RUNTIME MEMORY AREAS (30 MCQs)
+Q1. JVM Runtime Memory Areas are created:
+
+A. At compile time
+B. At runtime
+C. At load time
+D. At link time
+
+Ans: B
+
+Q2. How many runtime memory areas are defined by JVM?
+
+A. 3
+B. 4
+C. 5
+D. 6
+
+Ans: C
+
+Q3. Which memory area stores objects?
+
+A. Stack
+B. Heap
+C. Method Area
+D. PC Register
+
+Ans: B
+
+Q4. Heap memory is:
+
+A. Thread-safe
+B. Thread-specific
+C. Shared among threads
+D. Stack-based
+
+Ans: C
+
+Q5. Stack memory stores:
+
+A. Objects
+B. Instance variables
+C. Local variables
+D. Static variables
+
+Ans: C
+
+Q6. Each thread has its own:
+
+A. Heap
+B. Method Area
+C. Stack
+D. GC
+
+Ans: C
+
+Q7. Method Area stores:
+
+A. Objects
+B. Class metadata
+C. Local variables
+D. Stack frames
+
+Ans: B
+
+Q8. Static variables are stored in:
+
+A. Heap
+B. Stack
+C. Method Area
+D. PC Register
+
+Ans: C
+
+Q9. Instance variables are stored in:
+
+A. Stack
+B. Heap
+C. Method Area
+D. Native stack
+
+Ans: B
+
+Q10. Local variables are stored in:
+
+A. Heap
+B. Method Area
+C. Stack
+D. PC Register
+
+Ans: C
+
+Q11. Stack memory follows:
+
+A. FIFO
+B. LIFO
+C. Queue
+D. Tree
+
+Ans: B
+
+Q12. StackOverflowError occurs due to:
+
+A. Heap full
+B. Infinite recursion
+C. GC failure
+D. JVM crash
+
+Ans: B
+
+Q13. OutOfMemoryError occurs when:
+
+A. Stack overflows
+B. Heap is full
+C. PC Register fails
+D. Native stack ends
+
+Ans: B
+
+Q14. PC Register stores:
+
+A. Object reference
+B. Next instruction address
+C. Method name
+D. Thread ID
+
+Ans: B
+
+Q15. Native Method Stack is used for:
+
+A. Java methods
+B. Native methods
+C. Static methods
+D. JVM methods
+
+Ans: B
+
+Q16. Runtime memory is allocated:
+
+A. Once per program
+B. Once per JVM
+C. Per thread and shared
+D. Per class
+
+Ans: C
+
+Q17. Method Area is shared by:
+
+A. One thread
+B. All threads
+C. JVM only
+D. Compiler
+
+Ans: B
+
+Q18. Stack memory is destroyed:
+
+A. At program end
+B. At thread end
+C. After GC
+D. After method call
+
+Ans: B
+
+Q19. Heap memory is destroyed:
+
+A. After GC
+B. After thread ends
+C. When JVM exits
+D. After method execution
+
+Ans: C
+
+Q20. Which memory is NOT thread-safe?
+
+A. Stack
+B. Heap
+C. PC Register
+D. Native stack
+
+Ans: B
+
+Q21. Stack frame is created:
+
+A. For each object
+B. For each class
+C. For each method call
+D. For each thread
+
+Ans: C
+
+Q22. Stack frame contains:
+
+A. Objects
+B. Class data
+C. Local variables
+D. Static variables
+
+Ans: C
+
+Q23. Garbage Collector works on:
+
+A. Stack
+B. Heap
+C. PC Register
+D. Method Area
+
+Ans: B
+
+Q24. Which memory area is smallest?
+
+A. Heap
+B. Stack
+C. Method Area
+D. PC Register
+
+Ans: D
+
+Q25. Memory allocation for objects happens in:
+
+A. Stack
+B. Heap
+C. Method Area
+D. PC Register
+
+Ans: B
+
+Q26. Stack memory is faster because:
+
+A. Dynamic allocation
+B. LIFO structure
+C. Shared memory
+D. Large size
+
+Ans: B
+
+Q27. Runtime memory areas are managed by:
+
+A. OS
+B. JVM
+C. Compiler
+D. IDE
+
+Ans: B
+
+Q28. Method Area is also called:
+
+A. Heap
+B. Non-heap memory
+C. Stack
+D. Register memory
+
+Ans: B
+
+Q29. Which error is related to stack?
+
+A. OutOfMemoryError
+B. StackOverflowError
+C. ClassNotFoundException
+D. RuntimeException
+
+Ans: B
+
+Q30. JVM memory model ensures:
+
+A. Speed only
+B. Security only
+C. Efficient execution
+D. Platform dependency
+
+Ans: C
+
+✅ TOPIC 10 COMPLETE
+
+📘 TOPIC 11: EXECUTION ENGINE (30 MCQs)
+Q1. Execution Engine executes:
+
+A. Source code
+B. Bytecode
+C. Machine code
+D. Assembly code
+
+Ans: B
+
+Q2. Execution Engine is part of:
+
+A. JDK
+B. JRE
+C. JVM
+D. OS
+
+Ans: C
+
+Q3. Execution Engine works at:
+
+A. Compile time
+B. Load time
+C. Runtime
+D. Link time
+
+Ans: C
+
+Q4. Interpreter executes bytecode:
+
+A. At once
+B. Line by line
+C. After JIT
+D. Before compilation
+
+Ans: B
+
+Q5. Interpreter is:
+
+A. Fast
+B. Slow
+C. Platform dependent
+D. Compiler
+
+Ans: B
+
+Q6. JIT stands for:
+
+A. Java In Test
+B. Just In Time
+C. Join In Thread
+D. Java In Tool
+
+Ans: B
+
+Q7. JIT improves:
+
+A. Security
+B. Portability
+C. Performance
+D. Memory
+
+Ans: C
+
+Q8. JIT converts bytecode into:
+
+A. Source code
+B. Machine code
+C. Assembly code
+D. Java code
+
+Ans: B
+
+Q9. JIT compilation happens:
+
+A. Compile time
+B. Load time
+C. Runtime
+D. Link time
+
+Ans: C
+
+Q10. Execution Engine contains:
+
+A. Interpreter
+B. JIT Compiler
+C. Garbage Collector
+D. All of the above
+
+Ans: D
+
+Q11. Garbage Collector removes:
+
+A. Active objects
+B. Static variables
+C. Unreachable objects
+D. Classes
+
+Ans: C
+
+Q12. GC works on:
+
+A. Stack
+B. Heap
+C. Method Area
+D. PC Register
+
+Ans: B
+
+Q13. GC runs:
+
+A. Manually
+B. Automatically
+C. At compile time
+D. At load time
+
+Ans: B
+
+Q14. Which improves Java performance?
+
+A. Interpreter only
+B. JIT only
+C. JVM only
+D. Interpreter + JIT
+
+Ans: D
+
+Q15. Hotspot JVM focuses on:
+
+A. Security
+B. Optimization
+C. Portability
+D. Compilation
+
+Ans: B
+
+Q16. JIT compiles:
+
+A. Entire program
+B. Frequently used code
+C. Unused code
+D. Source code
+
+Ans: B
+
+Q17. Execution Engine is responsible for:
+
+A. Class loading
+B. Bytecode execution
+C. Memory allocation
+D. Compilation
+
+Ans: B
+
+Q18. Execution Engine interacts with:
+
+A. OS
+B. Hardware
+C. JVM memory
+D. All of the above
+
+Ans: D
+
+Q19. Execution Engine ensures:
+
+A. Syntax correctness
+B. Efficient execution
+C. Code portability
+D. Compilation
+
+Ans: B
+
+Q20. Interpreter is slower because:
+
+A. Executes line by line
+B. Uses JVM
+C. Uses stack
+D. Uses heap
+
+Ans: A
+
+Q21. JIT stores compiled code in:
+
+A. Stack
+B. Heap
+C. Code cache
+D. Method Area
+
+Ans: C
+
+Q22. Garbage Collector cannot free:
+
+A. Unreachable objects
+B. Objects with no reference
+C. Objects with active reference
+D. Temporary objects
+
+Ans: C
+
+Q23. Execution Engine is invoked by:
+
+A. Compiler
+B. JVM
+C. OS
+D. JRE
+
+Ans: B
+
+Q24. Which is NOT part of Execution Engine?
+
+A. Interpreter
+B. JIT
+C. GC
+D. Class Loader
+
+Ans: D
+
+Q25. JIT improves performance by:
+
+A. Reducing memory
+B. Reducing interpretation
+C. Increasing GC
+D. Increasing stack
+
+Ans: B
+
+Q26. GC helps in:
+
+A. Memory management
+B. Thread scheduling
+C. Class loading
+D. Compilation
+
+Ans: A
+
+Q27. Execution Engine runs until:
+
+A. main() ends
+B. JVM exits
+C. GC runs
+D. Thread ends
+
+Ans: B
+
+Q28. Execution Engine does not:
+
+A. Execute bytecode
+B. Compile source code
+C. Manage memory
+D. Call GC
+
+Ans: B
+
+Q29. JVM performance mainly depends on:
+
+A. Compiler
+B. Execution Engine
+C. IDE
+D. OS
+
+Ans: B
+
+Q30. Execution Engine converts bytecode into:
+
+A. Source code
+B. Machine instructions
+C. OS calls
+D. API calls
+
+Ans: B
+
+✅ TOPIC 11 COMPLETE
+
+📘 TOPIC 12: JDK vs JRE vs JVM (30 MCQs)
+Q1. JVM stands for:
+
+A. Java Visual Machine
+B. Java Virtual Machine
+C. Java Verified Machine
+D. Java Variable Machine
+
+Ans: B
+
+Q2. JVM is responsible for:
+
+A. Writing code
+B. Compiling code
+C. Executing bytecode
+D. Editing code
+
+Ans: C
+
+Q3. JRE stands for:
+
+A. Java Runtime Environment
+B. Java Resource Engine
+C. Java Runtime Engine
+D. Java Remote Execution
+
+Ans: A
+
+Q4. JRE contains:
+
+A. JVM only
+B. JVM + libraries
+C. Compiler
+D. IDE
+
+Ans: B
+
+Q5. JDK stands for:
+
+A. Java Development Kit
+B. Java Deployment Kit
+C. Java Debug Kit
+D. Java Design Kit
+
+Ans: A
+
+Q6. JDK contains:
+
+A. JVM
+B. JRE
+C. Development tools
+D. All of the above
+
+Ans: D
+
+Q7. Which tool is used to compile Java code?
+
+A. java
+B. javac
+C. jar
+D. javadoc
+
+Ans: B
+
+Q8. Which tool runs Java programs?
+
+A. javac
+B. jar
+C. java
+D. javadoc
+
+Ans: C
+
+Q9. To run Java program you need:
+
+A. JDK
+B. JRE
+C. JVM
+D. OS
+
+Ans: B
+
+Q10. To develop Java program you need:
+
+A. JVM
+B. JRE
+C. JDK
+D. OS
+
+Ans: C
+
+Q11. JVM is platform:
+
+A. Independent
+B. Dependent
+C. Neutral
+D. Independent of OS
+
+Ans: B
+
+Q12. Java becomes platform independent because of:
+
+A. JDK
+B. JRE
+C. JVM
+D. Compiler
+
+Ans: C
+
+Q13. Which is smallest unit?
+
+A. JDK
+B. JRE
+C. JVM
+D. IDE
+
+Ans: C
+
+Q14. JRE does NOT include:
+
+A. JVM
+B. Core libraries
+C. Compiler
+D. Runtime files
+
+Ans: C
+
+Q15. JDK does NOT include:
+
+A. JVM
+B. JRE
+C. Compiler
+D. OS
+
+Ans: D
+
+Q16. JVM executes:
+
+A. Source code
+B. Bytecode
+C. Machine code
+D. Assembly
+
+Ans: B
+
+Q17. JDK is required by:
+
+A. End users
+B. Developers
+C. JVM
+D. OS
+
+Ans: B
+
+Q18. JRE is required by:
+
+A. Developers
+B. Testers
+C. End users
+D. Compiler
+
+Ans: C
+
+Q19. javac belongs to:
+
+A. JVM
+B. JRE
+C. JDK
+D. OS
+
+Ans: C
+
+Q20. java command belongs to:
+
+A. JVM
+B. JRE
+C. JDK
+D. OS
+
+Ans: B
+
+Q21. JVM cannot run without:
+
+A. JDK
+B. JRE
+C. OS
+D. IDE
+
+Ans: C
+
+Q22. JRE acts as:
+
+A. Development environment
+B. Runtime environment
+C. Compile environment
+D. Debug environment
+
+Ans: B
+
+Q23. JDK is superset of:
+
+A. JVM
+B. JRE
+C. OS
+D. IDE
+
+Ans: B
+
+Q24. Which component provides libraries?
+
+A. JVM
+B. JRE
+C. JDK
+D. Compiler
+
+Ans: B
+
+Q25. Java program execution requires:
+
+A. JVM only
+B. JRE only
+C. JDK only
+D. JDK + IDE
+
+Ans: B
+
+Q26. Development tools include:
+
+A. JVM
+B. javac
+C. GC
+D. Heap
+
+Ans: B
+
+Q27. Which is NOT a development tool?
+
+A. javac
+B. javadoc
+C. java
+D. JVM
+
+Ans: D
+
+Q28. JVM is included in:
+
+A. JDK only
+B. JRE only
+C. Both JDK and JRE
+D. OS
+
+Ans: C
+
+Q29. JRE cannot:
+
+A. Run Java programs
+B. Execute bytecode
+C. Compile Java code
+D. Use JVM
+
+Ans: C
+
+Q30. Relationship is:
+
+A. JVM ⊂ JRE ⊂ JDK
+B. JDK ⊂ JRE ⊂ JVM
+C. JRE ⊂ JVM ⊂ JDK
+D. JVM ⊂ JDK ⊂ JRE
+
+Ans: A
+
+📘 TOPIC 13: PATH vs CLASSPATH (30 MCQs)
+Q1. PATH is used to locate:
+
+A. Class files
+B. JVM
+C. Executable programs
+D. Libraries
+
+Ans: C
+
+Q2. CLASSPATH is used to locate:
+
+A. JVM
+B. Source files
+C. .class files
+D. OS files
+
+Ans: C
+
+Q3. PATH is a:
+
+A. Java keyword
+B. JVM option
+C. Environment variable
+D. Compiler option
+
+Ans: C
+
+Q4. CLASSPATH is a:
+
+A. Java package
+B. Environment variable
+C. JVM memory
+D. OS command
+
+Ans: B
+
+Q5. PATH helps OS to find:
+
+A. java.exe
+B. .class files
+C. packages
+D. libraries
+
+Ans: A
+
+Q6. CLASSPATH helps JVM to find:
+
+A. Compiler
+B. Interpreter
+C. Class files
+D. Native libraries
+
+Ans: C
+
+Q7. Wrong PATH setting causes:
+
+A. ClassNotFoundException
+B. java not recognized error
+C. RuntimeException
+D. Syntax error
+
+Ans: B
+
+Q8. Wrong CLASSPATH causes:
+
+A. Compilation error
+B. Runtime error
+C. ClassNotFoundException
+D. StackOverflowError
+
+Ans: C
+
+Q9. PATH is required for:
+
+A. Running java
+B. Running javac
+C. Both java and javac
+D. JVM only
+
+Ans: C
+
+Q10. CLASSPATH is checked by:
+
+A. OS
+B. Compiler
+C. JVM
+D. IDE
+
+Ans: C
+
+Q11. PATH is set at:
+
+A. JVM level
+B. OS level
+C. Application level
+D. Class level
+
+Ans: B
+
+Q12. CLASSPATH can include:
+
+A. Only directories
+B. Only jar files
+C. Directories and jar files
+D. Only exe files
+
+Ans: C
+
+Q13. Default CLASSPATH includes:
+
+A. Current directory
+B. bin folder
+C. lib folder
+D. src folder
+
+Ans: A
+
+Q14. Which separator is used in CLASSPATH (Windows)?
+
+A. :
+B. ;
+C. ,
+D. /
+
+Ans: B
+
+Q15. Which separator is used in CLASSPATH (Linux)?
+
+A. ;
+B. ,
+C. :
+D. /
+
+Ans: C
+
+Q16. PATH variable contains path of:
+
+A. JDK bin directory
+B. JRE lib directory
+C. JVM memory
+D. Class files
+
+Ans: A
+
+Q17. CLASSPATH is optional because:
+
+A. JVM ignores it
+B. Current directory is default
+C. OS sets it
+D. Compiler sets it
+
+Ans: B
+
+Q18. PATH is mandatory to:
+
+A. Write Java code
+B. Compile Java code
+C. Execute Java code
+D. All
+
+Ans: D
+
+Q19. CLASSPATH is mainly used during:
+
+A. Compilation
+B. Execution
+C. Both
+D. JVM startup
+
+Ans: C
+
+Q20. Which command uses CLASSPATH?
+
+A. javac
+B. java
+C. Both
+D. None
+
+Ans: C
+
+Q21. PATH variable is searched by:
+
+A. JVM
+B. Compiler
+C. OS
+D. IDE
+
+Ans: C
+
+Q22. CLASSPATH variable is searched by:
+
+A. OS
+B. JVM
+C. Compiler only
+D. GC
+
+Ans: B
+
+Q23. Incorrect CLASSPATH affects:
+
+A. Program logic
+B. Compilation and execution
+C. OS performance
+D. JVM memory
+
+Ans: B
+
+Q24. PATH does NOT contain:
+
+A. Executable files
+B. bin folder
+C. class files
+D. java.exe
+
+Ans: C
+
+Q25. CLASSPATH does NOT contain:
+
+A. .class files
+B. .jar files
+C. Source files
+D. Directories
+
+Ans: C
+
+Q26. PATH is inherited by:
+
+A. JVM
+B. Child processes
+C. Compiler
+D. IDE only
+
+Ans: B
+
+Q27. CLASSPATH can be set:
+
+A. Permanently
+B. Temporarily
+C. Command line
+D. All
+
+Ans: D
+
+Q28. PATH helps in:
+
+A. Class loading
+B. Bytecode execution
+C. Command recognition
+D. GC
+
+Ans: C
+
+Q29. CLASSPATH resolves:
+
+A. Symbolic references
+B. Class references
+C. Memory addresses
+D. Threads
+
+Ans: B
+
+Q30. PATH vs CLASSPATH difference is:
+
+A. Both same
+B. PATH → executables, CLASSPATH → classes
+C. PATH → classes, CLASSPATH → executables
+D. Both JVM options
+
+Ans: B
+
+✅ TOPIC 13 COMPLETE
+
+📘 TOPIC 14: JAVA IDENTIFIERS (30 MCQs)
+Q1. Identifier is used to identify:
+
+A. Keywords
+B. Literals
+C. Program elements
+D. Packages only
+
+Ans: C
+
+Q2. Identifier can represent:
+
+A. Class
+B. Method
+C. Variable
+D. All
+
+Ans: D
+
+Q3. Identifier must begin with:
+
+A. Digit
+B. Letter, _ or $
+C. Keyword
+D. Operator
+
+Ans: B
+
+Q4. Which is a valid identifier?
+
+A. 1value
+B. value-1
+C. value_1
+D. int
+
+Ans: C
+
+Q5. Java identifiers are:
+
+A. Case-insensitive
+B. Case-sensitive
+C. OS dependent
+D. Compiler dependent
+
+Ans: B
+
+Q6. Which is invalid identifier?
+
+A. $count
+B. _num
+C. myVar
+D. class
+
+Ans: D
+
+Q7. Which symbol is allowed in identifier?
+
+A. #
+B. @
+C. $
+D. %
+
+Ans: C
+
+Q8. Identifiers cannot contain:
+
+A. Digits
+B. Letters
+C. Special symbols (except _,$)
+D. Underscore
+
+Ans: C
+
+Q9. Which is valid?
+
+A. 123
+B. 123
+C. -count
+D. @num
+
+Ans: A
+
+Q10. Which keyword cannot be identifier?
+
+A. main
+B. String
+C. goto
+D. length
+
+Ans: C
+
+Q11. Java allows identifier length:
+
+A. Up to 32 chars
+B. Up to 64 chars
+C. Unlimited
+D. 255 chars
+
+Ans: C
+
+Q12. Which is true?
+
+A. Identifiers ignore case
+B. Keywords are identifiers
+C. Identifiers are user-defined
+D. Literals are identifiers
+
+Ans: C
+
+Q13. Unicode characters are:
+
+A. Not allowed
+B. Allowed in identifiers
+C. Only for strings
+D. Only for comments
+
+Ans: B
+
+Q14. Which is valid identifier?
+
+A. कुल
+B. var-name
+C. 2nd
+D. #value
+
+Ans: A
+
+Q15. Which is recommended?
+
+A. Short names
+B. Meaningful names
+C. Random names
+D. Numeric names
+
+Ans: B
+
+Q16. Identifier rules are checked at:
+
+A. Runtime
+B. Compile time
+C. Load time
+D. Execution
+
+Ans: B
+
+Q17. Identifier names are stored in:
+
+A. Heap
+B. Stack
+C. Method Area
+D. PC Register
+
+Ans: C
+
+Q18. Java identifier can start with:
+
+A. Only letters
+B. Letters and digits
+C. Letters, _ , $
+D. Digits only
+
+Ans: C
+
+Q19. Which is invalid?
+
+A. $value
+B. _value
+C. value123
+D. 123value
+
+Ans: D
+
+Q20. Identifiers differ by:
+
+A. Case
+B. Length
+C. Type
+D. Scope
+
+Ans: A
+
+Q21. Which is valid variable name?
+
+A. float
+B. final
+C. number
+D. class
+
+Ans: C
+
+Q22. Which cannot be identifier?
+
+A. true
+B. false
+C. null
+D. All
+
+Ans: D
+
+Q23. Identifier naming conventions improve:
+
+A. JVM speed
+B. Memory
+C. Readability
+D. Compilation
+
+Ans: C
+
+Q24. Which is NOT identifier?
+
+A. method name
+B. class name
+C. keyword
+D. variable name
+
+Ans: C
+
+Q25. Java follows which naming style?
+
+A. snake_case
+B. camelCase
+C. kebab-case
+D. Pascal only
+
+Ans: B
+
+Q26. Package names are usually:
+
+A. Uppercase
+B. CamelCase
+C. Lowercase
+D. Mixed
+
+Ans: C
+
+Q27. Class names are usually:
+
+A. lowercase
+B. uppercase
+C. PascalCase
+D. snake_case
+
+Ans: C
+
+Q28. Variable names are usually:
+
+A. PascalCase
+B. camelCase
+C. UPPERCASE
+D. snake_case
+
+Ans: B
+
+Q29. Constant identifiers are usually:
+
+A. camelCase
+B. lowercase
+C. UPPERCASE
+D. PascalCase
+
+Ans: C
+
+Q30. Identifier rules are enforced by:
+
+A. JVM
+B. Compiler
+C. OS
+D. IDE
+
+Ans: B
+
+✅ TOPIC 14 COMPLETE
+
+📘 TOPIC 15: JAVA KEYWORDS (30 MCQs)
+Q1. Java keywords are:
+
+A. User-defined
+B. Reserved words
+C. Literals
+D. Identifiers
+
+Ans: B
+
+Q2. Total Java keywords are:
+
+A. 48
+B. 50
+C. 52
+D. 54
+
+Ans: C
+
+Q3. Keywords cannot be used as:
+
+A. Variable names
+B. Method names
+C. Class names
+D. All
+
+Ans: D
+
+Q4. Which is a keyword?
+
+A. size
+B. length
+C. goto
+D. println
+
+Ans: C
+
+Q5. Which is NOT a keyword?
+
+A. static
+B. final
+C. String
+D. volatile
+
+Ans: C
+
+Q6. Which keyword is unused?
+
+A. goto
+B. const
+C. Both
+D. None
+
+Ans: C
+
+Q7. Which keyword is used for inheritance?
+
+A. this
+B. super
+C. extends
+D. implements
+
+Ans: C
+
+Q8. Which keyword is used to create object?
+
+A. create
+B. new
+C. alloc
+D. object
+
+Ans: B
+
+Q9. Which keyword restricts inheritance?
+
+A. static
+B. final
+C. private
+D. abstract
+
+Ans: B
+
+Q10. Which keyword is used for abstraction?
+
+A. final
+B. static
+C. abstract
+D. native
+
+Ans: C
+
+Q11. Which keyword is used to handle exceptions?
+
+A. error
+B. throws
+C. throw
+D. Both B and C
+
+Ans: D
+
+Q12. Which keyword is used to inherit interface?
+
+A. extends
+B. implements
+C. inherits
+D. instanceOf
+
+Ans: B
+
+Q13. Which keyword is used for synchronization?
+
+A. volatile
+B. synchronized
+C. transient
+D. static
+
+Ans: B
+
+Q14. Which keyword is used to define constant?
+
+A. const
+B. static
+C. final
+D. volatile
+
+Ans: C
+
+Q15. Which keyword is used to refer current object?
+
+A. this
+B. super
+C. self
+D. object
+
+Ans: A
+
+Q16. Which keyword refers parent class object?
+
+A. this
+B. parent
+C. super
+D. base
+
+Ans: C
+
+Q17. Which keyword is used to inherit class?
+
+A. implements
+B. extends
+C. inherits
+D. import
+
+Ans: B
+
+Q18. Which keyword is used to import package?
+
+A. include
+B. using
+C. import
+D. package
+
+Ans: C
+
+Q19. Which keyword is used to define package?
+
+A. import
+B. package
+C. class
+D. public
+
+Ans: B
+
+Q20. Which keyword is used to stop execution?
+
+A. stop
+B. break
+C. exit
+D. return
+
+Ans: B
+
+Q21. Which keyword skips current iteration?
+
+A. break
+B. skip
+C. continue
+D. next
+
+Ans: C
+
+Q22. Which keyword is used to return value?
+
+A. back
+B. exit
+C. return
+D. yield
+
+Ans: C
+
+Q23. Which keyword is used to define interface?
+
+A. interface
+B. abstract
+C. class
+D. implements
+
+Ans: A
+
+Q24. Which keyword checks object type?
+
+A. typeof
+B. instanceof
+C. is
+D. check
+
+Ans: B
+
+Q25. Which keyword is used for thread creation?
+
+A. run
+B. start
+C. extends
+D. new
+
+Ans: C
+
+Q26. Which keyword is used to declare method without body?
+
+A. static
+B. final
+C. abstract
+D. native
+
+Ans: C
+
+Q27. Which keyword prevents method overriding?
+
+A. private
+B. static
+C. final
+D. protected
+
+Ans: C
+
+Q28. Which keyword allows variable sharing across threads?
+
+A. final
+B. static
+C. volatile
+D. transient
+
+Ans: C
+
+Q29. Which keyword avoids serialization?
+
+A. static
+B. transient
+C. volatile
+D. final
+
+Ans: B
+
+Q30. Keywords are stored in:
+
+A. Heap
+B. Stack
+C. Method Area
+D. PC Register
+
+Ans: C
+
+📘 TOPIC 16: ACCESS MODIFIERS (30 MCQs)
+Q1. Access modifiers control:
+
+A. Memory
+B. Execution
+C. Visibility
+D. Logic
+
+Ans: C
+
+Q2. Total access modifiers in Java are:
+
+A. 2
+B. 3
+C. 4
+D. 5
+
+Ans: C
+
+Q3. Which has widest access?
+
+A. private
+B. default
+C. protected
+D. public
+
+Ans: D
+
+Q4. private members are accessible within:
+
+A. Package
+B. Class
+C. Subclass
+D. Project
+
+Ans: B
+
+Q5. Default access is also called:
+
+A. Public
+B. Private
+C. Protected
+D. Package-private
+
+Ans: D
+
+Q6. protected members are accessible in:
+
+A. Same class only
+B. Same package only
+C. Same package + subclasses
+D. Anywhere
+
+Ans: C
+
+Q7. public members are accessible:
+
+A. Same class
+B. Same package
+C. Same project
+D. Everywhere
+
+Ans: D
+
+Q8. Which modifier is most restrictive?
+
+A. public
+B. protected
+C. default
+D. private
+
+Ans: D
+
+Q9. Access modifiers can be applied to:
+
+A. Classes
+B. Methods
+C. Variables
+D. All
+
+Ans: D
+
+Q10. Top-level class can be:
+
+A. private
+B. protected
+C. public
+D. default
+
+Ans: C
+
+Q11. Which is invalid for top-level class?
+
+A. public
+B. default
+C. protected
+D. none
+
+Ans: C
+
+Q12. private access is allowed for:
+
+A. Classes
+B. Methods
+C. Variables
+D. Both B and C
+
+Ans: D
+
+Q13. protected access is useful for:
+
+A. Encapsulation
+B. Inheritance
+C. Polymorphism
+D. Abstraction
+
+Ans: B
+
+Q14. Access modifiers are checked at:
+
+A. Runtime
+B. Compile time
+C. Load time
+D. Execution
+
+Ans: B
+
+Q15. Which modifier supports encapsulation?
+
+A. public
+B. private
+C. protected
+D. default
+
+Ans: B
+
+Q16. Default access allows access within:
+
+A. Class only
+B. Package only
+C. Project
+D. JVM
+
+Ans: B
+
+Q17. Which modifier allows subclass access outside package?
+
+A. public
+B. private
+C. default
+D. protected
+
+Ans: D
+
+Q18. Access modifiers cannot be applied to:
+
+A. Local variables
+B. Instance variables
+C. Methods
+D. Classes
+
+Ans: A
+
+Q19. Which modifier increases security?
+
+A. public
+B. protected
+C. private
+D. default
+
+Ans: C
+
+Q20. Which modifier supports method overriding?
+
+A. final
+B. private
+C. public
+D. static
+
+Ans: C
+
+Q21. private methods can be overridden?
+
+A. Yes
+B. No
+C. Sometimes
+D. JVM dependent
+
+Ans: B
+
+Q22. protected members are inherited?
+
+A. No
+B. Yes
+C. Only in same package
+D. Only public
+
+Ans: B
+
+Q23. Which modifier restricts class inheritance?
+
+A. private
+B. protected
+C. final
+D. static
+
+Ans: C
+
+Q24. Access modifiers help achieve:
+
+A. Encapsulation
+B. Security
+C. Data hiding
+D. All
+
+Ans: D
+
+Q25. Which is default visibility?
+
+A. public
+B. protected
+C. private
+D. package-private
+
+Ans: D
+
+Q26. Access modifiers affect:
+
+A. Memory
+B. Performance
+C. Scope
+D. Visibility
+
+Ans: D
+
+Q27. Which is NOT access modifier?
+
+A. public
+B. private
+C. final
+D. protected
+
+Ans: C
+
+Q28. protected is less restrictive than:
+
+A. public
+B. private
+C. default
+D. final
+
+Ans: B
+
+Q29. public is less restrictive than:
+
+A. protected
+B. private
+C. default
+D. none
+
+Ans: A
+
+Q30. Access control is enforced by:
+
+A. JVM
+B. Compiler
+C. OS
+D. IDE
+
+Ans: B
+
+📘 TOPIC 17: DATA TYPES (30 MCQs)
+Q1. Java is:
+
+A. Weakly typed
+B. Strongly typed
+C. Untyped
+D. Dynamically typed
+
+Ans: B
+
+Q2. Total primitive data types in Java are:
+
+A. 6
+B. 7
+C. 8
+D. 9
+
+Ans: C
+
+Q3. Which is NOT primitive data type?
+
+A. int
+B. float
+C. String
+D. char
+
+Ans: C
+
+Q4. Size of int is:
+
+A. 8-bit
+B. 16-bit
+C. 32-bit
+D. 64-bit
+
+Ans: C
+
+Q5. Size of char is:
+
+A. 8-bit
+B. 16-bit
+C. 32-bit
+D. Depends on OS
+
+Ans: B
+
+Q6. Default value of int is:
+
+A. 1
+B. 0
+C. null
+D. undefined
+
+Ans: B
+
+Q7. Default value of boolean is:
+
+A. true
+B. false
+C. 0
+D. null
+
+Ans: B
+
+Q8. Which data type is used for decimal values?
+
+A. int
+B. float
+C. boolean
+D. char
+
+Ans: B
+
+Q9. Which has highest range?
+
+A. int
+B. long
+C. float
+D. double
+
+Ans: D
+
+Q10. Which data type is used for single character?
+
+A. String
+B. char
+C. byte
+D. short
+
+Ans: B
+
+Q11. byte size is:
+
+A. 8-bit
+B. 16-bit
+C. 32-bit
+D. 64-bit
+
+Ans: A
+
+Q12. short size is:
+
+A. 8-bit
+B. 16-bit
+C. 32-bit
+D. 64-bit
+
+Ans: B
+
+Q13. long size is:
+
+A. 16-bit
+B. 32-bit
+C. 64-bit
+D. OS dependent
+
+Ans: C
+
+Q14. float literal ends with:
+
+A. d
+B. l
+C. f
+D. c
+
+Ans: C
+
+Q15. Default data type of decimal value is:
+
+A. float
+B. double
+C. long
+D. int
+
+Ans: B
+
+Q16. boolean size is:
+
+A. 1-bit
+B. 8-bit
+C. JVM dependent
+D. OS dependent
+
+Ans: C
+
+Q17. Primitive data types are stored in:
+
+A. Heap
+B. Stack
+C. Method Area
+D. PC Register
+
+Ans: B
+
+Q18. Non-primitive data types are stored in:
+
+A. Stack
+B. Heap
+C. Method Area
+D. PC Register
+
+Ans: B
+
+Q19. Which is non-primitive?
+
+A. int
+B. char
+C. boolean
+D. Array
+
+Ans: D
+
+Q20. Wrapper class of int is:
+
+A. Int
+B. Integer
+C. intWrapper
+D. Number
+
+Ans: B
+
+Q21. Wrapper classes belong to:
+
+A. java.lang
+B. java.util
+C. java.io
+D. java.math
+
+Ans: A
+
+Q22. Auto-boxing converts:
+
+A. Object → primitive
+B. primitive → object
+C. String → int
+D. char → String
+
+Ans: B
+
+Q23. Unboxing converts:
+
+A. Object → primitive
+B. primitive → object
+C. int → String
+D. char → int
+
+Ans: A
+
+Q24. Which supports generics?
+
+A. Primitive
+B. Wrapper
+C. Both
+D. None
+
+Ans: B
+
+Q25. Which cannot be null?
+
+A. Integer
+B. String
+C. int
+D. Object
+
+Ans: C
+
+Q26. Data types are checked at:
+
+A. Runtime
+B. Compile time
+C. Load time
+D. Execution
+
+Ans: B
+
+Q27. Which is signed?
+
+A. char
+B. boolean
+C. byte
+D. void
+
+Ans: C
+
+Q28. char range is:
+
+A. -128 to 127
+B. 0 to 65535
+C. -32768 to 32767
+D. JVM dependent
+
+Ans: B
+
+Q29. Java uses Unicode for:
+
+A. Strings
+B. Characters
+C. Numbers
+D. Keywords
+
+Ans: B
+
+Q30. Data types improve:
+
+A. Security
+B. Memory management
+C. Type safety
+D. All
+
+Ans: D
+
+📘 TOPIC 18: ACCESS MODIFIERS (30 MCQs)
+Q1. Which access modifier has the highest accessibility?
+
+A. default
+B. protected
+C. private
+D. public
+
+Ans: D
+
+Q2. Default access modifier is also called:
+
+A. public
+B. protected
+C. package-private
+D. private
+
+Ans: C
+
+Q3. private members are accessible within:
+
+A. Same package
+B. Subclass
+C. Same class
+D. Anywhere
+
+Ans: C
+
+Q4. protected members are accessible in:
+
+A. Same class only
+B. Same package only
+C. Same package + subclass
+D. Anywhere
+
+Ans: C
+
+Q5. Which modifier allows access anywhere?
+
+A. protected
+B. default
+C. private
+D. public
+
+Ans: D
+
+Q6. Which modifier is NOT allowed for classes?
+
+A. public
+B. default
+C. protected
+D. private
+
+Ans: C
+
+Q7. A class declared without modifier is:
+
+A. public
+B. protected
+C. private
+D. default
+
+Ans: D
+
+Q8. private methods are:
+
+A. Overridden
+B. Inherited
+C. Not accessible outside class
+D. Accessible in subclass
+
+Ans: C
+
+Q9. Which modifier supports inheritance?
+
+A. private
+B. default
+C. protected
+D. final
+
+Ans: C
+
+Q10. Which has package-level visibility?
+
+A. public
+B. private
+C. default
+D. protected
+
+Ans: C
+
+Q11. public members are accessible:
+
+A. Same class
+B. Same package
+C. Different package
+D. All of the above
+
+Ans: D
+
+Q12. protected members are NOT accessible in:
+
+A. Same class
+B. Same package
+C. Subclass (different package)
+D. Non-subclass (different package)
+
+Ans: D
+
+Q13. private variables support:
+
+A. Inheritance
+B. Encapsulation
+C. Polymorphism
+D. Abstraction
+
+Ans: B
+
+Q14. Access modifiers control:
+
+A. Execution
+B. Memory
+C. Accessibility
+D. Performance
+
+Ans: C
+
+Q15. Which modifier is most restrictive?
+
+A. public
+B. default
+C. protected
+D. private
+
+Ans: D
+
+Q16. Which is valid for methods?
+
+A. private
+B. protected
+C. public
+D. All of the above
+
+Ans: D
+
+Q17. Which modifier is missing if nothing is specified?
+
+A. public
+B. protected
+C. private
+D. default
+
+Ans: D
+
+Q18. Can constructors be private?
+
+A. Yes
+B. No
+C. Only public
+D. Only protected
+
+Ans: A
+
+Q19. Which modifier prevents external access?
+
+A. protected
+B. public
+C. private
+D. default
+
+Ans: C
+
+Q20. Which supports encapsulation most?
+
+A. public
+B. private
+C. protected
+D. default
+
+Ans: B
+
+Q21. protected allows access:
+
+A. Only in same class
+B. Only in same package
+C. Same package + subclass
+D. Anywhere
+
+Ans: C
+
+Q22. Which modifier is used least?
+
+A. public
+B. protected
+C. private
+D. default
+
+Ans: D
+
+Q23. Which is compile-time check?
+
+A. Access violation
+B. Runtime error
+C. GC error
+D. Stack error
+
+Ans: A
+
+Q24. Which modifier cannot be applied to local variables?
+
+A. public
+B. protected
+C. private
+D. All of the above
+
+Ans: D
+
+Q25. Which modifier supports data hiding?
+
+A. public
+B. protected
+C. private
+D. default
+
+Ans: C
+
+Q26. Access modifiers are checked by:
+
+A. JVM
+B. Compiler
+C. OS
+D. JRE
+
+Ans: B
+
+Q27. Which modifier is optional?
+
+A. public
+B. private
+C. default
+D. protected
+
+Ans: C
+
+Q28. Which is valid for variables?
+
+A. public
+B. private
+C. protected
+D. All of the above
+
+Ans: D
+
+Q29. Which modifier is NOT inherited?
+
+A. public
+B. protected
+C. default
+D. private
+
+Ans: D
+
+Q30. Access modifiers improve:
+
+A. Security
+B. Readability
+C. Maintainability
+D. All of the above
+
+Ans: D
+
+📘 TOPIC 19: DATA TYPES (30 MCQs)
+Q1. Java has how many primitive data types?
+
+A. 6
+B. 7
+C. 8
+D. 9
+
+Ans: C
+
+Q2. Which is NOT primitive?
+
+A. int
+B. float
+C. String
+D. char
+
+Ans: C
+
+Q3. Size of int is:
+
+A. 8 bits
+B. 16 bits
+C. 32 bits
+D. 64 bits
+
+Ans: C
+
+Q4. Size of char is:
+
+A. 8 bits
+B. 16 bits
+C. 32 bits
+D. 64 bits
+
+Ans: B
+
+Q5. boolean size is:
+
+A. 1 bit
+B. JVM dependent
+C. 8 bits
+D. 16 bits
+
+Ans: B
+
+Q6. Range of byte is:
+
+A. −128 to 127
+B. 0 to 255
+C. −256 to 255
+D. −127 to 128
+
+Ans: A
+
+Q7. Which has highest range?
+
+A. int
+B. float
+C. double
+D. long
+
+Ans: C
+
+Q8. Default value of int:
+
+A. 0
+B. null
+C. undefined
+D. garbage
+
+Ans: A
+
+Q9. Default value of boolean:
+
+A. true
+B. false
+C. 0
+D. null
+
+Ans: B
+
+Q10. Which is smallest data type?
+
+A. byte
+B. short
+C. int
+D. char
+
+Ans: A
+
+Q11. Which stores decimal values?
+
+A. int
+B. float
+C. char
+D. boolean
+
+Ans: B
+
+Q12. long literal ends with:
+
+A. f
+B. d
+C. l / L
+D. b
+
+Ans: C
+
+Q13. float literal ends with:
+
+A. f
+B. d
+C. l
+D. c
+
+Ans: A
+
+Q14. double is default for:
+
+A. Integer
+B. Decimal
+C. Char
+D. Boolean
+
+Ans: B
+
+Q15. char stores:
+
+A. Numbers
+B. Characters
+C. Unicode
+D. All of the above
+
+Ans: D
+
+Q16. Which is signed?
+
+A. byte
+B. short
+C. int
+D. All
+
+Ans: D
+
+Q17. Which is unsigned?
+
+A. char
+B. byte
+C. short
+D. int
+
+Ans: A
+
+Q18. boolean can store:
+
+A. 0 and 1
+B. true and false
+C. yes and no
+D. null
+
+Ans: B
+
+Q19. Primitive types are stored in:
+
+A. Heap
+B. Stack
+C. Method area
+D. PC register
+
+Ans: B
+
+Q20. Reference variables store:
+
+A. Value
+B. Address
+C. Object
+D. Class
+
+Ans: B
+
+Q21. Default value of reference:
+
+A. 0
+B. false
+C. null
+D. undefined
+
+Ans: C
+
+Q22. Which is 64-bit?
+
+A. int
+B. float
+C. double
+D. char
+
+Ans: C
+
+Q23. byte is mainly used for:
+
+A. Speed
+B. Memory saving
+C. Accuracy
+D. Security
+
+Ans: B
+
+Q24. Which is not numeric?
+
+A. int
+B. char
+C. float
+D. double
+
+Ans: B
+
+Q25. Which occupies more memory?
+
+A. int
+B. float
+C. double
+D. short
+
+Ans: C
+
+Q26. char literal is written in:
+
+A. ""
+B. <>
+C. ''
+D. {}
+
+Ans: C
+
+Q27. Which stores true/false?
+
+A. int
+B. boolean
+C. char
+D. byte
+
+Ans: B
+
+Q28. Data types are checked at:
+
+A. Runtime
+B. Compile time
+C. Load time
+D. Execution
+
+Ans: B
+
+Q29. Java is:
+
+A. Weakly typed
+B. Strongly typed
+C. Untyped
+D. Dynamically typed
+
+Ans: B
+
+Q30. Data types define:
+
+A. Memory
+B. Range
+C. Type of data
+D. All of the above
+
+Ans: D
+
+📘 TOPIC 20: LITERALS (30 MCQs)
+Q1. Literal represents:
+
+A. Variable
+B. Value
+C. Method
+D. Class
+
+Ans: B
+
+Q2. Integer literal default type:
+
+A. byte
+B. short
+C. int
+D. long
+
+Ans: C
+
+Q3. Floating literal default type:
+
+A. float
+B. double
+C. int
+D. long
+
+Ans: B
+
+Q4. Which is valid int literal?
+
+A. 10.5
+B. 012
+C. 10L
+D. 10f
+
+Ans: B
+
+Q5. Octal literals start with:
+
+A. 0
+B. 0x
+C. 0b
+D. 1
+
+Ans: A
+
+Q6. Hexadecimal literals start with:
+
+A. 0
+B. 0x
+C. 0b
+D. #
+
+Ans: B
+
+Q7. Binary literals start with:
+
+A. 0
+B. 0x
+C. 0b
+D. b
+
+Ans: C
+
+Q8. Char literal uses:
+
+A. ASCII
+B. Unicode
+C. Binary
+D. Hex
+
+Ans: B
+
+Q9. Which is valid char literal?
+
+A. 'ab'
+B. '1'
+C. "a"
+D. ab
+
+Ans: B
+
+Q10. Which is invalid?
+
+A. 10
+B. 0x10
+C. 08
+D. 0b101
+
+Ans: C
+
+Q11. Boolean literal values:
+
+A. yes/no
+B. 1/0
+C. true/false
+D. T/F
+
+Ans: C
+
+Q12. null literal is used for:
+
+A. int
+B. float
+C. object reference
+D. char
+
+Ans: C
+
+Q13. Which is not literal?
+
+A. 10
+B. true
+C. null
+D. x
+
+Ans: D
+
+Q14. Float literal must end with:
+
+A. d
+B. f
+C. l
+D. c
+
+Ans: B
+
+Q15. Long literal ends with:
+
+A. L
+B. F
+C. D
+D. C
+
+Ans: A
+
+Q16. Scientific notation example:
+
+A. 10.5
+B. 1e2
+C. 012
+D. 0x10
+
+Ans: B
+
+Q17. Which is decimal literal?
+
+A. 010
+B. 0x10
+C. 10
+D. 0b10
+
+Ans: C
+
+Q18. Char literal occupies:
+
+A. 1 byte
+B. 2 bytes
+C. 4 bytes
+D. 8 bytes
+
+Ans: B
+
+Q19. String literal is:
+
+A. Primitive
+B. Object
+C. Method
+D. Class
+
+Ans: B
+
+Q20. String literals are stored in:
+
+A. Heap
+B. Stack
+C. SCP
+D. Method area
+
+Ans: C
+
+Q21. SCP stands for:
+
+A. String Constant Pool
+B. Static Code Pool
+C. System Cache Pool
+D. Stack Control Pool
+
+Ans: A
+
+Q22. null means:
+
+A. Zero
+B. Empty
+C. No object
+D. Garbage
+
+Ans: C
+
+Q23. Which literal causes error?
+
+A. 10
+B. 'a'
+C. "a"
+D. 'ab'
+
+Ans: D
+
+Q24. Boolean literals are:
+
+A. Case sensitive
+B. Case insensitive
+C. Numeric
+D. Character
+
+Ans: A
+
+Q25. Which is invalid boolean?
+
+A. true
+B. false
+C. True
+D. false
+
+Ans: C
+
+Q26. Literal type is decided by:
+
+A. Compiler
+B. JVM
+C. OS
+D. JRE
+
+Ans: A
+
+Q27. Which is valid long?
+
+A. 10
+B. 10l
+C. 10.0
+D. 10f
+
+Ans: B
+
+Q28. Floating literals without suffix are:
+
+A. float
+B. double
+C. int
+D. long
+
+Ans: B
+
+Q29. Literal improves:
+
+A. Execution
+B. Initialization
+C. Compilation
+D. Loading
+
+Ans: B
+
+Q30. Literal values are:
+
+A. Changeable
+B. Fixed
+C. Dynamic
+D. Optional
+
+Ans: B
+
+📘 TOPIC 21: TYPE CASTING (30 MCQs)
+Q1. Type casting means:
+
+A. Changing value
+B. Changing type
+C. Changing memory
+D. Changing variable
+
+Ans: B
+
+Q2. Automatic casting is:
+
+A. Explicit
+B. Implicit
+C. Manual
+D. Forced
+
+Ans: B
+
+Q3. Widening is:
+
+A. Large → small
+B. Small → large
+C. Same size
+D. Object → primitive
+
+Ans: B
+
+Q4. Narrowing requires:
+
+A. JVM
+B. Compiler
+C. Explicit cast
+D. OS
+
+Ans: C
+
+Q5. Which is widening?
+
+A. int → byte
+B. byte → int
+C. double → float
+D. long → int
+
+Ans: B
+
+Q6. Which is narrowing?
+
+A. int → long
+B. float → double
+C. double → int
+D. byte → short
+
+Ans: C
+
+Q7. Widening is:
+
+A. Unsafe
+B. Safe
+C. Error
+D. Runtime
+
+Ans: B
+
+Q8. Narrowing may cause:
+
+A. Error
+B. Data loss
+C. GC
+D. Overflow only
+
+Ans: B
+
+Q9. Which casting is automatic?
+
+A. int → double
+B. double → int
+C. float → byte
+D. long → short
+
+Ans: A
+
+Q10. Explicit casting syntax:
+
+A. (type) value
+B. type(value)
+C. value(type)
+D. cast value
+
+Ans: A
+
+Q11. char to int is:
+
+A. Narrowing
+B. Widening
+C. Error
+D. Invalid
+
+Ans: B
+
+Q12. int to char is:
+
+A. Widening
+B. Narrowing
+C. Automatic
+D. Invalid
+
+Ans: B
+
+Q13. Casting is checked at:
+
+A. Runtime
+B. Compile time
+C. Both
+D. Load time
+
+Ans: C
+
+Q14. Object casting applies to:
+
+A. Primitive
+B. Reference
+C. Arrays
+D. Literals
+
+Ans: B
+
+Q15. Invalid cast causes:
+
+A. Compile error
+B. Runtime exception
+C. Warning
+D. GC
+
+Ans: B
+
+Q16. Which exception for object casting?
+
+A. ClassNotFound
+B. NullPointer
+C. ClassCastException
+D. Arithmetic
+
+Ans: C
+
+Q17. Casting boolean is:
+
+A. Allowed
+B. Not allowed
+C. Automatic
+D. Explicit
+
+Ans: B
+
+Q18. byte → short is:
+
+A. Narrowing
+B. Widening
+C. Error
+D. Invalid
+
+Ans: B
+
+Q19. float → long is:
+
+A. Widening
+B. Narrowing
+C. Automatic
+D. Invalid
+
+Ans: B
+
+Q20. Casting does not change:
+
+A. Type
+B. Value representation
+C. Variable
+D. Memory
+
+Ans: C
+
+Q21. Widening avoids:
+
+A. Data loss
+B. Compilation
+C. Memory
+D. Execution
+
+Ans: A
+
+Q22. Which needs explicit cast?
+
+A. byte → int
+B. int → double
+C. double → float
+D. char → int
+
+Ans: C
+
+Q23. Casting improves:
+
+A. Performance
+B. Compatibility
+C. Flexibility
+D. Security
+
+Ans: C
+
+Q24. Primitive casting happens:
+
+A. Compile time
+B. Runtime
+C. Both
+D. Load time
+
+Ans: A
+
+Q25. Object casting happens:
+
+A. Compile time
+B. Runtime
+C. Load time
+D. Link time
+
+Ans: B
+
+Q26. Which is invalid?
+
+A. (int)10.5
+B. (byte)130
+C. (boolean)1
+D. (char)65
+
+Ans: C
+
+Q27. Casting may cause:
+
+A. Error
+B. Exception
+C. Data loss
+D. All
+
+Ans: D
+
+Q28. Which is safe?
+
+A. Narrowing
+B. Explicit
+C. Widening
+D. Forced
+
+Ans: C
+
+Q29. Casting is used for:
+
+A. Conversion
+B. Calculation
+C. Storage
+D. GC
+
+Ans: A
+
+Q30. Type casting is:
+
+A. Mandatory
+B. Optional
+C. Automatic only
+D. JVM only
+
+Ans: B
+
+📘 TOPIC 22: ARRAYS (30 MCQs)
+Q1. Array stores:
+
+A. Different data types
+B. Same data type
+C. Objects only
+D. Methods
+
+Ans: B
+
+Q2. Array index starts from:
+
+A. 1
+B. 0
+C. −1
+D. Any
+
+Ans: B
+
+Q3. Array size is:
+
+A. Dynamic
+B. Fixed
+C. Optional
+D. Variable
+
+Ans: B
+
+Q4. Arrays are stored in:
+
+A. Stack
+B. Heap
+C. Method area
+D. PC register
+
+Ans: B
+
+Q5. Which is valid declaration?
+
+A. int a[5];
+B. int[] a;
+C. int a();
+D. array int a;
+
+Ans: B
+
+Q6. Array length is accessed by:
+
+A. size()
+B. length()
+C. length
+D. count
+
+Ans: C
+
+Q7. Array index out of range causes:
+
+A. Compile error
+B. Runtime exception
+C. Warning
+D. GC
+
+Ans: B
+
+Q8. Exception name:
+
+A. NullPointer
+B. Arithmetic
+C. ArrayIndexOutOfBounds
+D. ClassCast
+
+Ans: C
+
+Q9. Multidimensional array is:
+
+A. Array of values
+B. Array of arrays
+C. Object array
+D. String array
+
+Ans: B
+
+Q10. Jagged array means:
+
+A. Same length rows
+B. Different length rows
+C. Single dimension
+D. Static array
+
+Ans: B
+
+Q11. Default value of int array:
+
+A. 0
+B. null
+C. garbage
+D. undefined
+
+Ans: A
+
+Q12. Default value of reference array:
+
+A. 0
+B. false
+C. null
+D. empty
+
+Ans: C
+
+Q13. Array is:
+
+A. Primitive
+B. Object
+C. Method
+D. Interface
+
+Ans: B
+
+Q14. Size of array decided at:
+
+A. Compile time
+B. Runtime
+C. Load time
+D. Link time
+
+Ans: B
+
+Q15. Which loop best for arrays?
+
+A. while
+B. do-while
+C. for
+D. enhanced for
+
+Ans: D
+
+Q16. Enhanced for introduced in:
+
+A. Java 1.2
+B. Java 1.3
+C. Java 1.5
+D. Java 1.8
+
+Ans: C
+
+Q17. Can array store objects?
+
+A. No
+B. Yes
+C. Only primitive
+D. Only String
+
+Ans: B
+
+Q18. Array name stores:
+
+A. Value
+B. Size
+C. Address
+D. Type
+
+Ans: C
+
+Q19. Negative index causes:
+
+A. Compile error
+B. Runtime exception
+C. Warning
+D. GC
+
+Ans: B
+
+Q20. Arrays are:
+
+A. Growable
+B. Shrinkable
+C. Fixed size
+D. Resizable
+
+Ans: C
+
+Q21. Which is 2D array?
+
+A. int[] a
+B. int[][] a
+C. int a[]
+D. int a[][][]
+
+Ans: B
+
+Q22. Array length is:
+
+A. Method
+B. Variable
+C. Object
+D. Keyword
+
+Ans: B
+
+Q23. Can array size be zero?
+
+A. No
+B. Yes
+C. Error
+D. Warning
+
+Ans: B
+
+Q24. Which is invalid?
+
+A. new int[5]
+B. new int[0]
+C. new int[-1]
+D. new int[10]
+
+Ans: C
+
+Q25. Array initialization happens:
+
+A. Compile time
+B. Runtime
+C. Load time
+D. Link time
+
+Ans: B
+
+Q26. Arrays are accessed using:
+
+A. ()
+B. {}
+C. []
+D. <>
+
+Ans: C
+
+Q27. Can array store null?
+
+A. Primitive array
+B. Reference array
+C. int array
+D. char array
+
+Ans: B
+
+Q28. Arrays support:
+
+A. Random access
+B. Sequential only
+C. Stack access
+D. Queue access
+
+Ans: A
+
+Q29. Array is faster because:
+
+A. Fixed size
+B. Continuous memory
+C. Direct access
+D. All
+
+Ans: D
+
+Q30. Arrays are used to store:
+
+A. Single value
+B. Multiple values
+C. Classes
+D. Packages
+
+Ans: B
+
+📘 TOPIC 23: CONTROL STATEMENTS (30 MCQs)
+Q1. Control statements are used to:
+
+A. Store data
+B. Control execution flow
+C. Allocate memory
+D. Compile code
+
+Ans: B
+
+Q2. Which is a selection statement?
+
+A. for
+B. while
+C. if
+D. break
+
+Ans: C
+
+Q3. if statement executes when condition is:
+
+A. false
+B. true
+C. zero
+D. null
+
+Ans: B
+
+Q4. switch works with:
+
+A. boolean
+B. long
+C. char, int, String
+D. float
+
+Ans: C
+
+Q5. Default case in switch is:
+
+A. Mandatory
+B. Optional
+C. First
+D. Last only
+
+Ans: B
+
+Q6. Which loop is entry-controlled?
+
+A. do-while
+B. while
+C. for
+D. while and for
+
+Ans: D
+
+Q7. Which loop is exit-controlled?
+
+A. for
+B. while
+C. do-while
+D. enhanced for
+
+Ans: C
+
+Q8. for loop has how many parts?
+
+A. 1
+B. 2
+C. 3
+D. 4
+
+Ans: C
+
+Q9. Infinite loop example:
+
+A. for(;;)
+B. while(false)
+C. do-while(false)
+D. if(true)
+
+Ans: A
+
+Q10. break is used to:
+
+A. Skip iteration
+B. Stop loop
+C. Restart loop
+D. Pause loop
+
+Ans: B
+
+Q11. continue is used to:
+
+A. Stop loop
+B. Skip current iteration
+C. Exit program
+D. Restart JVM
+
+Ans: B
+
+Q12. Labeled break is used to:
+
+A. Stop inner loop
+B. Stop outer loop
+C. Stop JVM
+D. Stop method
+
+Ans: B
+
+Q13. Which loop is best when iterations are known?
+
+A. while
+B. do-while
+C. for
+D. infinite
+
+Ans: C
+
+Q14. Which loop is best when condition is unknown?
+
+A. for
+B. while
+C. do-while
+D. enhanced for
+
+Ans: B
+
+Q15. Enhanced for works on:
+
+A. Numbers
+B. Arrays & collections
+C. Methods
+D. Classes
+
+Ans: B
+
+Q16. Which keyword exits method?
+
+A. break
+B. continue
+C. return
+D. exit
+
+Ans: C
+
+Q17. Nested loops mean:
+
+A. Multiple loops
+B. Loop inside loop
+C. Infinite loop
+D. Recursive loop
+
+Ans: B
+
+Q18. Which causes compile error?
+
+A. while(true)
+B. do{}while(false);
+C. if()
+D. for(;;)
+
+Ans: C
+
+Q19. switch without break causes:
+
+A. Error
+B. Jump
+C. Fall-through
+D. Stop
+
+Ans: C
+
+Q20. Which is not loop?
+
+A. for
+B. while
+C. if
+D. do-while
+
+Ans: C
+
+Q21. continue skips:
+
+A. Loop
+B. JVM
+C. Method
+D. Current iteration
+
+Ans: D
+
+Q22. break skips:
+
+A. Iteration
+B. Loop
+C. Method
+D. Class
+
+Ans: B
+
+Q23. Control statements execute at:
+
+A. Compile time
+B. Runtime
+C. Load time
+D. Link time
+
+Ans: B
+
+Q24. switch expression must be:
+
+A. boolean
+B. Constant
+C. Integer compatible
+D. Any type
+
+Ans: C
+
+Q25. Which cannot be used in switch?
+
+A. int
+B. char
+C. String
+D. double
+
+Ans: D
+
+Q26. if-else is:
+
+A. Iteration
+B. Selection
+C. Jump
+D. Declaration
+
+Ans: B
+
+Q27. Which keyword skips to next loop iteration?
+
+A. break
+B. continue
+C. return
+D. goto
+
+Ans: B
+
+Q28. goto in Java is:
+
+A. Used
+B. Keyword
+C. Reserved but unused
+D. Deprecated
+
+Ans: C
+
+Q29. Control flow improves:
+
+A. Memory
+B. Logic
+C. Speed
+D. Security
+
+Ans: B
+
+Q30. Control statements define:
+
+A. Execution order
+B. Compilation
+C. Loading
+D. Linking
+
+Ans: A
+
+📘 TOPIC 24: EXCEPTION HANDLING (30 MCQs)
+Q1. Exception is:
+
+A. Error
+B. Runtime problem
+C. Compile issue
+D. Syntax error
+
+Ans: B
+
+Q2. Exception handling prevents:
+
+A. Compilation
+B. Abnormal termination
+C. Errors
+D. Bugs
+
+Ans: B
+
+Q3. Exception occurs at:
+
+A. Compile time
+B. Runtime
+C. Load time
+D. Link time
+
+Ans: B
+
+Q4. Which keyword handles exception?
+
+A. throw
+B. throws
+C. try-catch
+D. final
+
+Ans: C
+
+Q5. try block contains:
+
+A. Error code
+B. Risky code
+C. Safe code
+D. Final code
+
+Ans: B
+
+Q6. catch block executes when:
+
+A. No exception
+B. Exception occurs
+C. JVM stops
+D. GC runs
+
+Ans: B
+
+Q7. finally block executes:
+
+A. Only if exception
+B. Only if no exception
+C. Always
+D. Never
+
+Ans: C
+
+Q8. Which is checked exception?
+
+A. ArithmeticException
+B. NullPointerException
+C. IOException
+D. ArrayIndexOut
+
+Ans: C
+
+Q9. Which is unchecked exception?
+
+A. IOException
+B. SQLException
+C. ClassNotFound
+D. ArithmeticException
+
+Ans: D
+
+Q10. Parent class of all exceptions:
+
+A. Error
+B. Throwable
+C. Exception
+D. RuntimeException
+
+Ans: B
+
+Q11. throw is used to:
+
+A. Declare exception
+B. Handle exception
+C. Create exception
+D. Explicitly throw exception
+
+Ans: D
+
+Q12. throws is used to:
+
+A. Handle exception
+B. Declare exception
+C. Catch exception
+D. Ignore exception
+
+Ans: B
+
+Q13. Multiple catch blocks:
+
+A. Allowed
+B. Not allowed
+C. Deprecated
+D. Mandatory
+
+Ans: A
+
+Q14. Order of catch blocks:
+
+A. Parent first
+B. Child first
+C. Any
+D. Random
+
+Ans: B
+
+Q15. Which causes compile error?
+
+A. try without catch
+B. try without finally
+C. catch without try
+D. finally without catch
+
+Ans: C
+
+Q16. finally block is skipped when:
+
+A. Exception occurs
+B. return executed
+C. System.exit() called
+D. GC runs
+
+Ans: C
+
+Q17. Which is error?
+
+A. IOException
+B. SQLException
+C. OutOfMemoryError
+D. ClassNotFound
+
+Ans: C
+
+Q18. RuntimeException is:
+
+A. Checked
+B. Unchecked
+C. Compile-time
+D. Error
+
+Ans: B
+
+Q19. Exception handling improves:
+
+A. Speed
+B. Reliability
+C. Memory
+D. Compilation
+
+Ans: B
+
+Q20. try block must be followed by:
+
+A. catch or finally
+B. catch only
+C. finally only
+D. throw
+
+Ans: A
+
+Q21. Nested try is:
+
+A. Invalid
+B. Allowed
+C. Deprecated
+D. Mandatory
+
+Ans: B
+
+Q22. Which exception occurs dividing by zero?
+
+A. NullPointer
+B. Arithmetic
+C. IOException
+D. NumberFormat
+
+Ans: B
+
+Q23. Custom exception extends:
+
+A. Error
+B. Throwable
+C. Exception
+D. Object
+
+Ans: C
+
+Q24. Checked exceptions are checked at:
+
+A. Runtime
+B. Compile time
+C. Load time
+D. Link time
+
+Ans: B
+
+Q25. Unchecked exceptions are checked at:
+
+A. Compile time
+B. Runtime
+C. Load time
+D. Link time
+
+Ans: B
+
+Q26. Which keyword creates exception object?
+
+A. throw
+B. new
+C. throws
+D. catch
+
+Ans: B
+
+Q27. catch parameter must be:
+
+A. Object
+B. Throwable
+C. Exception type
+D. String
+
+Ans: C
+
+Q28. Exception handling avoids:
+
+A. JVM crash
+B. Program termination
+C. Compilation
+D. Loading
+
+Ans: B
+
+Q29. Which is NOT exception keyword?
+
+A. try
+B. catch
+C. finally
+D. final
+
+Ans: D
+
+Q30. Exception handling is:
+
+A. Optional
+B. Mandatory
+C. Automatic
+D. JVM-only
+
+Ans: A
+
+📘 TOPIC 25: STRING (30 MCQs)
+Q1. String is:
+
+A. Primitive
+B. Object
+C. Array
+D. Method
+
+Ans: B
+
+Q2. String objects are:
+
+A. Mutable
+B. Immutable
+C. Dynamic
+D. Static
+
+Ans: B
+
+Q3. String literals are stored in:
+
+A. Heap
+B. Stack
+C. SCP
+D. Method area
+
+Ans: C
+
+Q4. SCP stands for:
+
+A. Static Code Pool
+B. String Constant Pool
+C. System Cache Pool
+D. Stack Control Pool
+
+Ans: B
+
+Q5. new String("java") creates:
+
+A. 0 objects
+B. 1 object
+C. 2 objects
+D. 3 objects
+
+Ans: C
+
+Q6. == compares:
+
+A. Value
+B. Content
+C. Reference
+D. Length
+
+Ans: C
+
+Q7. equals() compares:
+
+A. Reference
+B. Content
+C. Length
+D. Hash
+
+Ans: B
+
+Q8. concat() returns:
+
+A. Same object
+B. New object
+C. null
+D. Error
+
+Ans: B
+
+Q9. String length method:
+
+A. size()
+B. length()
+C. count()
+D. getLength()
+
+Ans: B
+
+Q10. Which is mutable?
+
+A. String
+B. StringBuilder
+C. StringBuffer
+D. B and C
+
+Ans: D
+
+Q11. StringBuffer is:
+
+A. Non-thread safe
+B. Thread-safe
+C. Immutable
+D. Deprecated
+
+Ans: B
+
+Q12. StringBuilder is:
+
+A. Thread-safe
+B. Immutable
+C. Faster
+D. Synchronized
+
+Ans: C
+
+Q13. StringBuffer introduced in:
+
+A. Java 1.0
+B. Java 1.2
+C. Java 1.4
+D. Java 1.5
+
+Ans: A
+
+Q14. StringBuilder introduced in:
+
+A. Java 1.4
+B. Java 1.5
+C. Java 1.6
+D. Java 1.8
+
+Ans: B
+
+Q15. String immutability improves:
+
+A. Speed
+B. Security
+C. Memory
+D. Compilation
+
+Ans: B
+
+Q16. toString() returns:
+
+A. Object
+B. String
+C. int
+D. boolean
+
+Ans: B
+
+Q17. String is final class:
+
+A. Yes
+B. No
+C. Optional
+D. Deprecated
+
+Ans: A
+
+Q18. Can String be inherited?
+
+A. Yes
+B. No
+C. Sometimes
+D. JVM dependent
+
+Ans: B
+
+Q19. compareTo() returns:
+
+A. boolean
+B. String
+C. int
+D. char
+
+Ans: C
+
+Q20. String concatenation operator:
+
+A. &
+B. +
+C. *
+D. %
+
+Ans: B
+
+Q21. Interning stores String in:
+
+A. Heap
+B. Stack
+C. SCP
+D. Method
+
+Ans: C
+
+Q22. Which method checks empty string?
+
+A. isEmpty()
+B. isNull()
+C. length()
+D. equals()
+
+Ans: A
+
+Q23. trim() removes:
+
+A. All spaces
+B. Leading & trailing spaces
+C. Middle spaces
+D. Tabs only
+
+Ans: B
+
+Q24. String index starts at:
+
+A. 1
+B. 0
+C. -1
+D. Any
+
+Ans: B
+
+Q25. charAt() returns:
+
+A. String
+B. char
+C. int
+D. boolean
+
+Ans: B
+
+Q26. substring() returns:
+
+A. char
+B. String
+C. boolean
+D. Object
+
+Ans: B
+
+Q27. String objects are stored in:
+
+A. Stack only
+B. Heap only
+C. Heap & SCP
+D. Method area
+
+Ans: C
+
+Q28. Which is faster?
+
+A. String
+B. StringBuffer
+C. StringBuilder
+D. All same
+
+Ans: C
+
+Q29. equalsIgnoreCase() compares:
+
+A. Reference
+B. Case-sensitive
+C. Case-insensitive
+D. Length
+
+Ans: C
+
+Q30. String is heavily used because:
+
+A. Security
+B. Immutability
+C. Performance
+D. All
+
+Ans: D
+
+📘 TOPIC 26: WRAPPER CLASSES (30 MCQs)
+Q1. Wrapper classes convert:
+
+A. Object → primitive
+B. Primitive → object
+C. Object → object
+D. String → int
+
+Ans: B
+
+Q2. Wrapper class for int:
+
+A. Int
+B. Integer
+C. Number
+D. Long
+
+Ans: B
+
+Q3. Wrapper classes are in package:
+
+A. java.io
+B. java.util
+C. java.lang
+D. java.sql
+
+Ans: C
+
+Q4. Autoboxing means:
+
+A. Object → primitive
+B. Primitive → object
+C. Casting
+D. Conversion
+
+Ans: B
+
+Q5. Unboxing means:
+
+A. Object → primitive
+B. Primitive → object
+C. Casting
+D. Promotion
+
+Ans: A
+
+Q6. Autoboxing introduced in:
+
+A. Java 1.4
+B. Java 1.5
+C. Java 1.6
+D. Java 1.8
+
+Ans: B
+
+Q7. Wrapper classes are:
+
+A. Mutable
+B. Immutable
+C. Abstract
+D. Static
+
+Ans: B
+
+Q8. valueOf() returns:
+
+A. primitive
+B. wrapper object
+C. String
+D. boolean
+
+Ans: B
+
+Q9. parseInt() returns:
+
+A. String
+B. Integer
+C. int
+D. Object
+
+Ans: C
+
+Q10. Which is NOT wrapper?
+
+A. Integer
+B. Character
+C. String
+D. Boolean
+
+Ans: C
+
+Q11. All wrapper classes extend:
+
+A. Object
+B. Number
+C. Comparable
+D. Throwable
+
+Ans: A
+
+Q12. Except which does not extend Number?
+
+A. Integer
+B. Double
+C. Boolean
+D. Long
+
+Ans: C
+
+Q13. max() method belongs to:
+
+A. Math
+B. Integer
+C. Object
+D. System
+
+Ans: B
+
+Q14. Wrapper classes support:
+
+A. Collections
+B. Generics
+C. Utility methods
+D. All
+
+Ans: D
+
+Q15. Wrapper objects stored in:
+
+A. Stack
+B. Heap
+C. SCP
+D. Method area
+
+Ans: B
+
+Q16. compareTo() belongs to:
+
+A. Object
+B. Comparable
+C. Wrapper
+D. Both B and C
+
+Ans: D
+
+Q17. equals() compares:
+
+A. Reference
+B. Value
+C. Type
+D. Hash
+
+Ans: B
+
+Q18. Integer cache range:
+
+A. -100 to 100
+B. -128 to 127
+C. 0 to 255
+D. JVM dependent
+
+Ans: B
+
+Q19. Wrapper classes improve:
+
+A. Performance
+B. OOP support
+C. Security
+D. Compilation
+
+Ans: B
+
+Q20. Which supports null?
+
+A. int
+B. Integer
+C. char
+D. boolean
+
+Ans: B
+
+Q21. Wrapper required for:
+
+A. Arrays
+B. Collections
+C. Loops
+D. Methods
+
+Ans: B
+
+Q22. parseXxx() throws:
+
+A. IOException
+B. NumberFormatException
+C. NullPointer
+D. ClassCast
+
+Ans: B
+
+Q23. Wrapper classes are:
+
+A. final
+B. abstract
+C. static
+D. volatile
+
+Ans: A
+
+Q24. Boolean wrapper values:
+
+A. 0/1
+B. true/false
+C. yes/no
+D. T/F
+
+Ans: B
+
+Q25. Autoboxing reduces:
+
+A. Code
+B. Errors
+C. Performance
+D. Memory
+
+Ans: A
+
+Q26. Unboxing may cause:
+
+A. Compile error
+B. Runtime exception
+C. Warning
+D. GC
+
+Ans: B
+
+Q27. Wrapper comparison using == compares:
+
+A. Value
+B. Reference
+C. Content
+D. Hash
+
+Ans: B
+
+Q28. Wrapper comparison using equals compares:
+
+A. Reference
+B. Value
+C. Type
+D. Address
+
+Ans: B
+
+Q29. Wrapper classes are used because:
+
+A. OOP
+B. Utility methods
+C. Collections
+D. All
+
+Ans: D
+
+Q30. Wrapper classes convert:
+
+A. Primitive ↔ Object
+B. String ↔ Object
+C. Object ↔ Object
+D. Primitive ↔ String
+
+Ans: A
+
+📘 TOPIC 27: OOPS CONCEPTS (30 MCQs)
+Q1. OOPS stands for:
+
+A. Object Oriented Programming System
+B. Object Oriented Programming Structure
+C. Object Oriented Process System
+D. Object Oriented Programming Software
+
+Ans: A
+
+Q2. Main pillars of OOPS are:
+
+A. 2
+B. 3
+C. 4
+D. 5
+
+Ans: C
+
+Q3. OOPS pillars include:
+
+A. Encapsulation
+B. Inheritance
+C. Polymorphism
+D. All of the above
+
+Ans: D
+
+Q4. Object is:
+
+A. Blueprint
+B. Instance of class
+C. Method
+D. Variable
+
+Ans: B
+
+Q5. Class is:
+
+A. Object
+B. Blueprint of object
+C. Method
+D. Constructor
+
+Ans: B
+
+Q6. OOPS improves:
+
+A. Security
+B. Reusability
+C. Maintainability
+D. All
+
+Ans: D
+
+Q7. Real-world entity in Java is represented by:
+
+A. Method
+B. Variable
+C. Object
+D. Package
+
+Ans: C
+
+Q8. Which supports data hiding?
+
+A. Polymorphism
+B. Inheritance
+C. Encapsulation
+D. Abstraction
+
+Ans: C
+
+Q9. Which supports code reuse?
+
+A. Polymorphism
+B. Inheritance
+C. Abstraction
+D. Encapsulation
+
+Ans: B
+
+Q10. Which supports multiple behavior?
+
+A. Encapsulation
+B. Inheritance
+C. Polymorphism
+D. Abstraction
+
+Ans: C
+
+Q11. Which hides implementation details?
+
+A. Encapsulation
+B. Polymorphism
+C. Inheritance
+D. Abstraction
+
+Ans: D
+
+Q12. Object contains:
+
+A. State
+B. Behavior
+C. Identity
+D. All
+
+Ans: D
+
+Q13. State of object is represented by:
+
+A. Methods
+B. Variables
+C. Constructors
+D. Blocks
+
+Ans: B
+
+Q14. Behavior of object is represented by:
+
+A. Variables
+B. Methods
+C. Constructors
+D. Packages
+
+Ans: B
+
+Q15. Identity of object is:
+
+A. Name
+B. Memory address
+C. Reference
+D. Hash only
+
+Ans: B
+
+Q16. OOPS is mainly used for:
+
+A. Speed
+B. Memory
+C. Real-world modeling
+D. Compilation
+
+Ans: C
+
+Q17. Java is:
+
+A. Pure OOPS
+B. Partial OOPS
+C. Non-OOPS
+D. Structural
+
+Ans: B
+
+Q18. Why Java is not pure OOPS?
+
+A. Uses static
+B. Uses primitive types
+C. Uses final
+D. Uses packages
+
+Ans: B
+
+Q19. Object creation keyword:
+
+A. create
+B. new
+C. alloc
+D. init
+
+Ans: B
+
+Q20. Object reference stores:
+
+A. Object
+B. Address
+C. Value
+D. Type
+
+Ans: B
+
+Q21. Multiple objects can be created from:
+
+A. One method
+B. One class
+C. One package
+D. One constructor only
+
+Ans: B
+
+Q22. OOPS focuses on:
+
+A. Data
+B. Functions
+C. Objects
+D. Logic
+
+Ans: C
+
+Q23. Class does not occupy memory until:
+
+A. Compiled
+B. Loaded
+C. Object created
+D. JVM starts
+
+Ans: C
+
+Q24. Object occupies memory in:
+
+A. Stack
+B. Heap
+C. Method area
+D. PC register
+
+Ans: B
+
+Q25. OOPS reduces:
+
+A. Code length
+B. Complexity
+C. Bugs
+D. All
+
+Ans: D
+
+Q26. Which is not OOPS feature?
+
+A. Encapsulation
+B. Inheritance
+C. Compilation
+D. Polymorphism
+
+Ans: C
+
+Q27. OOPS makes system:
+
+A. Complex
+B. Unstructured
+C. Modular
+D. Slow
+
+Ans: C
+
+Q28. Java supports OOPS via:
+
+A. Classes
+B. Objects
+C. Interfaces
+D. All
+
+Ans: D
+
+Q29. OOPS design is:
+
+A. Top-down
+B. Bottom-up
+C. Linear
+D. Random
+
+Ans: B
+
+Q30. OOPS improves development:
+
+A. Time
+B. Quality
+C. Cost
+D. All
+
+Ans: D
+
+📘 TOPIC 28: INHERITANCE (30 MCQs)
+Q1. Inheritance means:
+
+A. Copying code
+B. Acquiring properties
+C. Overloading methods
+D. Hiding data
+
+Ans: B
+
+Q2. Parent class is also called:
+
+A. Child
+B. Subclass
+C. Superclass
+D. Instance
+
+Ans: C
+
+Q3. Child class is also called:
+
+A. Superclass
+B. Base class
+C. Subclass
+D. Parent
+
+Ans: C
+
+Q4. Keyword used for inheritance:
+
+A. implements
+B. inherits
+C. extends
+D. super
+
+Ans: C
+
+Q5. Java supports how many inheritance types?
+
+A. 3
+B. 4
+C. 5
+D. 6
+
+Ans: B
+
+Q6. Which inheritance is NOT supported by class?
+
+A. Single
+B. Multilevel
+C. Hierarchical
+D. Multiple
+
+Ans: D
+
+Q7. Multiple inheritance is supported using:
+
+A. Class
+B. Interface
+C. Object
+D. Package
+
+Ans: B
+
+Q8. Inheritance supports:
+
+A. Encapsulation
+B. Reusability
+C. Security
+D. Compilation
+
+Ans: B
+
+Q9. Which keyword refers parent object?
+
+A. this
+B. parent
+C. super
+D. base
+
+Ans: C
+
+Q10. super() calls:
+
+A. Child constructor
+B. Parent constructor
+C. Method
+D. Block
+
+Ans: B
+
+Q11. super() must be:
+
+A. Anywhere
+B. Last statement
+C. First statement
+D. Optional only
+
+Ans: C
+
+Q12. Constructor inheritance is:
+
+A. Supported
+B. Not supported
+C. Optional
+D. Automatic
+
+Ans: B
+
+Q13. Private members are:
+
+A. Inherited
+B. Overridden
+C. Not inherited
+D. Accessible
+
+Ans: C
+
+Q14. Protected members are:
+
+A. Not inherited
+B. Inherited
+C. Hidden
+D. Static
+
+Ans: B
+
+Q15. Method overriding requires:
+
+A. Same name
+B. Same signature
+C. Inheritance
+D. All
+
+Ans: D
+
+Q16. Inheritance is applied using:
+
+A. Objects
+B. Classes
+C. Methods
+D. Variables
+
+Ans: B
+
+Q17. Parent reference can refer:
+
+A. Parent object only
+B. Child object only
+C. Both
+D. None
+
+Ans: C
+
+Q18. Child reference can refer:
+
+A. Parent object
+B. Child object
+C. Both
+D. None
+
+Ans: B
+
+Q19. Final class can be:
+
+A. Inherited
+B. Overridden
+C. Extended
+D. Not inherited
+
+Ans: D
+
+Q20. Inheritance increases:
+
+A. Coupling
+B. Reusability
+C. Complexity only
+D. Memory usage
+
+Ans: B
+
+Q21. IS-A relationship represents:
+
+A. Composition
+B. Aggregation
+C. Inheritance
+D. Association
+
+Ans: C
+
+Q22. extends keyword used for:
+
+A. Interface to class
+B. Class to class
+C. Interface to interface
+D. Both B and C
+
+Ans: D
+
+Q23. implements keyword used for:
+
+A. Class to class
+B. Interface to class
+C. Interface to interface
+D. Package
+
+Ans: B
+
+Q24. Inheritance supports:
+
+A. Code duplication
+B. Code reuse
+C. Code hiding
+D. Compilation
+
+Ans: B
+
+Q25. Multilevel inheritance means:
+
+A. One parent many child
+B. One child many parent
+C. Chain of inheritance
+D. No inheritance
+
+Ans: C
+
+Q26. Hierarchical inheritance means:
+
+A. One parent many children
+B. Many parent one child
+C. Chain
+D. Multiple
+
+Ans: A
+
+Q27. Which causes ambiguity?
+
+A. Single inheritance
+B. Multilevel
+C. Multiple inheritance
+D. Hierarchical
+
+Ans: C
+
+Q28. Java avoids ambiguity by:
+
+A. Compiler
+B. JVM
+C. Interfaces
+D. Abstract class
+
+Ans: C
+
+Q29. Inheritance occurs at:
+
+A. Compile time
+B. Runtime
+C. Load time
+D. Link time
+
+Ans: A
+
+Q30. Inheritance improves:
+
+A. Design
+B. Reuse
+C. Maintainability
+D. All
+
+Ans: D
+
+📘 TOPIC 29: POLYMORPHISM (30 MCQs)
+Q1. Polymorphism means:
+
+A. One form
+B. Many forms
+C. Same form
+D. No form
+
+Ans: B
+
+Q2. Polymorphism is achieved by:
+
+A. Overloading
+B. Overriding
+C. Inheritance
+D. All
+
+Ans: D
+
+Q3. Compile-time polymorphism is:
+
+A. Overriding
+B. Overloading
+C. Inheritance
+D. Casting
+
+Ans: B
+
+Q4. Runtime polymorphism is:
+
+A. Overloading
+B. Overriding
+C. Abstraction
+D. Encapsulation
+
+Ans: B
+
+Q5. Method overloading means:
+
+A. Same name, same signature
+B. Same name, different parameters
+C. Different name
+D. Same return type only
+
+Ans: B
+
+Q6. Method overriding requires:
+
+A. Same class
+B. Different class
+C. Inheritance
+D. Object
+
+Ans: C
+
+Q7. Overloading happens at:
+
+A. Compile time
+B. Runtime
+C. Load time
+D. Execution
+
+Ans: A
+
+Q8. Overriding happens at:
+
+A. Compile time
+B. Runtime
+C. Load time
+D. Link time
+
+Ans: B
+
+Q9. Static methods can be:
+
+A. Overridden
+B. Overloaded
+C. Hidden only
+D. Both B and C
+
+Ans: D
+
+Q10. Final methods:
+
+A. Can be overridden
+B. Cannot be overridden
+C. Overloaded only
+D. Hidden
+
+Ans: B
+
+Q11. Overriding method access level must be:
+
+A. Same or higher
+B. Lower
+C. Private
+D. Default only
+
+Ans: A
+
+Q12. Covariant return type means:
+
+A. Same return type
+B. Subclass return type
+C. Any return type
+D. void only
+
+Ans: B
+
+Q13. Dynamic method dispatch occurs in:
+
+A. Overloading
+B. Overriding
+C. Encapsulation
+D. Abstraction
+
+Ans: B
+
+Q14. Parent reference child object shows:
+
+A. Compile error
+B. Runtime polymorphism
+C. Overloading
+D. Casting
+
+Ans: B
+
+Q15. Method binding at runtime is:
+
+A. Static
+B. Dynamic
+C. Early
+D. Compile
+
+Ans: B
+
+Q16. Method binding at compile time is:
+
+A. Dynamic
+B. Late
+C. Static
+D. Runtime
+
+Ans: C
+
+Q17. Private methods are:
+
+A. Overridden
+B. Overloaded
+C. Hidden
+D. Not inherited
+
+Ans: D
+
+Q18. Which supports polymorphism?
+
+A. Inheritance
+B. Method call
+C. Objects
+D. All
+
+Ans: A
+
+Q19. Constructor overloading is:
+
+A. Allowed
+B. Not allowed
+C. Runtime
+D. Deprecated
+
+Ans: A
+
+Q20. Constructor overriding is:
+
+A. Allowed
+B. Not allowed
+C. Compile time
+D. Runtime
+
+Ans: B
+
+Q21. Which cannot be overloaded?
+
+A. Methods
+B. Constructors
+C. Operators
+D. Main method
+
+Ans: C
+
+Q22. Main method can be:
+
+A. Overloaded
+B. Overridden
+C. Hidden
+D. Both A and C
+
+Ans: D
+
+Q23. Polymorphism improves:
+
+A. Flexibility
+B. Extensibility
+C. Maintainability
+D. All
+
+Ans: D
+
+Q24. Same method name different parameters is:
+
+A. Overriding
+B. Overloading
+C. Inheritance
+D. Abstraction
+
+Ans: B
+
+Q25. Same method signature different body is:
+
+A. Overloading
+B. Overriding
+C. Hiding
+D. Casting
+
+Ans: B
+
+Q26. Runtime polymorphism depends on:
+
+A. Reference type
+B. Object type
+C. Compiler
+D. JVM only
+
+Ans: B
+
+Q27. Which is resolved at runtime?
+
+A. Overloading
+B. Overriding
+C. Constructor call
+D. Static method
+
+Ans: B
+
+Q28. Polymorphism is related to:
+
+A. Objects
+B. Methods
+C. References
+D. All
+
+Ans: D
+
+Q29. Polymorphism supports:
+
+A. Code reuse
+B. Loose coupling
+C. Extensibility
+D. All
+
+Ans: D
+
+Q30. Polymorphism is core of:
+
+A. OOPS
+B. JVM
+C. JRE
+D. JDK
+
+Ans: A
+
+📘 TOPIC 30: ABSTRACTION & INTERFACE (30 MCQs)
+Q1. Abstraction means:
+
+A. Hiding data
+B. Hiding implementation
+C. Showing logic
+D. Showing code
+
+Ans: B
+
+Q2. Abstraction is achieved using:
+
+A. Objects
+B. Interfaces
+C. Abstract classes
+D. Both B and C
+
+Ans: D
+
+Q3. Abstract method has:
+
+A. Body
+B. Implementation
+C. No body
+D. Variables
+
+Ans: C
+
+Q4. Abstract class can have:
+
+A. Abstract methods only
+B. Concrete methods only
+C. Both
+D. None
+
+Ans: C
+
+Q5. Abstract class object creation is:
+
+A. Allowed
+B. Not allowed
+C. Optional
+D. Automatic
+
+Ans: B
+
+Q6. Interface supports:
+
+A. 100% abstraction
+B. Partial abstraction
+C. No abstraction
+D. Encapsulation
+
+Ans: A
+
+Q7. Interface methods are:
+
+A. private
+B. protected
+C. public abstract
+D. static
+
+Ans: C
+
+Q8. Interface variables are:
+
+A. Instance
+B. Static
+C. Final
+D. B and C
+
+Ans: D
+
+Q9. Class implements interface using:
+
+A. extends
+B. implements
+C. inherits
+D. super
+
+Ans: B
+
+Q10. Multiple inheritance is achieved using:
+
+A. Class
+B. Abstract class
+C. Interface
+D. Object
+
+Ans: C
+
+Q11. Interface can extend:
+
+A. Class
+B. Interface
+C. Object
+D. Package
+
+Ans: B
+
+Q12. Abstract class can extend:
+
+A. Interface
+B. Abstract class
+C. Class
+D. B and C
+
+Ans: D
+
+Q13. Default methods introduced in:
+
+A. Java 1.5
+B. Java 1.6
+C. Java 1.7
+D. Java 1.8
+
+Ans: D
+
+Q14. Interface static methods are:
+
+A. Inherited
+B. Overridden
+C. Not inherited
+D. Abstract
+
+Ans: C
+
+Q15. Abstract class constructor:
+
+A. Not allowed
+B. Allowed
+C. Mandatory
+D. Private only
+
+Ans: B
+
+Q16. Interface constructor is:
+
+A. Allowed
+B. Not allowed
+C. Optional
+D. Private
+
+Ans: B
+
+Q17. Abstract class supports:
+
+A. Multiple inheritance
+B. Single inheritance
+C. No inheritance
+D. Hybrid
+
+Ans: B
+
+Q18. Interface supports:
+
+A. Multiple inheritance
+B. Single inheritance
+C. No inheritance
+D. Hybrid only
+
+Ans: A
+
+Q19. Abstraction improves:
+
+A. Security
+B. Flexibility
+C. Maintainability
+D. All
+
+Ans: D
+
+Q20. Abstract method must be implemented by:
+
+A. Parent
+B. Child
+C. JVM
+D. Compiler
+
+Ans: B
+
+Q21. Interface methods are implemented by:
+
+A. Interface
+B. Abstract class
+C. Concrete class
+D. JVM
+
+Ans: C
+
+Q22. Abstract class can have:
+
+A. main method
+B. static block
+C. instance block
+D. All
+
+Ans: D
+
+Q23. Interface methods are by default:
+
+A. public
+B. private
+C. protected
+D. default
+
+Ans: A
+
+Q24. Abstraction focuses on:
+
+A. How
+B. What
+C. Where
+D. When
+
+Ans: B
+
+Q25. Abstract class is:
+
+A. 0–100% abstraction
+B. 100% abstraction
+C. No abstraction
+D. JVM dependent
+
+Ans: A
+
+Q26. Interface is:
+
+A. Partial abstraction
+B. Full abstraction
+C. No abstraction
+D. Optional abstraction
+
+Ans: B
+
+Q27. Abstract keyword is used with:
+
+A. Method
+B. Class
+C. Both
+D. Variable
+
+Ans: C
+
+Q28. Interface keyword used to:
+
+A. Create class
+B. Create object
+C. Create abstraction
+D. Create method
+
+Ans: C
+
+Q29. Abstraction hides:
+
+A. Data
+B. Implementation
+C. Methods
+D. Variables
+
+Ans: B
+
+Q30. Abstraction is core of:
+
+A. OOPS
+B. JVM
+C. JRE
+D. JDK
+
+Ans: A
+
+📘 TOPIC 31: ENCAPSULATION (30 MCQs)
+Q1. Encapsulation means:
+
+A. Binding code and data
+B. Hiding data
+C. Inheriting data
+D. Overloading methods
+
+Ans: A
+
+Q2. Encapsulation is achieved using:
+
+A. Classes
+B. Objects
+C. Access modifiers
+D. Packages
+
+Ans: C
+
+Q3. Which access modifier best supports encapsulation?
+
+A. public
+B. protected
+C. default
+D. private
+
+Ans: D
+
+Q4. Encapsulation mainly provides:
+
+A. Security
+B. Speed
+C. Memory
+D. Compilation
+
+Ans: A
+
+Q5. Data hiding is done using:
+
+A. public
+B. default
+C. protected
+D. private
+
+Ans: D
+
+Q6. Getter method is used to:
+
+A. Set value
+B. Get value
+C. Delete value
+D. Modify class
+
+Ans: B
+
+Q7. Setter method is used to:
+
+A. Get value
+B. Set value
+C. Print value
+D. Remove value
+
+Ans: B
+
+Q8. Encapsulation combines:
+
+A. Variables and packages
+B. Methods and objects
+C. Variables and methods
+D. Classes and objects
+
+Ans: C
+
+Q9. Which violates encapsulation?
+
+A. private variables
+B. public variables
+C. getter/setter
+D. access control
+
+Ans: B
+
+Q10. Encapsulation improves:
+
+A. Readability
+B. Maintainability
+C. Security
+D. All
+
+Ans: D
+
+Q11. Encapsulation is:
+
+A. Compile-time
+B. Runtime
+C. Design-time
+D. Load-time
+
+Ans: C
+
+Q12. Which is true?
+
+A. Encapsulation hides data
+B. Encapsulation hides methods
+C. Encapsulation hides classes
+D. Encapsulation hides packages
+
+Ans: A
+
+Q13. Java Bean follows:
+
+A. Inheritance
+B. Polymorphism
+C. Encapsulation
+D. Abstraction
+
+Ans: C
+
+Q14. Encapsulation reduces:
+
+A. Coupling
+B. Cohesion
+C. Inheritance
+D. Polymorphism
+
+Ans: A
+
+Q15. Variables in encapsulation should be:
+
+A. public
+B. protected
+C. default
+D. private
+
+Ans: D
+
+Q16. Encapsulation supports:
+
+A. Loose coupling
+B. Tight coupling
+C. No coupling
+D. Static binding
+
+Ans: A
+
+Q17. Which example shows encapsulation?
+
+A. Class with public fields
+B. Class with private fields + getters
+C. Only methods
+D. Only variables
+
+Ans: B
+
+Q18. Encapsulation is mandatory in Java?
+
+A. Yes
+B. No
+C. JVM dependent
+D. Compiler dependent
+
+Ans: B
+
+Q19. Encapsulation focuses on:
+
+A. Implementation
+B. Interface
+C. Data protection
+D. Execution
+
+Ans: C
+
+Q20. Encapsulation is related to:
+
+A. Objects
+B. Classes
+C. Access control
+D. All
+
+Ans: D
+
+Q21. Encapsulation avoids:
+
+A. Code duplication
+B. Unauthorized access
+C. Overloading
+D. Inheritance
+
+Ans: B
+
+Q22. Which keyword helps encapsulation?
+
+A. static
+B. final
+C. private
+D. abstract
+
+Ans: C
+
+Q23. Encapsulation supports:
+
+A. Abstraction
+B. Polymorphism
+C. Inheritance
+D. All
+
+Ans: D
+
+Q24. Encapsulation is also known as:
+
+A. Data hiding
+B. Code reuse
+C. Method binding
+D. Dynamic dispatch
+
+Ans: A
+
+Q25. Encapsulation example is common in:
+
+A. JSP
+B. Servlets
+C. Java Beans
+D. JDBC
+
+Ans: C
+
+Q26. Encapsulation improves API design?
+
+A. Yes
+B. No
+C. Sometimes
+D. JVM dependent
+
+Ans: A
+
+Q27. Encapsulation is checked at:
+
+A. Runtime
+B. Compile time
+C. Design time
+D. Execution
+
+Ans: B
+
+Q28. Encapsulation reduces:
+
+A. Flexibility
+B. Security
+C. Coupling
+D. Reuse
+
+Ans: C
+
+Q29. Encapsulation is core of:
+
+A. JVM
+B. OOPS
+C. JDK
+D. JRE
+
+Ans: B
+
+Q30. Best practice for encapsulation:
+
+A. Public variables
+B. Private variables + public methods
+C. Protected variables
+D. Static variables
+
+Ans: B
+
+📘 TOPIC 32: CONSTRUCTORS (30 MCQs)
+Q1. Constructor is used to:
+
+A. Create class
+B. Initialize object
+C. Call method
+D. Destroy object
+
+Ans: B
+
+Q2. Constructor name must be:
+
+A. Any name
+B. Class name
+C. Method name
+D. Object name
+
+Ans: B
+
+Q3. Constructor has return type?
+
+A. Yes
+B. No
+C. void
+D. Object
+
+Ans: B
+
+Q4. Default constructor is provided by:
+
+A. Programmer
+B. JVM
+C. Compiler
+D. JRE
+
+Ans: C
+
+Q5. Constructor is called:
+
+A. Manually
+B. Automatically
+C. By JVM only
+D. By user
+
+Ans: B
+
+Q6. Constructor executes at:
+
+A. Compile time
+B. Runtime
+C. Load time
+D. Link time
+
+Ans: B
+
+Q7. Constructor overloading is:
+
+A. Allowed
+B. Not allowed
+C. Deprecated
+D. Optional
+
+Ans: A
+
+Q8. Constructor overriding is:
+
+A. Allowed
+B. Not allowed
+C. Runtime
+D. Compile time
+
+Ans: B
+
+Q9. this() is used to:
+
+A. Call method
+B. Call parent constructor
+C. Call same class constructor
+D. Call child constructor
+
+Ans: C
+
+Q10. super() is used to:
+
+A. Call method
+B. Call parent constructor
+C. Call child constructor
+D. Call object
+
+Ans: B
+
+Q11. this() or super() must be:
+
+A. Anywhere
+B. Last statement
+C. First statement
+D. Optional
+
+Ans: C
+
+Q12. Private constructor is used in:
+
+A. Inheritance
+B. Singleton class
+C. Abstract class
+D. Interface
+
+Ans: B
+
+Q13. Can constructor be static?
+
+A. Yes
+B. No
+C. Optional
+D. JVM dependent
+
+Ans: B
+
+Q14. Constructor chaining means:
+
+A. Calling method
+B. Calling constructors
+C. Overloading
+D. Inheritance
+
+Ans: B
+
+Q15. If no constructor defined, Java provides:
+
+A. Parameterized constructor
+B. Copy constructor
+C. Default constructor
+D. Static constructor
+
+Ans: C
+
+Q16. Parameterized constructor is used to:
+
+A. Initialize with values
+B. Call JVM
+C. Create class
+D. Inherit class
+
+Ans: A
+
+Q17. Constructors are inherited?
+
+A. Yes
+B. No
+C. Sometimes
+D. JVM dependent
+
+Ans: B
+
+Q18. Constructor can be:
+
+A. private
+B. protected
+C. public
+D. All
+
+Ans: D
+
+Q19. Constructor belongs to:
+
+A. Object
+B. Class
+C. JVM
+D. Package
+
+Ans: B
+
+Q20. Constructor returns:
+
+A. Object
+B. Value
+C. Nothing
+D. Reference
+
+Ans: C
+
+Q21. Constructor is used for:
+
+A. Memory allocation
+B. Initialization
+C. Execution
+D. Compilation
+
+Ans: B
+
+Q22. Can abstract class have constructor?
+
+A. Yes
+B. No
+C. Optional
+D. Deprecated
+
+Ans: A
+
+Q23. Constructor is not allowed in:
+
+A. Class
+B. Interface
+C. Abstract class
+D. Inner class
+
+Ans: B
+
+Q24. Constructor executes before:
+
+A. Method
+B. Static block
+C. Instance block
+D. main method
+
+Ans: D
+
+Q25. Constructor is same as method?
+
+A. Yes
+B. No
+C. Sometimes
+D. JVM dependent
+
+Ans: B
+
+Q26. Constructor name case-sensitive?
+
+A. Yes
+B. No
+C. Optional
+D. JVM dependent
+
+Ans: A
+
+Q27. Constructor cannot be:
+
+A. final
+B. static
+C. abstract
+D. All
+
+Ans: D
+
+Q28. Constructor improves:
+
+A. Readability
+B. Initialization safety
+C. Security
+D. All
+
+Ans: D
+
+Q29. Default constructor visibility is:
+
+A. public
+B. private
+C. Same as class
+D. protected
+
+Ans: C
+
+Q30. Constructor chaining avoids:
+
+A. Code duplication
+B. Overloading
+C. Overriding
+D. Inheritance
+
+Ans: A
+
+📘 TOPIC 33: this & super KEYWORDS (30 MCQs)
+Q1. this refers to:
+
+A. Parent object
+B. Current object
+C. Child object
+D. Class
+
+Ans: B
+
+Q2. super refers to:
+
+A. Child object
+B. Current object
+C. Parent object
+D. JVM
+
+Ans: C
+
+Q3. this keyword is used to:
+
+A. Resolve ambiguity
+B. Call parent
+C. Call JVM
+D. Destroy object
+
+Ans: A
+
+Q4. super keyword is used to:
+
+A. Call child
+B. Access parent members
+C. Access static
+D. Create object
+
+Ans: B
+
+Q5. this() calls:
+
+A. Parent constructor
+B. Same class constructor
+C. Method
+D. Block
+
+Ans: B
+
+Q6. super() calls:
+
+A. Child constructor
+B. Same class constructor
+C. Parent constructor
+D. Object
+
+Ans: C
+
+Q7. this() or super() must be:
+
+A. Anywhere
+B. First statement
+C. Last statement
+D. Optional
+
+Ans: B
+
+Q8. this cannot be used in:
+
+A. Instance method
+B. Constructor
+C. Static context
+D. Object
+
+Ans: C
+
+Q9. super cannot access:
+
+A. Parent method
+B. Parent variable
+C. Parent constructor
+D. Parent private member
+
+Ans: D
+
+Q10. this refers to instance:
+
+A. Method
+B. Variable
+C. Object
+D. Class
+
+Ans: C
+
+Q11. super keyword is used in:
+
+A. Inheritance
+B. Encapsulation
+C. Polymorphism
+D. Abstraction
+
+Ans: A
+
+Q12. this avoids:
+
+A. Overriding
+B. Shadowing
+C. Overloading
+D. Casting
+
+Ans: B
+
+Q13. this can be passed as:
+
+A. Argument
+B. Return value
+C. Both
+D. None
+
+Ans: C
+
+Q14. super can be passed as:
+
+A. Argument
+B. Return
+C. Both
+D. None
+
+Ans: A
+
+Q15. this is optional?
+
+A. Yes
+B. No
+C. Sometimes
+D. JVM dependent
+
+Ans: A
+
+Q16. super keyword is:
+
+A. Mandatory
+B. Optional
+C. Automatic
+D. Compiler dependent
+
+Ans: B
+
+Q17. this refers to:
+
+A. Class
+B. JVM
+C. Current instance
+D. Package
+
+Ans: C
+
+Q18. super refers to:
+
+A. Object
+B. Instance
+C. Parent class object
+D. Reference
+
+Ans: C
+
+Q19. this keyword improves:
+
+A. Readability
+B. Ambiguity resolution
+C. Maintainability
+D. All
+
+Ans: D
+
+Q20. super keyword is used mainly in:
+
+A. Overloading
+B. Overriding
+C. Static binding
+D. Casting
+
+Ans: B
+
+Q21. this can access:
+
+A. Static members
+B. Instance members
+C. Both
+D. None
+
+Ans: C
+
+Q22. super accesses members from:
+
+A. Object class only
+B. Immediate parent
+C. Any ancestor
+D. JVM
+
+Ans: B
+
+Q23. this cannot be:
+
+A. Used in constructor
+B. Used in instance method
+C. Used in static block
+D. Passed as argument
+
+Ans: C
+
+Q24. super() is inserted by compiler if:
+
+A. Explicit call present
+B. No constructor call
+C. this() used
+D. Multiple inheritance
+
+Ans: B
+
+Q25. this and super both are:
+
+A. Variables
+B. References
+C. Methods
+D. Classes
+
+Ans: B
+
+Q26. this refers to memory of:
+
+A. Class
+B. Object
+C. Method
+D. Package
+
+Ans: B
+
+Q27. super() executes:
+
+A. After child constructor
+B. Before child constructor
+C. At end
+D. Randomly
+
+Ans: B
+
+Q28. this() helps in:
+
+A. Constructor chaining
+B. Inheritance
+C. Overriding
+D. Polymorphism
+
+Ans: A
+
+Q29. super keyword avoids:
+
+A. Overriding
+B. Ambiguity
+C. Casting
+D. GC
+
+Ans: B
+
+Q30. this & super are resolved at:
+
+A. Compile time
+B. Runtime
+C. Load time
+D. Link time
+
+Ans: B
+
+📘 TOPIC 34: STATIC MEMBERS & BLOCKS (30 MCQs)
+Q1. static members belong to:
+
+A. Object
+B. Class
+C. JVM
+D. Instance
+
+Ans: B
+
+Q2. static variable is:
+
+A. Instance variable
+B. Class variable
+C. Local variable
+D. Final variable
+
+Ans: B
+
+Q3. static members are shared by:
+
+A. One object
+B. Two objects
+C. All objects
+D. No object
+
+Ans: C
+
+Q4. static method can access:
+
+A. Instance members
+B. Static members only
+C. Both
+D. None
+
+Ans: B
+
+Q5. static block executes:
+
+A. After main
+B. Before main
+C. After object creation
+D. On method call
+
+Ans: B
+
+Q6. static block executes:
+
+A. Once
+B. Twice
+C. Per object
+D. Per method
+
+Ans: A
+
+Q7. static keyword is used for:
+
+A. Memory management
+B. Common properties
+C. Object creation
+D. Inheritance
+
+Ans: B
+
+Q8. static methods can be:
+
+A. Overridden
+B. Hidden
+C. Overloaded
+D. B and C
+
+Ans: D
+
+Q9. static block is used to:
+
+A. Initialize instance data
+B. Initialize static data
+C. Call main
+D. Create object
+
+Ans: B
+
+Q10. static members are stored in:
+
+A. Heap
+B. Stack
+C. Method area
+D. PC register
+
+Ans: C
+
+Q11. static keyword belongs to:
+
+A. JVM
+B. Class loader
+C. Java language
+D. OS
+
+Ans: C
+
+Q12. static methods support:
+
+A. Runtime polymorphism
+B. Compile-time binding
+C. Dynamic dispatch
+D. Overriding
+
+Ans: B
+
+Q13. static variables default value is:
+
+A. null
+B. 0 / false
+C. Garbage
+D. Undefined
+
+Ans: B
+
+Q14. static block can access:
+
+A. Instance variables
+B. Static variables
+C. Both
+D. None
+
+Ans: B
+
+Q15. static block is executed when:
+
+A. Object created
+B. Class loaded
+C. Method called
+D. JVM stops
+
+Ans: B
+
+Q16. static methods are called using:
+
+A. Object
+B. Class name
+C. Both
+D. JVM only
+
+Ans: B
+
+Q17. static members reduce:
+
+A. Memory usage
+B. Code duplication
+C. Objects
+D. GC
+
+Ans: B
+
+Q18. static block is mainly used for:
+
+A. Database connection
+B. File I/O
+C. Static initialization
+D. Loop execution
+
+Ans: C
+
+Q19. static variable is created:
+
+A. Per object
+B. Per class
+C. Per method
+D. Per JVM call
+
+Ans: B
+
+Q20. static context cannot use:
+
+A. this
+B. super
+C. Instance members
+D. All
+
+Ans: D
+
+Q21. static improves:
+
+A. Performance
+B. Memory
+C. Design
+D. Compilation
+
+Ans: A
+
+Q22. static block has return type?
+
+A. Yes
+B. No
+C. void
+D. Optional
+
+Ans: B
+
+Q23. static block can throw exception?
+
+A. Yes
+B. No
+C. Checked only
+D. Runtime only
+
+Ans: A
+
+Q24. static variables are initialized:
+
+A. At runtime
+B. At compile time
+C. At class loading
+D. At object creation
+
+Ans: C
+
+Q25. static methods are inherited?
+
+A. Yes
+B. No
+C. Hidden
+D. Overridden
+
+Ans: C
+
+Q26. static members belong to:
+
+A. Object
+B. Instance
+C. Class
+D. Constructor
+
+Ans: C
+
+Q27. static block executes:
+
+A. After constructor
+B. Before constructor
+C. After method
+D. Randomly
+
+Ans: B
+
+Q28. static variables improve:
+
+A. Encapsulation
+B. Code sharing
+C. Security
+D. Abstraction
+
+Ans: B
+
+Q29. static cannot be used with:
+
+A. Variables
+B. Methods
+C. Classes
+D. Local variables
+
+Ans: D
+
+Q30. static is used when data is:
+
+A. Object specific
+B. Class specific
+C. Method specific
+D. Temporary
+
+Ans: B
+
+📘 TOPIC 35: FINAL KEYWORD (30 MCQs)
+Q1. final variable means:
+
+A. Mutable
+B. Constant
+C. Static
+D. Temporary
+
+Ans: B
+
+Q2. final variable value:
+
+A. Can change
+B. Cannot change
+C. Changes once
+D. JVM dependent
+
+Ans: B
+
+Q3. final method means:
+
+A. Can be overridden
+B. Cannot be overridden
+C. Static only
+D. Private only
+
+Ans: B
+
+Q4. final class means:
+
+A. Can be inherited
+B. Cannot be inherited
+C. Abstract
+D. Interface
+
+Ans: B
+
+Q5. final keyword is used for:
+
+A. Restriction
+B. Flexibility
+C. Overloading
+D. Casting
+
+Ans: A
+
+Q6. final variables must be initialized:
+
+A. Anytime
+B. At declaration or constructor
+C. Runtime only
+D. Never
+
+Ans: B
+
+Q7. Blank final variable is initialized in:
+
+A. Method
+B. Constructor
+C. Block
+D. JVM
+
+Ans: B
+
+Q8. final method improves:
+
+A. Overriding
+B. Security
+C. Inheritance
+D. Polymorphism
+
+Ans: B
+
+Q9. final variables are:
+
+A. Inherited
+B. Overridden
+C. Hidden
+D. Copied
+
+Ans: A
+
+Q10. final reference variable means:
+
+A. Object immutable
+B. Reference immutable
+C. Value immutable
+D. Memory immutable
+
+Ans: B
+
+Q11. final keyword can be used with:
+
+A. Class
+B. Method
+C. Variable
+D. All
+
+Ans: D
+
+Q12. final and abstract together are:
+
+A. Allowed
+B. Not allowed
+C. Optional
+D. Deprecated
+
+Ans: B
+
+Q13. final local variables must be initialized:
+
+A. Before use
+B. At declaration only
+C. At runtime
+D. Never
+
+Ans: A
+
+Q14. final improves:
+
+A. Security
+B. Performance
+C. Readability
+D. All
+
+Ans: D
+
+Q15. final method supports:
+
+A. Compile-time binding
+B. Runtime binding
+C. Overriding
+D. Dynamic dispatch
+
+Ans: A
+
+Q16. final class example:
+
+A. Object
+B. String
+C. Throwable
+D. Exception
+
+Ans: B
+
+Q17. final variable stored in:
+
+A. Stack
+B. Heap
+C. Method area
+D. Constant pool
+
+Ans: A
+
+Q18. final variables are thread-safe?
+
+A. Yes
+B. No
+C. Optional
+D. JVM dependent
+
+Ans: A
+
+Q19. final keyword prevents:
+
+A. Inheritance
+B. Overriding
+C. Modification
+D. All
+
+Ans: D
+
+Q20. final method can be overloaded?
+
+A. Yes
+B. No
+C. Optional
+D. JVM dependent
+
+Ans: A
+
+Q21. final variables improve:
+
+A. Code clarity
+B. Safety
+C. Maintainability
+D. All
+
+Ans: D
+
+Q22. final reference allows:
+
+A. New object assignment
+B. Same object modification
+C. Reference change
+D. GC removal
+
+Ans: B
+
+Q23. final class cannot be:
+
+A. Extended
+B. Used
+C. Instantiated
+D. Imported
+
+Ans: A
+
+Q24. final keyword is checked at:
+
+A. Runtime
+B. Compile time
+C. Load time
+D. Link time
+
+Ans: B
+
+Q25. final improves performance because:
+
+A. No overriding
+B. Early binding
+C. JVM optimization
+D. All
+
+Ans: D
+
+Q26. final static variable is:
+
+A. Constant
+B. Global
+C. Instance
+D. Local
+
+Ans: A
+
+Q27. final variables naming convention:
+
+A. camelCase
+B. PascalCase
+C. UPPER_CASE
+D. lowercase
+
+Ans: C
+
+Q28. final reference cannot:
+
+A. Change object state
+B. Change reference
+C. Call methods
+D. Access fields
+
+Ans: B
+
+Q29. final keyword belongs to:
+
+A. JVM
+B. Compiler
+C. Java language
+D. OS
+
+Ans: C
+
+Q30. final is mainly used for:
+
+A. Optimization
+B. Restriction
+C. Abstraction
+D. Polymorphism
+
+Ans: B
+
+📘 TOPIC 36: PACKAGES (30 MCQs)
+Q1. Package is:
+
+A. Group of classes
+B. Group of methods
+C. Group of objects
+D. Group of variables
+
+Ans: A
+
+Q2. Package is mainly used for:
+
+A. Memory
+B. Speed
+C. Namespace management
+D. Compilation
+
+Ans: C
+
+Q3. Keyword used to create package:
+
+A. import
+B. include
+C. package
+D. class
+
+Ans: C
+
+Q4. Keyword used to access package classes:
+
+A. include
+B. import
+C. extends
+D. implements
+
+Ans: B
+
+Q5. Default package means:
+
+A. No package statement
+B. java.lang
+C. User-defined package
+D. System package
+
+Ans: A
+
+Q6. Classes in default package can be accessed from:
+
+A. Any package
+B. Same default package only
+C. Any class
+D. JVM
+
+Ans: B
+
+Q7. Built-in packages example:
+
+A. mypack
+B. test
+C. java.util
+D. demo
+
+Ans: C
+
+Q8. Package improves:
+
+A. Security
+B. Reusability
+C. Maintainability
+D. All
+
+Ans: D
+
+Q9. Access level for package members:
+
+A. private
+B. protected
+C. default
+D. public
+
+Ans: C
+
+Q10. Protected members are accessible:
+
+A. Same package only
+B. Subclass only
+C. Same package + subclass
+D. Anywhere
+
+Ans: C
+
+Q11. Fully qualified name includes:
+
+A. Class name only
+B. Package name only
+C. Package + class name
+D. Method name
+
+Ans: C
+
+Q12. Subpackage is:
+
+A. Child package
+B. Independent package
+C. Inherited package
+D. Abstract package
+
+Ans: B
+
+Q13. java.lang is imported:
+
+A. Manually
+B. Automatically
+C. Conditionally
+D. Using static
+
+Ans: B
+
+Q14. Can package have subpackage?
+
+A. Yes
+B. No
+C. Optional
+D. JVM dependent
+
+Ans: A
+
+Q15. Which command creates directory structure?
+
+A. javac
+B. java
+C. jar
+D. mkdir
+
+Ans: A
+
+Q16. Package members visibility controlled by:
+
+A. JVM
+B. Compiler
+C. Access modifiers
+D. OS
+
+Ans: C
+
+Q17. One class can belong to:
+
+A. Multiple packages
+B. One package only
+C. No package
+D. JVM
+
+Ans: B
+
+Q18. Package name convention:
+
+A. PascalCase
+B. camelCase
+C. lowercase
+D. UPPERCASE
+
+Ans: C
+
+Q19. Package reduces:
+
+A. Naming conflict
+B. Memory
+C. Execution time
+D. Compilation
+
+Ans: A
+
+Q20. Can we overload package name?
+
+A. Yes
+B. No
+C. Sometimes
+D. JVM dependent
+
+Ans: B
+
+Q21. Package statement must be:
+
+A. Anywhere
+B. After import
+C. First statement
+D. Last statement
+
+Ans: C
+
+Q22. One source file can have:
+
+A. Multiple packages
+B. One package
+C. No class
+D. Multiple mains
+
+Ans: B
+
+Q23. Accessing package without import uses:
+
+A. Static keyword
+B. Fully qualified name
+C. Constructor
+D. JVM
+
+Ans: B
+
+Q24. Package improves code:
+
+A. Security
+B. Organization
+C. Reuse
+D. All
+
+Ans: D
+
+Q25. Package is checked at:
+
+A. Runtime
+B. Compile time
+C. Load time
+D. Execution
+
+Ans: B
+
+Q26. Can package be final?
+
+A. Yes
+B. No
+C. Optional
+D. JVM dependent
+
+Ans: B
+
+Q27. Package helps avoid:
+
+A. Overriding
+B. Ambiguity
+C. Name collision
+D. Inheritance
+
+Ans: C
+
+Q28. java.util contains:
+
+A. I/O classes
+B. Utility classes
+C. Thread classes
+D. JDBC classes
+
+Ans: B
+
+Q29. Package concept supports:
+
+A. Encapsulation
+B. Abstraction
+C. Polymorphism
+D. All
+
+Ans: A
+
+Q30. Package is part of:
+
+A. JVM
+B. OOPS
+C. JDK
+D. JRE
+
+Ans: B
+
+📘 TOPIC 37: INTERFACES (ADVANCED) (30 MCQs)
+Q1. Interface supports:
+
+A. Partial abstraction
+B. Full abstraction
+C. No abstraction
+D. Encapsulation
+
+Ans: B
+
+Q2. Interface variables are:
+
+A. Instance
+B. Static
+C. Final
+D. B and C
+
+Ans: D
+
+Q3. Interface methods before Java 8 are:
+
+A. public static
+B. public abstract
+C. protected
+D. default
+
+Ans: B
+
+Q4. Multiple inheritance is possible using:
+
+A. Class
+B. Object
+C. Interface
+D. Package
+
+Ans: C
+
+Q5. Interface can extend:
+
+A. Class
+B. Interface
+C. Object
+D. Package
+
+Ans: B
+
+Q6. Class can implement:
+
+A. One interface
+B. Multiple interfaces
+C. No interface
+D. JVM
+
+Ans: B
+
+Q7. Default method introduced in:
+
+A. Java 6
+B. Java 7
+C. Java 8
+D. Java 9
+
+Ans: C
+
+Q8. Functional interface has:
+
+A. No methods
+B. One abstract method
+C. Two abstract methods
+D. Only static methods
+
+Ans: B
+
+Q9. @FunctionalInterface is:
+
+A. Mandatory
+B. Optional
+C. Deprecated
+D. JVM keyword
+
+Ans: B
+
+Q10. Interface static methods are:
+
+A. Inherited
+B. Overridden
+C. Hidden
+D. Not inherited
+
+Ans: D
+
+Q11. Default method conflict resolved by:
+
+A. Compiler
+B. JVM
+C. Class override
+D. Interface order
+
+Ans: C
+
+Q12. Interface can have main method?
+
+A. Yes
+B. No
+C. Optional
+D. JVM dependent
+
+Ans: A
+
+Q13. Interface constructor is:
+
+A. Allowed
+B. Not allowed
+C. Protected
+D. Optional
+
+Ans: B
+
+Q14. Marker interface example:
+
+A. Runnable
+B. Serializable
+C. Comparable
+D. Callable
+
+Ans: B
+
+Q15. Marker interface contains:
+
+A. One method
+B. Two methods
+C. No methods
+D. Static block
+
+Ans: C
+
+Q16. Interface reference can refer to:
+
+A. Interface object
+B. Implementing class object
+C. Parent object
+D. JVM
+
+Ans: B
+
+Q17. Lambda expressions work with:
+
+A. Abstract class
+B. Interface
+C. Functional interface
+D. Class
+
+Ans: C
+
+Q18. Interface default methods support:
+
+A. Backward compatibility
+B. Security
+C. Inheritance
+D. GC
+
+Ans: A
+
+Q19. Interface variables are:
+
+A. Mutable
+B. Immutable
+C. Optional
+D. Dynamic
+
+Ans: B
+
+Q20. Interface methods are by default:
+
+A. public
+B. protected
+C. private
+D. default
+
+Ans: A
+
+Q21. Interface cannot have:
+
+A. Static method
+B. Default method
+C. Instance variable
+D. Private method (pre Java 9)
+
+Ans: C
+
+Q22. Interface improves:
+
+A. Design
+B. Flexibility
+C. Loose coupling
+D. All
+
+Ans: D
+
+Q23. Interface implementation is checked at:
+
+A. Runtime
+B. Compile time
+C. Load time
+D. Execution
+
+Ans: B
+
+Q24. Interface supports polymorphism?
+
+A. Yes
+B. No
+C. Optional
+D. JVM dependent
+
+Ans: A
+
+Q25. Interface methods must be implemented by:
+
+A. Interface
+B. Abstract class
+C. Concrete class
+D. JVM
+
+Ans: C
+
+Q26. One interface can extend:
+
+A. One interface
+B. Multiple interfaces
+C. No interface
+D. Class
+
+Ans: B
+
+Q27. Interface keyword introduced in:
+
+A. Java 1.0
+B. Java 1.1
+C. Java 1.2
+D. Java 1.3
+
+Ans: B
+
+Q28. Interface supports:
+
+A. Multiple inheritance
+B. Single inheritance
+C. No inheritance
+D. Hybrid
+
+Ans: A
+
+Q29. Interface reference calls method based on:
+
+A. Reference type
+B. Object type
+C. Compiler
+D. JVM only
+
+Ans: B
+
+Q30. Interface is core of:
+
+A. OOPS
+B. JVM
+C. JDK
+D. JRE
+
+Ans: A
+
+📘 TOPIC 38: INNER CLASSES (30 MCQs)
+Q1. Inner class is:
+
+A. Class inside method
+B. Class inside class
+C. Package class
+D. JVM class
+
+Ans: B
+
+Q2. Types of inner classes:
+
+A. 2
+B. 3
+C. 4
+D. 5
+
+Ans: C
+
+Q3. Member inner class is:
+
+A. Static
+B. Non-static
+C. Local
+D. Anonymous
+
+Ans: B
+
+Q4. Static nested class can access:
+
+A. Instance members
+B. Static members
+C. Both
+D. None
+
+Ans: B
+
+Q5. Local inner class is defined inside:
+
+A. Class
+B. Method
+C. Package
+D. Interface
+
+Ans: B
+
+Q6. Anonymous inner class has:
+
+A. Name
+B. Constructor
+C. No name
+D. Static block
+
+Ans: C
+
+Q7. Inner class can access outer class:
+
+A. Static members
+B. Instance members
+C. Both
+D. None
+
+Ans: C
+
+Q8. Anonymous class mainly used for:
+
+A. Multiple inheritance
+B. Functional interfaces
+C. One-time use
+D. Package
+
+Ans: C
+
+Q9. Inner classes improve:
+
+A. Security
+B. Encapsulation
+C. Readability
+D. All
+
+Ans: D
+
+Q10. Inner class compiles to:
+
+A. One .class file
+B. Separate .class file
+C. No file
+D. JVM
+
+Ans: B
+
+Q11. Outer class can access inner class members:
+
+A. Yes
+B. No
+C. Optional
+D. JVM dependent
+
+Ans: A
+
+Q12. Static nested class is:
+
+A. Inner class
+B. Not inner class logically
+C. Anonymous class
+D. Local class
+
+Ans: B
+
+Q13. Inner classes increase:
+
+A. Complexity
+B. Security
+C. Cohesion
+D. Compilation
+
+Ans: C
+
+Q14. Inner class object created using:
+
+A. new Inner()
+B. Outer.Inner
+C. outerObj.new Inner()
+D. JVM
+
+Ans: C
+
+Q15. Local inner class visibility is:
+
+A. public
+B. protected
+C. default
+D. Method scope
+
+Ans: D
+
+Q16. Anonymous inner class extends:
+
+A. Only class
+B. Only interface
+C. Either class or interface
+D. JVM
+
+Ans: C
+
+Q17. Inner class supports:
+
+A. Encapsulation
+B. Abstraction
+C. Polymorphism
+D. All
+
+Ans: A
+
+Q18. Inner class cannot have:
+
+A. Static members
+B. Methods
+C. Variables
+D. Constructors
+
+Ans: A
+
+Q19. Static nested class behaves like:
+
+A. Inner class
+B. Top-level class
+C. Local class
+D. Anonymous class
+
+Ans: B
+
+Q20. Inner classes are used when:
+
+A. Tight coupling required
+B. Loose coupling required
+C. High performance needed
+D. JVM optimization
+
+Ans: A
+
+Q21. Anonymous class cannot:
+
+A. Extend class
+B. Implement interface
+C. Have constructor
+D. Override method
+
+Ans: C
+
+Q22. Inner class name format:
+
+A. Outer$Inner
+B. Inner$Outer
+C. Outer.Inner
+D. JVM.Inner
+
+Ans: A
+
+Q23. Inner classes introduced in:
+
+A. Java 1.0
+B. Java 1.1
+C. Java 1.2
+D. Java 1.3
+
+Ans: B
+
+Q24. Inner class improves:
+
+A. Data hiding
+B. Maintainability
+C. Code organization
+D. All
+
+Ans: D
+
+Q25. Anonymous inner class used with:
+
+A. Runnable
+B. Comparator
+C. ActionListener
+D. All
+
+Ans: D
+
+Q26. Inner class increases:
+
+A. Memory usage
+B. Security
+C. GC
+D. Speed
+
+Ans: A
+
+Q27. Inner class cannot be:
+
+A. Abstract
+B. Final
+C. Static (non-static inner)
+D. Public
+
+Ans: C
+
+Q28. Local inner class can access:
+
+A. All variables
+B. Final variables only
+C. Effectively final variables
+D. Static only
+
+Ans: C
+
+Q29. Inner class is compiled by:
+
+A. JVM
+B. JRE
+C. Compiler
+D. OS
+
+Ans: C
+
+Q30. Inner class is part of:
+
+A. JVM
+B. OOPS
+C. JDK
+D. JRE
+
+Ans: B
+
+📘 TOPIC 39: ENUMS (30 MCQs)
+Q1. Enum is used to define:
+
+A. Variables
+B. Constants
+C. Objects
+D. Classes
+
+Ans: B
+
+Q2. Enum keyword introduced in:
+
+A. Java 1.4
+B. Java 1.5
+C. Java 1.6
+D. Java 1.7
+
+Ans: B
+
+Q3. Enum constants are:
+
+A. int
+B. String
+C. Objects
+D. Primitive
+
+Ans: C
+
+Q4. Enum implicitly extends:
+
+A. Object
+B. Enum
+C. Class
+D. Throwable
+
+Ans: B
+
+Q5. Enum constructor is:
+
+A. public
+B. protected
+C. private
+D. default
+
+Ans: C
+
+Q6. Enum constants are:
+
+A. static
+B. final
+C. public
+D. All
+
+Ans: D
+
+Q7. Enum can have:
+
+A. Methods
+B. Variables
+C. Constructors
+D. All
+
+Ans: D
+
+Q8. Enum cannot extend:
+
+A. Object
+B. Enum
+C. Another class
+D. Interface
+
+Ans: C
+
+Q9. Enum can implement:
+
+A. Class
+B. Interface
+C. Package
+D. JVM
+
+Ans: B
+
+Q10. Enum values stored in:
+
+A. Stack
+B. Heap
+C. Method area
+D. Constant pool
+
+Ans: B
+
+Q11. Enum switch statement uses:
+
+A. String
+B. int
+C. Enum
+D. Object
+
+Ans: C
+
+Q12. Enum improves:
+
+A. Type safety
+B. Readability
+C. Maintainability
+D. All
+
+Ans: D
+
+Q13. Enum values() method returns:
+
+A. Single value
+B. Array
+C. List
+D. Map
+
+Ans: B
+
+Q14. Enum ordinal() returns:
+
+A. Name
+B. Index
+C. Hash
+D. Value
+
+Ans: B
+
+Q15. Enum name() returns:
+
+A. Index
+B. Name
+C. Hash
+D. Object
+
+Ans: B
+
+Q16. Enum constants are created:
+
+A. At runtime
+B. At compile time
+C. At class loading
+D. On demand
+
+Ans: C
+
+Q17. Enum comparison best using:
+
+A. equals()
+B. ==
+C. compareTo()
+D. hashCode()
+
+Ans: B
+
+Q18. Enum cannot be:
+
+A. Inherited
+B. Instantiated
+C. Extended
+D. All
+
+Ans: D
+
+Q19. Enum supports:
+
+A. Inheritance
+B. Polymorphism
+C. Encapsulation
+D. All
+
+Ans: C
+
+Q20. Enum improves performance over:
+
+A. int constants
+B. String constants
+C. Both
+D. JVM
+
+Ans: C
+
+Q21. Enum can be used in:
+
+A. switch
+B. if
+C. loops
+D. All
+
+Ans: D
+
+Q22. Enum constructor called:
+
+A. Manually
+B. Automatically
+C. By JVM
+D. By user
+
+Ans: B
+
+Q23. Enum constants are:
+
+A. Mutable
+B. Immutable
+C. Optional
+D. Dynamic
+
+Ans: B
+
+Q24. Enum is type-safe because:
+
+A. Compile-time checking
+B. Runtime checking
+C. JVM checking
+D. OS checking
+
+Ans: A
+
+Q25. Enum can have abstract methods?
+
+A. Yes
+B. No
+C. Optional
+D. JVM dependent
+
+Ans: A
+
+Q26. Enum constant-specific class body:
+
+A. Allowed
+B. Not allowed
+C. Deprecated
+D. Optional
+
+Ans: A
+
+Q27. Enum is final implicitly?
+
+A. Yes
+B. No
+C. Optional
+D. JVM dependent
+
+Ans: A
+
+Q28. Enum cannot be cloned because:
+
+A. final
+B. private constructor
+C. JVM restriction
+D. All
+
+Ans: D
+
+Q29. Enum is checked at:
+
+A. Runtime
+B. Compile time
+C. Load time
+D. Execution
+
+Ans: B
+
+Q30. Enum is part of:
+
+A. JVM
+B. OOPS
+C. JDK
+D. JRE
+
+Ans: B
+
+📘 TOPIC 40: ANNOTATIONS (30 MCQs)
+Q1. Annotation provides:
+
+A. Logic
+B. Metadata
+C. Execution
+D. Compilation
+
+Ans: B
+
+Q2. Annotation introduced in:
+
+A. Java 1.3
+B. Java 1.4
+C. Java 1.5
+D. Java 1.6
+
+Ans: C
+
+Q3. Built-in annotation example:
+
+A. @Override
+B. @Author
+C. @TestCase
+D. @Version
+
+Ans: A
+
+Q4. @Override checks:
+
+A. Runtime
+B. Compile time
+C. Load time
+D. JVM
+
+Ans: B
+
+Q5. @Deprecated means:
+
+A. Removed
+B. Old usage discouraged
+C. Error
+D. JVM warning
+
+Ans: B
+
+Q6. @SuppressWarnings suppresses:
+
+A. Errors
+B. Exceptions
+C. Warnings
+D. JVM
+
+Ans: C
+
+Q7. Custom annotation created using:
+
+A. class
+B. interface
+C. @interface
+D. abstract
+
+Ans: C
+
+Q8. Annotation retention policy defines:
+
+A. Scope
+B. Lifetime
+C. Access
+D. Usage
+
+Ans: B
+
+Q9. RetentionPolicy.SOURCE means:
+
+A. Available at runtime
+B. Available in class file
+C. Discarded at compile
+D. JVM only
+
+Ans: C
+
+Q10. RetentionPolicy.RUNTIME means:
+
+A. Compile time only
+B. Runtime available
+C. JVM only
+D. Source only
+
+Ans: B
+
+Q11. @Target defines:
+
+A. Annotation name
+B. Annotation usage location
+C. Retention
+D. JVM behavior
+
+Ans: B
+
+Q12. Annotation can be applied on:
+
+A. Class
+B. Method
+C. Variable
+D. All
+
+Ans: D
+
+Q13. Marker annotation has:
+
+A. One element
+B. Two elements
+C. No elements
+D. Static element
+
+Ans: C
+
+Q14. Annotation elements look like:
+
+A. Variables
+B. Methods
+C. Constructors
+D. Blocks
+
+Ans: B
+
+Q15. Default value in annotation is set using:
+
+A. =
+B. :
+C. default
+D. value
+
+Ans: C
+
+Q16. Reflection API is used to:
+
+A. Execute annotation
+B. Read annotation
+C. Modify annotation
+D. Delete annotation
+
+Ans: B
+
+Q17. Annotations are processed by:
+
+A. JVM
+B. Compiler
+C. Reflection API
+D. All
+
+Ans: D
+
+Q18. Annotation improves:
+
+A. Readability
+B. Tool support
+C. Maintainability
+D. All
+
+Ans: D
+
+Q19. Annotations replace:
+
+A. XML partly
+B. Code
+C. JVM
+D. Packages
+
+Ans: A
+
+Q20. Annotation values must be:
+
+A. Primitive
+B. String
+C. Enum
+D. All
+
+Ans: D
+
+Q21. Annotation is:
+
+A. Interface
+B. Class
+C. Metadata
+D. Method
+
+Ans: C
+
+Q22. @FunctionalInterface enforces:
+
+A. Lambda usage
+B. One abstract method
+C. Performance
+D. JVM check
+
+Ans: B
+
+Q23. Annotations checked at:
+
+A. Compile time
+B. Runtime
+C. Both
+D. JVM only
+
+Ans: C
+
+Q24. Annotation cannot be:
+
+A. Inherited
+B. Repeated
+C. Applied
+D. Executed
+
+Ans: D
+
+Q25. @Inherited works on:
+
+A. Method
+B. Field
+C. Class
+D. Constructor
+
+Ans: C
+
+Q26. Repeatable annotation introduced in:
+
+A. Java 7
+B. Java 8
+C. Java 9
+D. Java 6
+
+Ans: B
+
+Q27. Annotation without retention policy defaults to:
+
+A. SOURCE
+B. CLASS
+C. RUNTIME
+D. JVM
+
+Ans: B
+
+Q28. Annotation can have array values?
+
+A. Yes
+B. No
+C. Optional
+D. JVM dependent
+
+Ans: A
+
+Q29. Annotation is part of:
+
+A. JVM
+B. JDK
+C. OOPS
+D. Java language
+
+Ans: D
+
+Q30. Annotation processing improves:
+
+A. Tooling
+B. Automation
+C. Maintainability
+D. All
+
+Ans: D
+
+📘 TOPIC 41: EXCEPTION HANDLING (30 MCQs)
+Q1. Exception is:
+
+A. Compile error
+B. Runtime error
+C. Syntax error
+D. Logical error
+
+Ans: B
+
+Q2. Exception handling is used to:
+
+A. Stop program
+B. Handle runtime errors
+C. Speed execution
+D. Compile code
+
+Ans: B
+
+Q3. Base class for all exceptions:
+
+A. Exception
+B. RuntimeException
+C. Throwable
+D. Error
+
+Ans: C
+
+Q4. Checked exceptions are checked at:
+
+A. Runtime
+B. Compile time
+C. Load time
+D. Execution
+
+Ans: B
+
+Q5. Unchecked exceptions are checked at:
+
+A. Compile time
+B. Runtime
+C. Load time
+D. JVM
+
+Ans: B
+
+Q6. try block is used to:
+
+A. Catch exception
+B. Handle exception
+C. Write risky code
+D. Throw exception
+
+Ans: C
+
+Q7. catch block is used to:
+
+A. Write code
+B. Handle exception
+C. Throw exception
+D. Stop JVM
+
+Ans: B
+
+Q8. finally block executes:
+
+A. Only if exception occurs
+B. Only if no exception
+C. Always
+D. JVM dependent
+
+Ans: C
+
+Q9. finally block not executed when:
+
+A. Exception occurs
+B. return statement
+C. System.exit()
+D. JVM crash
+
+Ans: C
+
+Q10. throw keyword is used to:
+
+A. Catch exception
+B. Handle exception
+C. Explicitly throw exception
+D. JVM
+
+Ans: C
+
+Q11. throws keyword is used to:
+
+A. Handle exception
+B. Declare exception
+C. Throw exception
+D. Catch exception
+
+Ans: B
+
+Q12. Multiple catch blocks are allowed?
+
+A. Yes
+B. No
+C. Optional
+D. JVM dependent
+
+Ans: A
+
+Q13. Order of catch blocks should be:
+
+A. Child to parent
+B. Parent to child
+C. Any order
+D. JVM decides
+
+Ans: A
+
+Q14. Exception propagation means:
+
+A. Handling exception
+B. Passing exception up call stack
+C. Creating exception
+D. Catching exception
+
+Ans: B
+
+Q15. Custom exception created by:
+
+A. Implementing interface
+B. Extending Exception
+C. Using throws
+D. JVM
+
+Ans: B
+
+Q16. RuntimeException is:
+
+A. Checked
+B. Unchecked
+C. Error
+D. Throwable
+
+Ans: B
+
+Q17. Error class represents:
+
+A. Recoverable issues
+B. Application errors
+C. Serious system errors
+D. Compile errors
+
+Ans: C
+
+Q18. try without catch is allowed?
+
+A. Yes, with finally
+B. No
+C. Optional
+D. JVM dependent
+
+Ans: A
+
+Q19. catch without try is allowed?
+
+A. Yes
+B. No
+C. Optional
+D. JVM dependent
+
+Ans: B
+
+Q20. One try can have:
+
+A. One catch
+B. Multiple catch
+C. finally
+D. All
+
+Ans: D
+
+Q21. Exception handling improves:
+
+A. Program termination
+B. Reliability
+C. Security
+D. Both B and C
+
+Ans: D
+
+Q22. Checked exception example:
+
+A. NullPointerException
+B. ArithmeticException
+C. IOException
+D. ArrayIndexOutOfBounds
+
+Ans: C
+
+Q23. Unchecked exception example:
+
+A. IOException
+B. SQLException
+C. ClassNotFoundException
+D. NullPointerException
+
+Ans: D
+
+Q24. Exception object created by:
+
+A. JVM
+B. Programmer
+C. Compiler
+D. OS
+
+Ans: A
+
+Q25. finally block is used for:
+
+A. Closing resources
+B. Logging
+C. Cleanup
+D. All
+
+Ans: D
+
+Q26. Multi-catch introduced in:
+
+A. Java 6
+B. Java 7
+C. Java 8
+D. Java 9
+
+Ans: B
+
+Q27. try-with-resources introduced in:
+
+A. Java 6
+B. Java 7
+C. Java 8
+D. Java 9
+
+Ans: B
+
+Q28. Exception handling is part of:
+
+A. JVM
+B. JDK
+C. Java language
+D. OS
+
+Ans: C
+
+Q29. Checked exceptions enforce:
+
+A. Runtime safety
+B. Compile-time safety
+C. JVM safety
+D. OS safety
+
+Ans: B
+
+Q30. Exception hierarchy root is:
+
+A. Error
+B. Exception
+C. Throwable
+D. Object
+
+Ans: C
+
+📘 TOPIC 42: MULTITHREADING (30 MCQs)
+Q1. Thread is:
+
+A. Lightweight process
+B. Heavy process
+C. OS process
+D. JVM process
+
+Ans: A
+
+Q2. Multithreading is used for:
+
+A. Parallel execution
+B. Faster compilation
+C. Memory management
+D. JVM loading
+
+Ans: A
+
+Q3. Thread class belongs to:
+
+A. java.lang
+B. java.util
+C. java.io
+D. java.thread
+
+Ans: A
+
+Q4. Two ways to create thread:
+
+A. Thread class & Runnable
+B. Thread & Object
+C. Runnable & JVM
+D. Process & Thread
+
+Ans: A
+
+Q5. run() method contains:
+
+A. Thread logic
+B. JVM code
+C. OS code
+D. Main logic
+
+Ans: A
+
+Q6. start() method:
+
+A. Calls run() directly
+B. Creates new thread
+C. Executes JVM
+D. Stops thread
+
+Ans: B
+
+Q7. Calling run() directly:
+
+A. Creates new thread
+B. Executes like normal method
+C. Multithreading
+D. JVM dependent
+
+Ans: B
+
+Q8. Thread life cycle states:
+
+A. 3
+B. 4
+C. 5
+D. 6
+
+Ans: C
+
+Q9. New thread state is:
+
+A. Runnable
+B. New
+C. Waiting
+D. Dead
+
+Ans: B
+
+Q10. Thread scheduler is part of:
+
+A. JVM
+B. OS
+C. JRE
+D. Compiler
+
+Ans: B
+
+Q11. sleep() method belongs to:
+
+A. Object
+B. Runnable
+C. Thread
+D. JVM
+
+Ans: C
+
+Q12. sleep() throws:
+
+A. IOException
+B. InterruptedException
+C. RuntimeException
+D. Error
+
+Ans: B
+
+Q13. join() is used to:
+
+A. Stop thread
+B. Pause thread
+C. Wait for thread
+D. Resume thread
+
+Ans: C
+
+Q14. yield() method:
+
+A. Stops thread
+B. Gives chance to other threads
+C. Sleeps thread
+D. Ends thread
+
+Ans: B
+
+Q15. Priority range of thread:
+
+A. 1–5
+B. 1–10
+C. 0–10
+D. JVM dependent
+
+Ans: B
+
+Q16. Default thread priority:
+
+A. 1
+B. 5
+C. 10
+D. 0
+
+Ans: B
+
+Q17. Thread synchronization is used to:
+
+A. Speed execution
+B. Avoid race condition
+C. Create threads
+D. JVM control
+
+Ans: B
+
+Q18. synchronized keyword provides:
+
+A. Mutual exclusion
+B. Parallelism
+C. Deadlock
+D. Starvation
+
+Ans: A
+
+Q19. Deadlock occurs when:
+
+A. Threads wait forever
+B. Thread sleeps
+C. Thread stops
+D. JVM crashes
+
+Ans: A
+
+Q20. wait(), notify(), notifyAll() belong to:
+
+A. Thread
+B. Object
+C. Runnable
+D. JVM
+
+Ans: B
+
+Q21. wait() releases:
+
+A. CPU
+B. Lock
+C. Thread
+D. JVM
+
+Ans: B
+
+Q22. notify() wakes:
+
+A. All threads
+B. One waiting thread
+C. JVM
+D. OS
+
+Ans: B
+
+Q23. notifyAll() wakes:
+
+A. One thread
+B. All waiting threads
+C. JVM
+D. OS
+
+Ans: B
+
+Q24. Synchronization reduces:
+
+A. Performance
+B. Memory
+C. Security
+D. JVM
+
+Ans: A
+
+Q25. Daemon thread example:
+
+A. main thread
+B. GC thread
+C. User thread
+D. Worker thread
+
+Ans: B
+
+Q26. setDaemon() must be called:
+
+A. After start()
+B. Before start()
+C. Anytime
+D. JVM dependent
+
+Ans: B
+
+Q27. Thread safety ensures:
+
+A. Correct execution
+B. Faster execution
+C. JVM stability
+D. OS control
+
+Ans: A
+
+Q28. Volatile keyword ensures:
+
+A. Atomicity
+B. Visibility
+C. Mutual exclusion
+D. Lock
+
+Ans: B
+
+Q29. Multithreading issues include:
+
+A. Deadlock
+B. Starvation
+C. Race condition
+D. All
+
+Ans: D
+
+Q30. Multithreading is part of:
+
+A. JVM
+B. JDK
+C. Java language
+D. OS
+
+Ans: C
+
+📘 TOPIC 43: COLLECTIONS FRAMEWORK (INTRO) (30 MCQs)
+Q1. Collection framework is used to:
+
+A. Store objects
+B. Process files
+C. Create threads
+D. Connect database
+
+Ans: A
+
+Q2. Collections framework introduced in:
+
+A. Java 1.1
+B. Java 1.2
+C. Java 1.3
+D. Java 1.4
+
+Ans: B
+
+Q3. Root interface of collection framework:
+
+A. List
+B. Set
+C. Collection
+D. Map
+
+Ans: C
+
+Q4. Map is part of:
+
+A. Collection
+B. Collections
+C. Framework but not Collection
+D. List
+
+Ans: C
+
+Q5. Collections store:
+
+A. Primitive types
+B. Objects only
+C. Arrays
+D. Files
+
+Ans: B
+
+Q6. Collections framework is in package:
+
+A. java.lang
+B. java.io
+C. java.util
+D. java.sql
+
+Ans: C
+
+Q7. Advantages of collections:
+
+A. Dynamic size
+B. Ready-made APIs
+C. Performance
+D. All
+
+Ans: D
+
+Q8. Legacy classes include:
+
+A. ArrayList
+B. Vector
+C. HashSet
+D. HashMap
+
+Ans: B
+
+Q9. Collections allow:
+
+A. Homogeneous objects only
+B. Heterogeneous objects
+C. Primitive storage
+D. Static size
+
+Ans: B
+
+Q10. Collections are:
+
+A. Fixed size
+B. Dynamic size
+C. Compile-time
+D. JVM dependent
+
+Ans: B
+
+Q11. Collections framework provides:
+
+A. Interfaces
+B. Classes
+C. Algorithms
+D. All
+
+Ans: D
+
+Q12. Collections framework improves:
+
+A. Code reuse
+B. Maintainability
+C. Performance
+D. All
+
+Ans: D
+
+Q13. Collection interface extends:
+
+A. Object
+B. Iterable
+C. Map
+D. List
+
+Ans: B
+
+Q14. Iterable introduced in:
+
+A. Java 1.4
+B. Java 1.5
+C. Java 1.6
+D. Java 1.7
+
+Ans: B
+
+Q15. Iterator used for:
+
+A. Sorting
+B. Traversing
+C. Storing
+D. Searching
+
+Ans: B
+
+Q16. Collections can grow at:
+
+A. Compile time
+B. Runtime
+C. Load time
+D. Link time
+
+Ans: B
+
+Q17. Which is not collection interface?
+
+A. List
+B. Set
+C. Queue
+D. Map
+
+Ans: D
+
+Q18. Collections can contain:
+
+A. Duplicate elements
+B. Unique elements only
+C. JVM
+D. OS
+
+Ans: A
+
+Q19. Collections allow null?
+
+A. Yes
+B. No
+C. Depends on implementation
+D. JVM dependent
+
+Ans: C
+
+Q20. Collections framework is part of:
+
+A. JVM
+B. JRE
+C. JDK
+D. OS
+
+Ans: C
+
+Q21. Collection vs Collections:
+
+A. Same
+B. Both classes
+C. Interface vs utility class
+D. Both interfaces
+
+Ans: C
+
+Q22. Collections utility class provides:
+
+A. Storage
+B. Algorithms
+C. JVM access
+D. Threading
+
+Ans: B
+
+Q23. Collections are type-safe using:
+
+A. Arrays
+B. Generics
+C. Casting
+D. Wrapper
+
+Ans: B
+
+Q24. Collection framework is checked at:
+
+A. Runtime
+B. Compile time
+C. Load time
+D. JVM only
+
+Ans: B
+
+Q25. Collection elements are stored in:
+
+A. Stack
+B. Heap
+C. Method area
+D. PC register
+
+Ans: B
+
+Q26. Which supports random access?
+
+A. Set
+B. List
+C. Queue
+D. Map
+
+Ans: B
+
+Q27. Collection framework supports:
+
+A. Polymorphism
+B. Interfaces
+C. OOPS
+D. All
+
+Ans: D
+
+Q28. Collection interface is:
+
+A. Class
+B. Abstract class
+C. Interface
+D. Enum
+
+Ans: C
+
+Q29. Collections framework reduces:
+
+A. Coding effort
+B. Bugs
+C. Development time
+D. All
+
+Ans: D
+
+Q30. Collections framework is:
+
+A. Optional
+B. Mandatory
+C. Core Java
+D. Advanced Java
+
+Ans: C
+
+📘 TOPIC 44: LIST INTERFACE (ArrayList, LinkedList, Vector) (30 MCQs)
+Q1. List allows:
+
+A. No duplicates
+B. Duplicates
+C. No order
+D. Key-value
+
+Ans: B
+
+Q2. List maintains:
+
+A. Random order
+B. Sorted order
+C. Insertion order
+D. Hash order
+
+Ans: C
+
+Q3. ArrayList is backed by:
+
+A. Array
+B. Linked list
+C. Tree
+D. Hash table
+
+Ans: A
+
+Q4. ArrayList access time is:
+
+A. Slow
+B. Fast
+C. Medium
+D. JVM dependent
+
+Ans: B
+
+Q5. LinkedList insertion is:
+
+A. Slow
+B. Fast
+C. Same
+D. JVM dependent
+
+Ans: B
+
+Q6. LinkedList is based on:
+
+A. Array
+B. Singly linked list
+C. Doubly linked list
+D. Tree
+
+Ans: C
+
+Q7. Vector is:
+
+A. Non-synchronized
+B. Synchronized
+C. Immutable
+D. Deprecated
+
+Ans: B
+
+Q8. Vector is thread-safe?
+
+A. Yes
+B. No
+C. Optional
+D. JVM dependent
+
+Ans: A
+
+Q9. ArrayList is thread-safe?
+
+A. Yes
+B. No
+C. Optional
+D. JVM dependent
+
+Ans: B
+
+Q10. Which allows null?
+
+A. ArrayList
+B. LinkedList
+C. Vector
+D. All
+
+Ans: D
+
+Q11. RandomAccess marker interface is implemented by:
+
+A. LinkedList
+B. ArrayList
+C. Stack
+D. Queue
+
+Ans: B
+
+Q12. ArrayList default capacity:
+
+A. 5
+B. 8
+C. 10
+D. 16
+
+Ans: C
+
+Q13. LinkedList memory usage is:
+
+A. Less
+B. More
+C. Same
+D. Zero
+
+Ans: B
+
+Q14. Which is legacy?
+
+A. ArrayList
+B. LinkedList
+C. Vector
+D. List
+
+Ans: C
+
+Q15. Stack extends:
+
+A. Vector
+B. ArrayList
+C. List
+D. Deque
+
+Ans: A
+
+Q16. Which supports index-based access?
+
+A. Set
+B. List
+C. Map
+D. Queue
+
+Ans: B
+
+Q17. Which is fastest for search?
+
+A. LinkedList
+B. ArrayList
+C. Vector
+D. Stack
+
+Ans: B
+
+Q18. Which is fastest for insertion in middle?
+
+A. ArrayList
+B. LinkedList
+C. Vector
+D. Stack
+
+Ans: B
+
+Q19. Vector is slower because:
+
+A. Array
+B. Synchronization
+C. JVM
+D. GC
+
+Ans: B
+
+Q20. ListIterator can traverse:
+
+A. Forward only
+B. Backward only
+C. Both directions
+D. Random
+
+Ans: C
+
+Q21. Fail-fast iterator example:
+
+A. Vector
+B. ArrayList
+C. Hashtable
+D. Stack
+
+Ans: B
+
+Q22. Fail-safe iterator example:
+
+A. ArrayList
+B. HashMap
+C. CopyOnWriteArrayList
+D. LinkedList
+
+Ans: C
+
+Q23. List allows:
+
+A. One null
+B. Multiple nulls
+C. No null
+D. JVM dependent
+
+Ans: B
+
+Q24. Which is preferred in single-thread?
+
+A. Vector
+B. ArrayList
+C. Stack
+D. Hashtable
+
+Ans: B
+
+Q25. Which is preferred in multi-thread?
+
+A. ArrayList
+B. LinkedList
+C. Vector
+D. Set
+
+Ans: C
+
+Q26. remove(int index) belongs to:
+
+A. Collection
+B. List
+C. Set
+D. Map
+
+Ans: B
+
+Q27. List is ordered?
+
+A. Yes
+B. No
+C. Optional
+D. JVM dependent
+
+Ans: A
+
+Q28. List allows duplicates because:
+
+A. Index based
+B. Hash based
+C. Tree based
+D. JVM
+
+Ans: A
+
+Q29. ArrayList resizing increases by:
+
+A. 50%
+B. 100%
+C. 25%
+D. Fixed
+
+Ans: A
+
+Q30. List is part of:
+
+A. java.lang
+B. java.util
+C. java.io
+D. java.sql
+
+Ans: B
+
+📘 TOPIC 45: SET INTERFACE (HashSet, LinkedHashSet, TreeSet) (30 MCQs)
+Q1. Set allows:
+
+A. Duplicates
+B. No duplicates
+C. Index access
+D. Key-value
+
+Ans: B
+
+Q2. HashSet is backed by:
+
+A. Array
+B. Linked list
+C. Hash table
+D. Tree
+
+Ans: C
+
+Q3. HashSet order is:
+
+A. Insertion
+B. Sorted
+C. Random
+D. Index
+
+Ans: C
+
+Q4. LinkedHashSet maintains:
+
+A. Sorted order
+B. Random order
+C. Insertion order
+D. Hash order
+
+Ans: C
+
+Q5. TreeSet maintains:
+
+A. Insertion order
+B. Random order
+C. Sorted order
+D. Hash order
+
+Ans: C
+
+Q6. TreeSet sorting is based on:
+
+A. equals()
+B. hashCode()
+C. compareTo() / Comparator
+D. JVM
+
+Ans: C
+
+Q7. HashSet allows null?
+
+A. Yes, one
+B. Yes, many
+C. No
+D. JVM dependent
+
+Ans: A
+
+Q8. TreeSet allows null?
+
+A. Yes
+B. No
+C. Optional
+D. JVM dependent
+
+Ans: B
+
+Q9. LinkedHashSet allows null?
+
+A. Yes
+B. No
+C. Optional
+D. JVM dependent
+
+Ans: A
+
+Q10. HashSet performance depends on:
+
+A. equals()
+B. hashCode()
+C. Both
+D. JVM
+
+Ans: C
+
+Q11. TreeSet is slower because:
+
+A. Sorting
+B. Hashing
+C. JVM
+D. GC
+
+Ans: A
+
+Q12. Set is used when:
+
+A. Order matters
+B. Duplicates allowed
+C. Uniqueness required
+D. Index needed
+
+Ans: C
+
+Q13. Which is fastest?
+
+A. HashSet
+B. LinkedHashSet
+C. TreeSet
+D. All same
+
+Ans: A
+
+Q14. TreeSet uses:
+
+A. Red-Black Tree
+B. Binary Tree
+C. AVL Tree
+D. Heap
+
+Ans: A
+
+Q15. Set does not support:
+
+A. add()
+B. remove()
+C. get(index)
+D. iterator()
+
+Ans: C
+
+Q16. Set is part of:
+
+A. java.lang
+B. java.util
+C. java.io
+D. java.sql
+
+Ans: B
+
+Q17. Which is fail-fast?
+
+A. HashSet
+B. Hashtable
+C. Vector
+D. Stack
+
+Ans: A
+
+Q18. Which supports custom sorting?
+
+A. HashSet
+B. LinkedHashSet
+C. TreeSet
+D. All
+
+Ans: C
+
+Q19. Comparator belongs to:
+
+A. java.lang
+B. java.util
+C. java.io
+D. java.sql
+
+Ans: B
+
+Q20. compareTo() belongs to:
+
+A. Comparator
+B. Comparable
+C. Object
+D. Set
+
+Ans: B
+
+Q21. TreeSet requires elements to be:
+
+A. Serializable
+B. Comparable
+C. Cloneable
+D. Runnable
+
+Ans: B
+
+Q22. HashSet internal structure is:
+
+A. Map
+B. List
+C. Set
+D. Queue
+
+Ans: A
+
+Q23. LinkedHashSet is combination of:
+
+A. HashSet + List
+B. HashSet + LinkedList
+C. Set + Queue
+D. Tree + Hash
+
+Ans: B
+
+Q24. Set interface extends:
+
+A. Collection
+B. List
+C. Map
+D. Iterable
+
+Ans: A
+
+Q25. Set enforces uniqueness using:
+
+A. equals()
+B. hashCode()
+C. Both
+D. JVM
+
+Ans: C
+
+Q26. TreeSet null handling after Java 7:
+
+A. Allowed
+B. Not allowed
+C. Optional
+D. JVM dependent
+
+Ans: B
+
+Q27. Set does not preserve:
+
+A. Order
+B. Uniqueness
+C. Integrity
+D. JVM
+
+Ans: A
+
+Q28. Which allows only one null?
+
+A. HashSet
+B. TreeSet
+C. LinkedHashSet
+D. A and C
+
+Ans: D
+
+Q29. Set is best for:
+
+A. Index-based access
+B. Searching duplicates
+C. Unique elements
+D. Sorting only
+
+Ans: C
+
+Q30. Set interface is:
+
+A. Class
+B. Interface
+C. Abstract class
+D. Enum
+
+Ans: B
+
+📘 TOPIC 46: MAP INTERFACE (HashMap, LinkedHashMap, TreeMap, Hashtable) (30 MCQs)
+Q1. Map stores data as:
+
+A. Objects
+B. Index-value
+C. Key-value
+D. List
+
+Ans: C
+
+Q2. Map does not allow:
+
+A. Duplicate keys
+B. Duplicate values
+C. Null values
+D. Objects
+
+Ans: A
+
+Q3. HashMap allows null:
+
+A. One key & multiple values
+B. One key only
+C. No null
+D. JVM dependent
+
+Ans: A
+
+Q4. Hashtable allows null?
+
+A. Yes
+B. No
+C. Optional
+D. JVM dependent
+
+Ans: B
+
+Q5. LinkedHashMap maintains:
+
+A. Sorted order
+B. Random order
+C. Insertion order
+D. Hash order
+
+Ans: C
+
+Q6. TreeMap maintains:
+
+A. Insertion order
+B. Random order
+C. Sorted order
+D. JVM order
+
+Ans: C
+
+Q7. TreeMap sorting based on:
+
+A. Values
+B. Keys
+C. Hash
+D. Index
+
+Ans: B
+
+Q8. HashMap is:
+
+A. Synchronized
+B. Non-synchronized
+C. Immutable
+D. Deprecated
+
+Ans: B
+
+Q9. Hashtable is:
+
+A. Non-thread-safe
+B. Thread-safe
+C. Immutable
+D. Deprecated
+
+Ans: B
+
+Q10. HashMap performance depends on:
+
+A. equals()
+B. hashCode()
+C. Both
+D. JVM
+
+Ans: C
+
+Q11. TreeMap does not allow null keys because:
+
+A. Sorting
+B. Hashing
+C. JVM
+D. GC
+
+Ans: A
+
+Q12. Map is not part of:
+
+A. Collections
+B. Collection
+C. Framework
+D. java.util
+
+Ans: B
+
+Q13. Map traversal methods:
+
+A. keySet()
+B. values()
+C. entrySet()
+D. All
+
+Ans: D
+
+Q14. Entry is:
+
+A. Key only
+B. Value only
+C. Key-value pair
+D. Object
+
+Ans: C
+
+Q15. ConcurrentHashMap is:
+
+A. Legacy
+B. Thread-safe
+C. Non-thread-safe
+D. Deprecated
+
+Ans: B
+
+Q16. Fail-fast Map:
+
+A. HashMap
+B. Hashtable
+C. ConcurrentHashMap
+D. TreeMap
+
+Ans: A
+
+Q17. Fail-safe Map:
+
+A. HashMap
+B. Hashtable
+C. ConcurrentHashMap
+D. TreeMap
+
+Ans: C
+
+Q18. HashMap default capacity:
+
+A. 8
+B. 10
+C. 16
+D. 32
+
+Ans: C
+
+Q19. Load factor default:
+
+A. 0.5
+B. 0.75
+C. 1.0
+D. 2.0
+
+Ans: B
+
+Q20. Hash collision resolved using:
+
+A. Chaining
+B. Probing
+C. Sorting
+D. JVM
+
+Ans: A
+
+Q21. HashMap after Java 8 uses:
+
+A. Linked list only
+B. Tree structure
+C. Array only
+D. Queue
+
+Ans: B
+
+Q22. Map keys must be:
+
+A. Unique
+B. Sorted
+C. Comparable
+D. Serializable
+
+Ans: A
+
+Q23. TreeMap keys must be:
+
+A. Comparable
+B. Serializable
+C. Cloneable
+D. Runnable
+
+Ans: A
+
+Q24. Which is legacy?
+
+A. HashMap
+B. TreeMap
+C. Hashtable
+D. LinkedHashMap
+
+Ans: C
+
+Q25. Map does not support:
+
+A. add()
+B. put()
+C. get()
+D. remove()
+
+Ans: A
+
+Q26. Map supports null values?
+
+A. Always
+B. Never
+C. Depends on implementation
+D. JVM dependent
+
+Ans: C
+
+Q27. Map is best for:
+
+A. Searching
+B. Key-based access
+C. Index-based access
+D. Sorting only
+
+Ans: B
+
+Q28. HashMap is faster than Hashtable because:
+
+A. No synchronization
+B. JVM
+C. GC
+D. Memory
+
+Ans: A
+
+Q29. TreeMap complexity is:
+
+A. O(1)
+B. O(n)
+C. O(log n)
+D. O(n²)
+
+Ans: C
+
+Q30. Map interface belongs to:
+
+A. java.lang
+B. java.util
+C. java.io
+D. java.sql
+
+Ans: B
+
+📘 TOPIC 47: ITERATORS & CURSORS (30 MCQs)
+Q1. Cursor is used to:
+
+A. Store data
+B. Traverse collection
+C. Sort collection
+D. Modify JVM
+
+Ans: B
+
+Q2. Cursors in Java:
+
+A. Iterator
+B. ListIterator
+C. Enumeration
+D. All
+
+Ans: D
+
+Q3. Iterator is:
+
+A. Legacy
+B. New
+C. Deprecated
+D. JVM dependent
+
+Ans: B
+
+Q4. Enumeration is:
+
+A. Fail-fast
+B. Fail-safe
+C. Legacy
+D. Modern
+
+Ans: C
+
+Q5. Iterator methods:
+
+A. hasNext()
+B. next()
+C. remove()
+D. All
+
+Ans: D
+
+Q6. Iterator allows removal?
+
+A. Yes
+B. No
+C. Optional
+D. JVM dependent
+
+Ans: A
+
+Q7. ListIterator supports:
+
+A. Forward traversal
+B. Backward traversal
+C. Modification
+D. All
+
+Ans: D
+
+Q8. ListIterator applicable to:
+
+A. Set
+B. List
+C. Map
+D. Queue
+
+Ans: B
+
+Q9. Enumeration methods:
+
+A. hasMoreElements()
+B. nextElement()
+C. remove()
+D. A and B
+
+Ans: D
+
+Q10. Enumeration is fail-fast?
+
+A. Yes
+B. No
+C. Optional
+D. JVM dependent
+
+Ans: B
+
+Q11. Fail-fast means:
+
+A. Exception thrown immediately
+B. Safe traversal
+C. JVM crash
+D. OS stop
+
+Ans: A
+
+Q12. Fail-safe works on:
+
+A. Original collection
+B. Copy of collection
+C. JVM
+D. OS
+
+Ans: B
+
+Q13. Which is fail-fast?
+
+A. Iterator
+B. Enumeration
+C. Concurrent iterator
+D. None
+
+Ans: A
+
+Q14. ConcurrentModificationException occurs when:
+
+A. Structural modification
+B. JVM error
+C. GC
+D. Thread stop
+
+Ans: A
+
+Q15. Which allows add() while iterating?
+
+A. Iterator
+B. Enumeration
+C. ListIterator
+D. None
+
+Ans: C
+
+Q16. Iterator introduced in:
+
+A. Java 1.1
+B. Java 1.2
+C. Java 1.3
+D. Java 1.4
+
+Ans: B
+
+Q17. ListIterator introduced in:
+
+A. Java 1.1
+B. Java 1.2
+C. Java 1.3
+D. Java 1.4
+
+Ans: B
+
+Q18. Enumeration introduced in:
+
+A. Java 1.0
+B. Java 1.1
+C. Java 1.2
+D. Java 1.3
+
+Ans: A
+
+Q19. remove() of iterator removes:
+
+A. Next element
+B. Current element
+C. Last returned element
+D. All
+
+Ans: C
+
+Q20. Iterator can traverse:
+
+A. Forward only
+B. Backward only
+C. Random
+D. Any
+
+Ans: A
+
+Q21. ListIterator index methods:
+
+A. nextIndex()
+B. previousIndex()
+C. Both
+D. None
+
+Ans: C
+
+Q22. Which cursor is bidirectional?
+
+A. Iterator
+B. Enumeration
+C. ListIterator
+D. None
+
+Ans: C
+
+Q23. Enumeration does not support:
+
+A. Traversal
+B. Removal
+C. Access
+D. JVM
+
+Ans: B
+
+Q24. Which is safest?
+
+A. Iterator
+B. Enumeration
+C. Fail-safe iterator
+D. ListIterator
+
+Ans: C
+
+Q25. Cursors are used at:
+
+A. Compile time
+B. Runtime
+C. Load time
+D. JVM only
+
+Ans: B
+
+Q26. Iterator belongs to:
+
+A. java.lang
+B. java.util
+C. java.io
+D. java.sql
+
+Ans: B
+
+Q27. Cursor supports:
+
+A. Polymorphism
+B. Interfaces
+C. OOPS
+D. All
+
+Ans: D
+
+Q28. Iterator works on:
+
+A. Arrays
+B. Collections
+C. Files
+D. Threads
+
+Ans: B
+
+Q29. ConcurrentModificationException is:
+
+A. Checked
+B. Unchecked
+C. Error
+D. Compile error
+
+Ans: B
+
+Q30. Cursor concept is part of:
+
+A. JVM
+B. JDK
+C. Java language
+D. OS
+
+Ans: C
+
+📘 TOPIC 48: GENERICS (30 MCQs)
+Q1. Generics introduced in:
+
+A. Java 1.4
+B. Java 1.5
+C. Java 1.6
+D. Java 1.7
+
+Ans: B
+
+Q2. Generics provide:
+
+A. Type safety
+B. Performance
+C. JVM optimization
+D. Memory
+
+Ans: A
+
+Q3. Without generics, collections are:
+
+A. Type-safe
+B. Not type-safe
+C. Immutable
+D. Deprecated
+
+Ans: B
+
+Q4. Generic class syntax:
+
+A. class Test()
+B. class Test<T>
+C. class Test[]
+D. class Test<?>
+
+Ans: B
+
+Q5. T represents:
+
+A. Type
+B. Template
+C. Test
+D. Token
+
+Ans: A
+
+Q6. Wildcard symbol:
+
+A. &
+B. ?
+C. *
+D. $
+
+Ans: B
+
+Q7. Upper bounded wildcard:
+
+A. <? super T> B. <? extends T> C. <? T> D. <T extends ?>
+
+Ans: B
+
+Q8. Lower bounded wildcard:
+
+A. <? extends T> B. <? super T> C. <? T> D. <T super ?>
+
+Ans: B
+
+Q9. Generics work at:
+
+A. Runtime
+B. Compile time
+C. Load time
+D. JVM only
+
+Ans: B
+
+Q10. Type erasure means:
+
+A. Types removed at runtime
+B. Types removed at compile time
+C. JVM deletes types
+D. GC deletes types
+
+Ans: A
+
+Q11. Generics cannot be used with:
+
+A. Classes
+B. Methods
+C. Primitives
+D. Interfaces
+
+Ans: C
+
+Q12. Generic methods defined using:
+
+A. <T> before return type
+B. After method name
+C. Inside method
+D. JVM
+
+Ans: A
+
+Q13. Generic constructor allowed?
+
+A. Yes
+B. No
+C. Optional
+D. JVM dependent
+
+Ans: A
+
+Q14. Generics improve:
+
+A. Readability
+B. Safety
+C. Maintainability
+D. All
+
+Ans: D
+
+Q15. Raw type means:
+
+A. Generic used without type
+B. No generic
+C. Primitive type
+D. JVM type
+
+Ans: A
+
+Q16. Generics prevent:
+
+A. Compile-time errors
+B. Runtime ClassCastException
+C. JVM crash
+D. GC
+
+Ans: B
+
+Q17. Diamond operator introduced in:
+
+A. Java 6
+B. Java 7
+C. Java 8
+D. Java 9
+
+Ans: B
+
+Q18. <?> means:
+
+A. Any type
+B. Object only
+C. Null
+D. Primitive
+
+Ans: A
+
+Q19. Generics are invariant?
+
+A. Yes
+B. No
+C. Optional
+D. JVM dependent
+
+Ans: A
+
+Q20. Generic interface example:
+
+A. Runnable
+B. Comparable<T>
+C. Serializable
+D. Cloneable
+
+Ans: B
+
+Q21. Generics belong to:
+
+A. JVM
+B. JDK
+C. Java language
+D. OS
+
+Ans: C
+
+Q22. Generics are checked by:
+
+A. JVM
+B. Compiler
+C. OS
+D. GC
+
+Ans: B
+
+Q23. Bounded types use:
+
+A. extends
+B. super
+C. implements
+D. new
+
+Ans: A
+
+Q24. Generics improve collection framework by:
+
+A. Type safety
+B. Performance
+C. Sorting
+D. Thread safety
+
+Ans: A
+
+Q25. Generic array creation allowed?
+
+A. Yes
+B. No
+C. Optional
+D. JVM dependent
+
+Ans: B
+
+Q26. Generics support polymorphism?
+
+A. Yes
+B. No
+C. Optional
+D. JVM dependent
+
+Ans: A
+
+Q27. Generic bounds can be:
+
+A. Class
+B. Interface
+C. Both
+D. None
+
+Ans: C
+
+Q28. Multiple bounds use:
+
+A. ,
+B. &
+C. |
+D. &&
+
+Ans: B
+
+Q29. Generics reduce:
+
+A. Casting
+B. Bugs
+C. Code size
+D. All
+
+Ans: D
+
+Q30. Generics are part of:
+
+A. Core Java
+B. Advanced Java
+C. JVM
+D. OS
+
+Ans: A
+
+📘 TOPIC 49: FILE I/O & STREAMS (30 MCQs)
+Q1. Java I/O package:
+
+A. java.lang
+B. java.util
+C. java.io
+D. java.nio
+
+Ans: C
+
+Q2. Stream represents:
+
+A. Data flow
+B. File
+C. Thread
+D. JVM
+
+Ans: A
+
+Q3. Two types of streams:
+
+A. Input & Output
+B. Byte & Character
+C. File & Network
+D. All
+
+Ans: D
+
+Q4. Byte streams handle:
+
+A. Text only
+B. Binary data
+C. Characters
+D. Objects
+
+Ans: B
+
+Q5. Character streams handle:
+
+A. Binary data
+B. Text data
+C. Objects
+D. Threads
+
+Ans: B
+
+Q6. Root class of byte streams:
+
+A. Reader
+B. Writer
+C. InputStream
+D. OutputStream
+
+Ans: C
+
+Q7. Root class of character streams:
+
+A. InputStream
+B. OutputStream
+C. Reader
+D. Writer
+
+Ans: C
+
+Q8. File class belongs to:
+
+A. java.lang
+B. java.util
+C. java.io
+D. java.nio
+
+Ans: C
+
+Q9. FileInputStream reads:
+
+A. Characters
+B. Objects
+C. Bytes
+D. Lines
+
+Ans: C
+
+Q10. Buffered streams improve:
+
+A. Speed
+B. Security
+C. JVM
+D. GC
+
+Ans: A
+
+Q11. Serialization means:
+
+A. Object to file
+B. File to object
+C. Thread to file
+D. JVM
+
+Ans: A
+
+Q12. Serializable is:
+
+A. Class
+B. Interface
+C. Abstract class
+D. Enum
+
+Ans: B
+
+Q13. transient keyword prevents:
+
+A. Serialization
+B. Compilation
+C. Execution
+D. JVM
+
+Ans: A
+
+Q14. Deserialization means:
+
+A. Object to file
+B. File to object
+C. JVM to file
+D. GC
+
+Ans: B
+
+Q15. ObjectOutputStream is used for:
+
+A. Serialization
+B. Deserialization
+C. File creation
+D. JVM
+
+Ans: A
+
+Q16. ObjectInputStream is used for:
+
+A. Serialization
+B. Deserialization
+C. Threading
+D. GC
+
+Ans: B
+
+Q17. FileNotFoundException is:
+
+A. Checked
+B. Unchecked
+C. Error
+D. Runtime
+
+Ans: A
+
+Q18. try-with-resources is useful for:
+
+A. Closing streams
+B. Performance
+C. JVM
+D. GC
+
+Ans: A
+
+Q19. PrintWriter is used for:
+
+A. Binary output
+B. Character output
+C. Object output
+D. JVM
+
+Ans: B
+
+Q20. FileReader reads:
+
+A. Bytes
+B. Characters
+C. Objects
+D. Threads
+
+Ans: B
+
+Q21. FileWriter writes:
+
+A. Bytes
+B. Characters
+C. Objects
+D. Threads
+
+Ans: B
+
+Q22. I/O streams are:
+
+A. One-directional
+B. Two-directional
+C. Multi-directional
+D. JVM dependent
+
+Ans: A
+
+Q23. DataOutputStream writes:
+
+A. Objects
+B. Primitive data
+C. Characters
+D. Threads
+
+Ans: B
+
+Q24. DataInputStream reads:
+
+A. Objects
+B. Primitive data
+C. Characters
+D. Files
+
+Ans: B
+
+Q25. I/O operations are:
+
+A. Fast
+B. Slow
+C. JVM dependent
+D. GC dependent
+
+Ans: B
+
+Q26. java.nio introduced in:
+
+A. Java 1.2
+B. Java 1.3
+C. Java 1.4
+D. Java 1.5
+
+Ans: C
+
+Q27. File separator is:
+
+A. /
+B. \
+C. OS dependent
+D. JVM dependent
+
+Ans: C
+
+Q28. Serialization UID is:
+
+A. serialVersionUID
+B. objectUID
+C. classUID
+D. JVMUID
+
+Ans: A
+
+Q29. Externalizable provides:
+
+A. Default serialization
+B. Custom serialization
+C. No serialization
+D. JVM serialization
+
+Ans: B
+
+Q30. File I/O is part of:
+
+A. Core Java
+B. Advanced Java
+C. JVM
+D. OS
+
+Ans: A
+
+📘 TOPIC 50: JDBC (30 MCQs)
+Q1. JDBC stands for:
+
+A. Java Data Base Connectivity
+B. Java Database Connection
+C. Java DB Connector
+D. Java Driver Connection
+
+Ans: A
+
+Q2. JDBC is used to:
+
+A. Connect Java with DB
+B. Create UI
+C. Threading
+D. File handling
+
+Ans: A
+
+Q3. JDBC package:
+
+A. java.util
+B. java.sql
+C. java.io
+D. javax.sql
+
+Ans: B
+
+Q4. Steps in JDBC:
+
+A. 3
+B. 4
+C. 5
+D. 6
+
+Ans: C
+
+Q5. DriverManager is used to:
+
+A. Load driver
+B. Create connection
+C. Execute query
+D. Close DB
+
+Ans: B
+
+Q6. Connection object is used to:
+
+A. Execute query
+B. Manage DB session
+C. Load driver
+D. Compile SQL
+
+Ans: B
+
+Q7. Statement object is used to:
+
+A. Create connection
+B. Execute SQL
+C. Load driver
+D. Close DB
+
+Ans: B
+
+Q8. ResultSet represents:
+
+A. Query
+B. Table
+C. Data returned
+D. Connection
+
+Ans: C
+
+Q9. executeQuery() used for:
+
+A. INSERT
+B. UPDATE
+C. SELECT
+D. DELETE
+
+Ans: C
+
+Q10. executeUpdate() returns:
+
+A. ResultSet
+B. boolean
+C. int
+D. void
+
+Ans: C
+
+Q11. PreparedStatement improves:
+
+A. Performance
+B. Security
+C. Reusability
+D. All
+
+Ans: D
+
+Q12. SQL Injection prevented by:
+
+A. Statement
+B. PreparedStatement
+C. ResultSet
+D. Driver
+
+Ans: B
+
+Q13. CallableStatement is used for:
+
+A. Queries
+B. Stored procedures
+C. Triggers
+D. Views
+
+Ans: B
+
+Q14. JDBC drivers types:
+
+A. 2
+B. 3
+C. 4
+D. 5
+
+Ans: C
+
+Q15. Type 4 driver is:
+
+A. Native
+B. ODBC
+C. Thin driver
+D. Bridge
+
+Ans: C
+
+Q16. ResultSet default type:
+
+A. Scrollable
+B. Forward only
+C. Read-only
+D. Updatable
+
+Ans: B
+
+Q17. JDBC is:
+
+A. Platform dependent
+B. Platform independent
+C. OS dependent
+D. DB dependent
+
+Ans: B
+
+Q18. Auto-commit default:
+
+A. true
+B. false
+C. JVM dependent
+D. DB dependent
+
+Ans: A
+
+Q19. commit() is used for:
+
+A. Rollback
+B. Save transaction
+C. Close DB
+D. JVM
+
+Ans: B
+
+Q20. rollback() is used for:
+
+A. Save changes
+B. Undo changes
+C. Close DB
+D. JVM
+
+Ans: B
+
+Q21. SQLException is:
+
+A. Checked
+B. Unchecked
+C. Error
+D. Runtime
+
+Ans: A
+
+Q22. Batch processing improves:
+
+A. Performance
+B. Security
+C. JVM
+D. GC
+
+Ans: A
+
+Q23. ResultSet cursor initially:
+
+A. First row
+B. Last row
+C. Before first row
+D. After last row
+
+Ans: C
+
+Q24. JDBC API belongs to:
+
+A. JVM
+B. JRE
+C. JDK
+D. OS
+
+Ans: C
+
+Q25. Driver loading using:
+
+A. Class.forName()
+B. new Driver()
+C. DriverManager only
+D. JVM
+
+Ans: A
+
+Q26. Connection pooling improves:
+
+A. Performance
+B. Memory
+C. Security
+D. GC
+
+Ans: A
+
+Q27. JDBC is part of:
+
+A. Core Java
+B. Advanced Java
+C. JVM
+D. OS
+
+Ans: B
+
+Q28. ResultSet navigation uses:
+
+A. next()
+B. previous()
+C. first()
+D. All
+
+Ans: D
+
+Q29. PreparedStatement is:
+
+A. Precompiled
+B. Dynamic
+C. Interpreted
+D. JVM
+
+Ans: A
+
+Q30. JDBC is checked at:
+
+A. Runtime
+B. Compile time
+C. Load time
+D. JVM only
+
+Ans: A
